@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/example/</loc>
-<lastmod>2020-02-16T03:57:13+09:00</lastmod>
+<lastmod>2020-02-16T04:08:35+09:00</lastmod>
 </url>
 <url>
 <loc>/</loc>
@@ -17,7 +17,11 @@
 <loc>/publications/</loc>
 </url>
 <url>
+<loc>/assets/papers/COP18%20A%20Context-Oriented%20Programming%20Approach%20to%20Depndency%20Hell%20(Revised).pdf</loc>
+<lastmod>2020-01-08T16:54:24+09:00</lastmod>
+</url>
+<url>
 <loc>/assets/Resume.pdf</loc>
-<lastmod>2020-02-16T03:57:13+09:00</lastmod>
+<lastmod>2020-02-16T04:08:35+09:00</lastmod>
 </url>
 </urlset>
