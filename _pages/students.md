@@ -17,7 +17,7 @@ If you find that our research areas align with your interests, please refer to [
 - I am currently mentoring 
   - one all but dissertation doctoral student,
   - three graduate students, and 
-  - two undergraduate students
+  - three undergraduate students
 
 and working on their thesis projects regarding <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>.
 
@@ -30,4 +30,5 @@ For more information about our ongoing projects, please visit our ["Projects"](h
 
 #### Graduated BSc Students
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Tokyo Institute of Technology. 2024. Co-supervised with Hidehiko Masuhara.<br>
-  <a href="https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a>.
+  Thesis: <a href="https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a>.<br>
+  APLAS2024 SRC: <a href="https://conf.researchr.org/details/aplas-2024/src-and-posters%3F/7/-SRC-Vython-a-Language-with-Dynamic-Version-Checking-for-Gradual-Updating">Vython: a Language with Dynamic Version Checking for Gradual Updating</a>.~(<i><a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">Audience Award</a></i>)
