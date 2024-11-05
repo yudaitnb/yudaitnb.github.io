@@ -16,9 +16,9 @@ If you find that our research areas align with your interests, please refer to [
 
 - I am currently mentoring 
   - one all but dissertation doctoral student,
-  <!-- Over: Luthfan -->
-  - four graduate students, and 
-  <!-- M2: Kiuchi, M1:Kasuya, Peien, Suda -->
+  <!-- D4: Luthfan -->
+  - five graduate students, and 
+  <!-- M3: Yoshimura, M2: Kiuchi, M1:Kasuya, Peien, Suda -->
   - three undergraduate students
   <!-- B4: Inaba, Yoshio, Hayashi -->
 
