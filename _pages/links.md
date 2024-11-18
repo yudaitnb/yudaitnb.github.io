@@ -27,11 +27,11 @@ I was previously a postdoctoral researcher of
 
 #### 2025
 - [PPL 2025](https://jssst-ppl.org/workshop/2025/) in Aichi, Japan (March 2025)
+- Host PL Joint Seminar at Institute of Science Tokyo in Tokyo, Japan (February 2024)
 - Half-day visit to [Sekiyama lab (NII)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) for PL Joint Seminar in Tokyo, Japan (January 2025)
 
 #### 2024
-- Host PL Joint Seminar at Institute of Science Tokyo in Tokyo, Japan (December 2024)
-- Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for PL Joint Seminar in Tokyo, Japan (November 2024)
+- Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for PL Joint Seminar in Tokyo, Japan (December 2024)
 - [PRO 2024-3](https://sigpro.ipsj.or.jp/pro2024-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2024)
 - Half-day visit to [Programming Lang. (Yasugi-Emoto) lab (Kyutech)](https://www.pl.ai.kyutech.ac.jp/) in Fukuoka, Japan (November 2024)
 - Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for PL Joint Seminar in Tokyo, Japan (November 2024)
