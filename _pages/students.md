@@ -16,6 +16,8 @@ If you find that our research areas align with your interests, please refer to [
 I am not formally authorized to supervise students.
 If you wish to conduct research with me, please contact the two organizers (Hidehiko and Youyou) mentioned above.
 
+- [👉What is 助教 (jokyo, assistant professor in Japan)](https://kensakayori.github.io/blog/posts/2023-04-03.html)
+
 ## Current Students
 
 - I am currently mentoring 
