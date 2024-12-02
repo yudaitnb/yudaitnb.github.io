@@ -18,7 +18,7 @@ If you wish to conduct research with me, please contact the two organizers (Hide
 
 [👉What is 助教 (jokyo, assistant professor in Japan)](https://kensakayori.github.io/blog/posts/2023-04-03.html)
 
-## Current Students
+# Current Students
 
 I am currently mentoring 
 - **one** all but dissertation doctoral student,
@@ -32,24 +32,24 @@ and working on their thesis projects regarding <b><i>language design</i></b>, <b
 
 For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
 
-### Student Work
-#### Instute of Science Tokyo <span style="font-size:0.8em">(formerly Tokyo Institute of Technology)</span>
+## Student Work
+### Instute of Science Tokyo <span style="font-size:0.8em">(formerly Tokyo Institute of Technology)</span>
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.<br>
   - IPSJ PRO/PRO 2024-4: <a href="https://sigpro.ipsj.or.jp/pro2024-4/">Vython: a Language with Dynamic Version Checking for Gradual Updating</a>.
 
-#### Tokyo Institute of Technology
+### Tokyo Institute of Technology
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.<br>
   - APLAS'24 SRC: <a href="https://conf.researchr.org/details/aplas-2024/src-and-posters%3F/7/-SRC-Vython-a-Language-with-Dynamic-Version-Checking-for-Gradual-Updating">Vython: a Language with Dynamic Version Checking for Gradual Updating</a>. (<i><a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">Awarded</a></i>)
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Taito Suda</a>. Co-supervised with Hidehiko Masuhara.<br>
   - PRO 2024-1: <a href="https://sigpro.ipsj.or.jp/pro2024-1/">TensorSafeのテンソル形状一致検査方式の有向非巡回グラフモデルへの応用</a>.
 
-## Former Students
+# Former Students
 <!-- ### Graduated PhD Students -->
 
 <!-- ### Graduated MSc Students -->
 
-### Graduated BSc Students
+## Graduated BSc Students
 <!-- #### Instute of Science Tokyo -->
-#### Tokyo Institute of Technology
+### Tokyo Institute of Technology
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Tokyo Institute of Technology. 2024. Co-supervised with Hidehiko Masuhara.<br>
   - Bachelor thesis: <a href="https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a>.<br>
