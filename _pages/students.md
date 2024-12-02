@@ -20,13 +20,13 @@ If you wish to conduct research with me, please contact the two organizers (Hide
 
 ## Current Students
 
-- I am currently mentoring 
-  - **one** all but dissertation doctoral student,
-  <!-- D4: Luthfan -->
-  - **five** graduate students, and 
-  <!-- M3: Yoshimura, M2: Kiuchi, M1:Kasuya, Peien, Suda -->
-  - **three** undergraduate students
-  <!-- B4: Inaba, Yoshio, Hayashi -->
+I am currently mentoring 
+- **one** all but dissertation doctoral student,
+<!-- D4: Luthfan -->
+- **five** graduate students, and 
+<!-- M3: Yoshimura, M2: Kiuchi, M1:Kasuya, Peien, Suda -->
+- **three** undergraduate students
+<!-- B4: Inaba, Yoshio, Hayashi -->
 
 and working on their thesis projects regarding <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>.
 
