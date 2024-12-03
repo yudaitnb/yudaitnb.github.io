@@ -34,7 +34,7 @@ For more information about our ongoing projects, please visit our ["Projects"](h
 
 ### Institute of Science Tokyo <span style="font-size:0.8em">(formerly Tokyo Institute of Technology)</span>
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.<br>
-  - IPSJ PRO/PRO 2024-4: <a href="https://sigpro.ipsj.or.jp/pro2024-4/">Vython: a Language with Dynamic Version Checking for Gradual Updating</a>.
+  - IPSJ PRO/PRO 2024-4: <a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a>.
 
 ### Tokyo Institute of Technology
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.<br>
