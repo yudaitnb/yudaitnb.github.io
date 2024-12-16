@@ -13,11 +13,12 @@ toc:
 #### at Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03" class="font-weight-bold">Forum on Computing</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432847&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">F3</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432849&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">F4</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432851&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">F5</a>), <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.<br>2024 3Q-4Q (October~)
 - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402404&Nendo=2024&vid=03&lang=EN" class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.<br>2024 3Q-4Q (October~)
-  - Research internship course I developed with Hidehiko for 3rd-year undergrad students, spanning 2 hours * 4 days.
-  - Students can choose the topic and engage in hands-on activities or seminar.
+  - Research internship course I developed with Hidehiko for 3rd-year undergrads
+  - 2 hours * 4 days
+  - Students can choose the topic and engage in hands-on activities or seminar
     - (A) GPGPU: <a href="https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf">CUDA by example</a> and <a href="https://github.com/prg-titech/student_nbody_c1">the DynaSOAr tutorial</a> with <a href="https://github.com/prg-titech/dynasoar">DynaSOAr</a>.
     - (B) PL Implementation: <a href="https://github.com/prg-titech/pypy-tutorial-jp">PyPy Tutorial</a> xor <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>.
-    - (C) Programming Environments: <a href="https://github.com/baku89/jssst40-tuts/tree/main">40th JSSST Tutorial</a> on live programming environments, followed by reading relevant papers.
+    - (C) Programming Environments: <a href="https://github.com/baku89/jssst40-tuts/tree/main">40th JSSST Tutorial</a> & Reading PL/HCI conference papers.
     - (D) Interactive Theorem Proving: <a href="https://softwarefoundations.cis.upenn.edu/">Software Foundations, Volume 1</a>.
     - (E) PL Theory: <a href="https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf">The Formal Semantics of Programming Languages<a> xor <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and Programming Languages (TaPL)</a>.
 
