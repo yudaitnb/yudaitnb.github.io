@@ -16,11 +16,11 @@ toc:
   - Research internship course I developed with Hidehiko for 3rd-year undergrads
   - 2 hours * 4 days
   - Students can choose the topic and engage in hands-on activities or seminar
-    - (A) GPGPU: <a href="https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf">CUDA by example</a> and <a href="https://github.com/prg-titech/student_nbody_c1">the DynaSOAr tutorial</a> with <a href="https://github.com/prg-titech/dynasoar">DynaSOAr</a>.
-    - (B) PL Implementation: <a href="https://github.com/prg-titech/pypy-tutorial-jp">PyPy Tutorial</a> xor <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>.
-    - (C) Programming Environments: <a href="https://github.com/baku89/jssst40-tuts/tree/main">40th JSSST Tutorial</a> & Reading PL/HCI conference papers.
+    - (A) GPGPU: <a href="https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf">CUDA by Example</a> and <a href="https://github.com/prg-titech/student_nbody_c1">DynaSOAr tutorial</a> with <a href="https://github.com/prg-titech/dynasoar">DynaSOAr</a>.
+    - (B) PL Implementation: <a href="https://github.com/prg-titech/pypy-tutorial-jp">The PyPy Tutorial</a> xor <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>.
+    - (C) Programming Environments: <a href="https://github.com/baku89/jssst40-tuts/tree/main">The 40th JSSST Tutorial</a> & Reading PL/HCI conference papers.
     - (D) Interactive Theorem Proving: <a href="https://softwarefoundations.cis.upenn.edu/">Software Foundations, Volume 1</a>.
-    - (E) PL Theory: <a href="https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf">The Formal Semantics of Programming Languages<a> xor <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and Programming Languages (TaPL)</a>.
+    - (E) PL Theory: <a href="https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf">Winskel<a> xor <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">TaPL</a>.
 
 #### at Tokyo Institute of Technology
 - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03" class="font-weight-bold">Forum on Computing</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S3</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432848&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S4</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432850&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S5</a>), <span style="font-style: italic;">Lecturer</span>. Tokyo Institute of Technology.<br>2024 1Q-2Q (April~)
