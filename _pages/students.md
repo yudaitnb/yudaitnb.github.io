@@ -12,6 +12,8 @@ toc:
 I co-lead [the PRG-group](http://prg.is.titech.ac.jp/) alongside [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/).
 If you find that our research areas align with your interests, please refer to ["How to Join the Group"](https://prg.is.titech.ac.jp/people/how-to-join/) for further details.
 
+I am also looking for students interested in type systems and program verification to collaborate with [Taro Sekiyama](https://skymountain.github.io/) at NII. If you are interested, please feel free to contact me.
+
 <b>Notice:</b> 
 I am not formally authorized to supervise students.
 If you wish to conduct research with me, please contact the two organizers (Hidehiko and Youyou) mentioned above.
