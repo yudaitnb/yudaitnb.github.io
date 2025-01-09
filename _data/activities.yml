@@ -42,6 +42,7 @@
   contents:
     - year: 2025
       items: 
+        - <a href="https://pldi25.sigplan.org/track/pldi-2025-pldi-research-artifacts">PLDI Research Artifacts</a> (Artifact Evaluation Committee)
         - <a href="https://2025.splashcon.org/track/splash-2025-oopsla-artifacts">OOPSLA Artifacts</a> (Artifact Evaluation Committee)
         - <a href="https://popl25.sigplan.org/track/POPL-2025-artifact-evaluation">POPL Artifact Evaluation</a> (Artifact Evaluation Committee)
         - <a href="https://2025.programming-conference.org/track/programming-2025-artifacts">‹Programming›</a> (Artifact Evaluation Committee)
