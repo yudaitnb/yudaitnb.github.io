@@ -27,9 +27,10 @@ I was previously a postdoctoral researcher of
 
 #### 2025
 - Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for PL Joint Seminar in Tokyo, Japan (April 2025)
+- [PRO 2024-5](https://sigpro.ipsj.or.jp/pro2024-5/) at The University of Tokyo in Tokyo, Japan (March 2025)
 - [PPL 2025](https://jssst-ppl.org/workshop/2025/) in Aichi, Japan (March 2025)
 - Host PL Joint Seminar at Institute of Science Tokyo in Tokyo, Japan (February 2025)
-- 2-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (February 2025)
+- 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (February 2025)
 - [PRO 2024-4](https://sigpro.ipsj.or.jp/pro2024-4/) in Akita, Japan (January 2025)
 - Half-day visit to [Shinya lab (Akita University)](http://www.math.akita-u.ac.jp/~ryoma/) in Akita, Japan (January 2025)
 
