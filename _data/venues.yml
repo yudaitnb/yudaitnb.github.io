@@ -22,6 +22,10 @@
   url: https://programming-journal.org/
   color: "#ff4b00"
 
+"IPSJ-PRO":
+  url: https://sigpro.ipsj.or.jp/sigtra4/
+  color: "#ff4b00"
+
 "APLAS":
   url: https://conf.researchr.org/series/APLAS
   color: "#005aff"
