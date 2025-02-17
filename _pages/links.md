@@ -26,14 +26,19 @@ I was previously a postdoctoral researcher of
 ## Visits
 
 #### 2025
+- Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for [The 4th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (April 2025)
+- [PRO 2024-5](https://sigpro.ipsj.or.jp/pro2024-5/) at The University of Tokyo in Tokyo, Japan (March 2025)
 - [PPL 2025](https://jssst-ppl.org/workshop/2025/) in Aichi, Japan (March 2025)
-- Half-day visit to [Sekiyama lab (NII)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) for PL Joint Seminar in Tokyo, Japan (January 2025)
+- Host [The 3rd PL Joint Seminar](https://skymountain.github.io/pl-seminar/) at Institute of Science Tokyo in Tokyo, Japan (February 2025)
+- 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (February 2025)
+- [PRO 2024-4](https://sigpro.ipsj.or.jp/pro2024-4/) in Akita, Japan (January 2025)
+- Half-day visit to [Shinya lab (Akita University)](http://www.math.akita-u.ac.jp/~ryoma/) in Akita, Japan (January 2025)
 
 #### 2024
-- Host PL Joint Seminar at Institute of Science Tokyo in Tokyo, Japan (December 2024)
-- Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for PL Joint Seminar in Tokyo, Japan (November 2024)
+- Half-day visit to [Sekiyama lab (NII)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) for [The 2nd PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
 - [PRO 2024-3](https://sigpro.ipsj.or.jp/pro2024-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2024)
-- Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for PL Joint Seminar in Tokyo, Japan (October 2024)
+- Half-day visit to [Programming Lang. (Yasugi-Emoto) lab (Kyutech)](https://www.pl.ai.kyutech.ac.jp/) in Fukuoka, Japan (November 2024)
+- Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for [The 1st PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (November 2024)
 - [APLAS 2024](https://conf.researchr.org/home/aplas-2024) in Kyoto, Japan (October 2024)
 - [JSSST 2024](https://jssst2024.wordpress.com/) in Osaka, Japan (September 2024)
 - 2-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (July 2024)
