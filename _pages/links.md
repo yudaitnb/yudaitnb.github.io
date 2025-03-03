@@ -26,6 +26,7 @@ I was previously a postdoctoral researcher of
 ## Visits
 
 #### 2025
+- Research Introduction at an Open Campus of Institute of Science Tokyo in Tokyo, Japan (August 2025)
 - Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for [The 4th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (April 2025)
 - [PRO 2024-5](https://sigpro.ipsj.or.jp/pro2024-5/) at The University of Tokyo in Tokyo, Japan (March 2025)
 - [PPL 2025](https://jssst-ppl.org/workshop/2025/) in Aichi, Japan (March 2025)
