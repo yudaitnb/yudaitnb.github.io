@@ -26,7 +26,6 @@ toc:
 - 2024
   - Lecture 1: <a href="https://github.com/prg-titech/pypy-tutorial-jp">The PyPy Tutorial</a>
   - Lecture 2: <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>
-  - Lecture 3: Was not held.
 - Materials
   - GPGPU: <a href="https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf">CUDA by Example</a> and <a href="https://github.com/prg-titech/student_nbody_c1">DynaSOAr tutorial</a> with <a href="https://github.com/prg-titech/dynasoar">DynaSOAr</a>.
   - PL Implementation: <a href="https://github.com/prg-titech/pypy-tutorial-jp">The PyPy Tutorial</a> xor <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>.
