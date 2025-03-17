@@ -11,16 +11,24 @@ toc:
 
 ## Lecture
 #### at Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
-- <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03" class="font-weight-bold">Forum on Computing</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432847&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">F3</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432849&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">F4</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432851&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">F5</a>), <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.<br>2024 3Q-4Q (October~)
-- <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402404&Nendo=2024&vid=03&lang=EN" class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.<br>2024 3Q-4Q (October~)
-  - A research internship course I developed with Hidehiko for 3rd-year undergraduates.
-  - Hands-on activities in GPGPU, PL implementation, programming experience design, interactive theorem prooving, and PL theory.
-  - Examples in 2024
-    - GPGPU: <a href="https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf">CUDA by Example</a> and <a href="https://github.com/prg-titech/student_nbody_c1">DynaSOAr tutorial</a> with <a href="https://github.com/prg-titech/dynasoar">DynaSOAr</a>.
-    - PL Implementation: <a href="https://github.com/prg-titech/pypy-tutorial-jp">The PyPy Tutorial</a> xor <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>.
-    - PX: <a href="https://github.com/baku89/jssst40-tuts/tree/main">The 40th JSSST Tutorial</a> & Reading PL/HCI conference papers.
-    - Interactive Theorem Proving: <a href="https://softwarefoundations.cis.upenn.edu/">Software Foundations, Volume 1</a>.
-    - PL Theory: <a href="https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf">Winskel<a> xor <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">TaPL</a>.
+- <a class="font-weight-bold">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502398&Nendo=2025&vid=03&lang=EN">2025 1Q (April~)</a>
+- <a class="font-weight-bold">Forum on Computing</a> (S3-S5 and F3-F5), <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532846&Nendo=2025&vid=03&lang=EN">2025 1Q-4Q</a>
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">2024 1Q-4Q</a>
+- <a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502404&Nendo=2025&vid=03&lang=EN">2025 3Q-4Q (October~)</a>
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402404&Nendo=2024&vid=03&lang=EN">2024 3Q-4Q (October~)</a>
+
+##### <a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>
+- A research internship course I developed with Hidehiko for 3rd-year undergraduates.
+- Hands-on activities in GPGPU, PL implementation, programming experience design, interactive theorem prooving, and PL theory.
+- Examples in 2024
+  - GPGPU: <a href="https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf">CUDA by Example</a> and <a href="https://github.com/prg-titech/student_nbody_c1">DynaSOAr tutorial</a> with <a href="https://github.com/prg-titech/dynasoar">DynaSOAr</a>.
+  - PL Implementation: <a href="https://github.com/prg-titech/pypy-tutorial-jp">The PyPy Tutorial</a> xor <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>.
+  - PX: <a href="https://github.com/baku89/jssst40-tuts/tree/main">The 40th JSSST Tutorial</a> & Reading PL/HCI conference papers.
+  - Interactive Theorem Proving: <a href="https://softwarefoundations.cis.upenn.edu/">Software Foundations, Volume 1</a>.
+  - PL Theory: <a href="https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf">Winskel<a> xor <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">TaPL</a>.
 
 #### at Tokyo Institute of Technology
 - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03" class="font-weight-bold">Forum on Computing</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S3</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432848&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S4</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432850&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S5</a>), <span style="font-style: italic;">Lecturer</span>. Tokyo Institute of Technology.<br>2024 1Q-2Q (April~)
