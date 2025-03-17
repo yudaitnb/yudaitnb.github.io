@@ -20,10 +20,14 @@ toc:
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502404&Nendo=2025&vid=03&lang=EN">2025 3Q-4Q (October~)</a>
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402404&Nendo=2024&vid=03&lang=EN">2024 3Q-4Q (October~)</a>
 
-##### <a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>
+<a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>
 - A research internship course I developed with Hidehiko for 3rd-year undergraduates.
 - Hands-on activities in GPGPU, PL implementation, programming experience design, interactive theorem prooving, and PL theory.
-- Examples in 2024
+- 2024
+  - Lecture 1: <a href="https://github.com/prg-titech/pypy-tutorial-jp">The PyPy Tutorial</a>
+  - Lecture 2: <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>
+  - Lecture 3: Was not held.
+- Materials
   - GPGPU: <a href="https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf">CUDA by Example</a> and <a href="https://github.com/prg-titech/student_nbody_c1">DynaSOAr tutorial</a> with <a href="https://github.com/prg-titech/dynasoar">DynaSOAr</a>.
   - PL Implementation: <a href="https://github.com/prg-titech/pypy-tutorial-jp">The PyPy Tutorial</a> xor <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>.
   - PX: <a href="https://github.com/baku89/jssst40-tuts/tree/main">The 40th JSSST Tutorial</a> & Reading PL/HCI conference papers.
