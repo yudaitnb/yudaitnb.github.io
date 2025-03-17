@@ -55,12 +55,14 @@
 - title: Organizing Committee
   type: time_table
   contents:
+    - year: 2024~
+      items: 
+        - <a href="https://skymountain.github.io/pl-seminar/">PL Joint Seminar (Founder, Organizer)</a> <span style="font-size:0.8em">(Co-founded by <a href="https://skymountain.github.io/">Taro Sekiyama</a> and <a href="https://takeshi-tsukada.github.io/">Takeshi Tsukada</a>)</span>
     - year: 2025
       items: 
         - <a href="https://jssst-ppl.org/workshop/2025/">PPL</a> (Treasurer)
     - year: 2024
       items: 
-        - PL Joint Seminar (Organizer) <span style="font-size:0.8em">(Co-organized with <a href="https://takeshi-tsukada.github.io/">Takeshi Tsukada</a>, <a href="https://researchmap.jp/t-sekiym?lang=en">Taro Sekiyama</a>, and <a href="https://kensakayori.github.io/">Ken Sakayori</a>)</span>
         - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Organizer) <span style="font-size:0.8em">(Co-organized with <a href="https://www.kurims.kyoto-u.ac.jp/~kmuroya/">Koko Muroya</a>)</span>
         - <a href="https://atva-conference.org/2024/">ATVA</a> (Poster Chair) <span style="font-size:0.8em">(Co-organized with <a href="https://www.kurims.kyoto-u.ac.jp/~kmuroya/">Koko Muroya</a>)</span>
     - year: 2023
