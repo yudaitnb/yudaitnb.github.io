@@ -13,9 +13,9 @@ toc:
 #### at Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 - <a class="font-weight-bold">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502398&Nendo=2025&vid=03&lang=EN">2025 1Q (April~)</a>
-- <a class="font-weight-bold">Forum on Computing</a> (S3-S5 and F3-F5), <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
+- <a class="font-weight-bold">Forum on Computing</a> (S3-S5, F3-F5), <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532846&Nendo=2025&vid=03&lang=EN">2025 1Q-4Q</a>
-  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">2024 1Q-4Q</a>
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202432847&Nendo=2024&vid=03&lang=EN">2024 3Q-4Q (F3-F5)</a>
 - <a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502404&Nendo=2025&vid=03&lang=EN">2025 3Q-4Q (October~)</a>
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402404&Nendo=2024&vid=03&lang=EN">2024 3Q-4Q (October~)</a>
