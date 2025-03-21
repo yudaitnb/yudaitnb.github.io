@@ -9,7 +9,7 @@ toc:
   # sidebar: left
 ---
 
-I support [the PRG-group](http://prg.is.titech.ac.jp/) working under [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/)'s leadership.
+I assist in leading [the PRG-group](http://prg.is.titech.ac.jp/) under [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/)'s direction.
 If you find that our research areas align with your interests, please refer to ["How to Join the Group"](https://prg.is.titech.ac.jp/people/how-to-join/) for further details.
 
 I am also looking for students interested in type systems and program verification to collaborate with [Taro Sekiyama](https://skymountain.github.io/) at NII. If you are interested, please feel free to contact me.
@@ -30,11 +30,11 @@ I am currently mentoring
 - **no** undergraduate students.
 <!-- B4:  -->
 
-and working on their thesis projects regarding <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>.
-
-For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
+and working on their thesis projects regarding <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
 
 ### Awards and Publications of Mentored Students
+For a comprehensive list including oral and poster presentations by my mentees, please refer to my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
+
 #### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 - <a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating (JIP'25)</a>.<br><a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.<br>
 
