@@ -39,7 +39,7 @@ For a comprehensive list including informal publications by my mentees, see my [
 - <a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating (JIP'25)</a>.<br><a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.<br>
 
 #### Tokyo Institute of Technology
-- <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">Vython: a Language with Dynamic Version Checking for Gradual Updating. (Awarded in APLAS'24 SRC</a>)<br><a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.
+- <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">Vython: a Language with Dynamic Version Checking for Gradual Updating. (Awarded in APLAS'24 SRC)</a><br><a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.
 
 
 <!-- ## Former Students -->
