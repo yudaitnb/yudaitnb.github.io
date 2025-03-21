@@ -32,14 +32,14 @@ I am currently mentoring
 
 and working on their thesis projects regarding <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
 
-### Awards and Publications of Mentored Students
+### Awards and Publications of Students
 For a comprehensive list including informal publications by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
 
 #### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
-- <a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating (JIP'25)</a>.<br><a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.<br>
+- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>, Yudai Tanabe, Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025. <!--Volume 33, Pages xxx-yyy--><br>Co-supervised with Hidehiko Masuhara.
 
 #### Tokyo Institute of Technology
-- <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">Vython: a Language with Dynamic Version Checking for Gradual Updating. (Awarded in APLAS'24 SRC)</a><br><a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.
+- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>.<br>Vython: a Language with Dynamic Version Checking for Gradual Updating.<br><a class="font-weight-bold">Awarded for <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">the audience award in APLAS 2024 SRC</a></a><br>Co-supervised with Hidehiko Masuhara.
 
 
 <!-- ## Former Students -->
