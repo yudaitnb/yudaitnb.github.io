@@ -21,9 +21,8 @@ toc:
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402404&Nendo=2024&vid=03&lang=EN">2024 3Q-4Q (October~)</a>
 
 ##### Research opportunity in Laboratories (MCS)
-- A research internship course I developed with Hidehiko for 3rd-year undergraduates.
-- Hands-on activities in GPGPU, PL implementation, programming experience design, interactive theorem prooving, and PL theory.
-- 2024
+- A research internship course I co-developed with Hidehiko for 3rd-year undergraduates, providing opportunities for hands-on activities in GPGPU, programming language implementation, programming experience design, interactive theorem proving, and programming language theory.
+- 2024 lectures
   - Lecture 1: <a href="https://github.com/prg-titech/pypy-tutorial-jp">The PyPy Tutorial</a>
   - Lecture 2: <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>
 - Materials
