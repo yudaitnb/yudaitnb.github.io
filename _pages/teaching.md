@@ -14,8 +14,8 @@ toc:
 - <a class="font-weight-bold">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502398&Nendo=2025&vid=03&lang=EN">2025 1Q (April~)</a>
 - <a class="font-weight-bold">Forum on Computing</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
-  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532847&Nendo=2025&vid=03&lang=EN">2025 1Q-4Q (F3, F4, F5)</a>
-  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532846&Nendo=2025&vid=03&lang=EN">2025 1Q-4Q (S3, S4, S5)</a>
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532847&Nendo=2025&vid=03&lang=EN">2025 3Q-4Q (F3, F4, F5)</a>
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532846&Nendo=2025&vid=03&lang=EN">2025 1Q-2Q (S3, S4, S5)</a>
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202432847&Nendo=2024&vid=03&lang=EN">2024 3Q-4Q (F3, F4, F5)</a>
 - <a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502404&Nendo=2025&vid=03&lang=EN">2025 3Q-4Q (October~)</a>
