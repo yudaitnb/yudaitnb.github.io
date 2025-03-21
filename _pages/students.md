@@ -36,10 +36,11 @@ and working on their thesis projects regarding <b><i>language design</i></b>, <b
 For a comprehensive list including informal publications by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
 
 #### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
-- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>, Yudai Tanabe, Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025. <!--Volume 33, Pages xxx-yyy--><br>Co-supervised with Hidehiko Masuhara.
+<!-- - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, Yudai Tanabe, Hidehiko Masuhara<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model </a><br>Journal of Information Processing, 2025 <!--Volume 33, Pages xxx-yyy--><br>Co-supervised with Hidehiko Masuhara. -->
+- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>, Yudai Tanabe, Hidehiko Masuhara<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025 <!--Volume 33, Pages xxx-yyy--><br>Co-supervised with Hidehiko Masuhara.
 
 #### Tokyo Institute of Technology
-- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>.<br>Vython: a Language with Dynamic Version Checking for Gradual Updating.<br><a class="font-weight-bold">Awarded for <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">the audience award in APLAS 2024 SRC</a></a><br>Co-supervised with Hidehiko Masuhara.
+- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a><br>Vython: a Language with Dynamic Version Checking for Gradual Updating<br><a class="font-weight-bold">Awarded for <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">the audience award in APLAS 2024 SRC</a></a><br>Co-supervised with Hidehiko Masuhara
 
 
 <!-- ## Former Students -->
