@@ -20,7 +20,7 @@ toc:
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502404&Nendo=2025&vid=03&lang=EN">2025 3Q-4Q (October~)</a>
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402404&Nendo=2024&vid=03&lang=EN">2024 3Q-4Q (October~)</a>
 
-<a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>
+##### Research opportunity in Laboratories (MCS)
 - A research internship course I developed with Hidehiko for 3rd-year undergraduates.
 - Hands-on activities in GPGPU, PL implementation, programming experience design, interactive theorem prooving, and PL theory.
 - 2024
@@ -34,8 +34,10 @@ toc:
   - PL Theory: <a href="https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf">Winskel<a> xor <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">TaPL</a>.
 
 #### at Tokyo Institute of Technology
-- <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03" class="font-weight-bold">Forum on Computing</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S3</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432848&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S4</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432850&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S5</a>), <span style="font-style: italic;">Lecturer</span>. Tokyo Institute of Technology.<br>2024 1Q-2Q (April~)
-- <a class="font-weight-bold" href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402398&Nendo=2024&vid=03&lang=EN">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Tokyo Institute of Technology.<br>2024 1Q (April~)
+- <a class="font-weight-bold">Forum on Computing S3, S4, S5</a>, <span style="font-style: italic;">Lecturer</span>. Tokyo Institute of Technology.
+  - 2024 1Q-2Q (April~): <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S3</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432848&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S4</a>, <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432850&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">S5</a>
+- <a class="font-weight-bold">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Tokyo Institute of Technology.
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402398&Nendo=2024&vid=03&lang=EN">2024 1Q (April~)</a>
 
 
 ## Coursework Support
