@@ -33,7 +33,7 @@ I am currently mentoring
 and working on their thesis projects regarding <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
 
 ### Awards and Publications of Mentored Students
-For a comprehensive list including oral and poster presentations by my mentees, please refer to my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
+For a comprehensive list including informal publications by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
 
 #### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 - <a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating (JIP'25)</a>.<br><a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>. Co-supervised with Hidehiko Masuhara.<br>
