@@ -27,7 +27,8 @@ I was previously a postdoctoral researcher of
 
 #### 2025
 - Research Introduction at an Open Campus of Institute of Science Tokyo in Tokyo, Japan (August 2025)
-- Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for [The 4th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (April 2025)
+- Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for [The 4th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (May 2025)
+- Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (April 2024)
 - [PRO 2024-5](https://sigpro.ipsj.or.jp/pro2024-5/) at The University of Tokyo in Tokyo, Japan (March 2025)
 - 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2025)
 - [PPL 2025](https://jssst-ppl.org/workshop/2025/) in Aichi, Japan (March 2025)
@@ -37,7 +38,7 @@ I was previously a postdoctoral researcher of
 - Half-day visit to [Shinya lab (Akita University)](http://www.math.akita-u.ac.jp/~ryoma/) in Akita, Japan (January 2025)
 
 #### 2024
-- Half-day visit to [Sekiyama lab (NII)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) for [The 2nd PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
+- Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) for [The 2nd PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
 - [PRO 2024-3](https://sigpro.ipsj.or.jp/pro2024-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2024)
 - Half-day visit to [Programming Lang. (Yasugi-Emoto) lab (Kyutech)](https://www.pl.ai.kyutech.ac.jp/) in Fukuoka, Japan (November 2024)
 - Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for [The 1st PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (November 2024)
@@ -47,7 +48,7 @@ I was previously a postdoctoral researcher of
 - [PLDI 2024](https://pldi24.sigplan.org/) in Copenhagen, Denmark (June 2024)
 - Online participation in [PRO 2024-1](https://sigpro.ipsj.or.jp/pro2024-1/) (June 2024)
 - Online participation in [The 7th STAIR Lab ST Seminar](https://stair.center/archives/events/%e7%ac%ac7%e5%9b%9e%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9%e3%83%9c%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e6%8a%80%e8%a1%93%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc-%e7%94%b0%e8%be%ba%e8%a3%95) (May 2024)
-- 1-day visit to [Sekiyama lab (NII)](https://www.nii.ac.jp/en/faculty/architecture/sekiyama_taro/) in Tokyo, Japan (April 2024)
+- 1-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (April 2024)
 - [PPL 2024](https://jssst-ppl.org/workshop/2024/) in Niigata, Japan (March 2024)
 
 #### 2023
