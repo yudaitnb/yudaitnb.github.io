@@ -5,8 +5,6 @@ title: students
 nav: true
 nav_order: 7
 description: 
-toc:
-  # sidebar: left
 ---
 
 I assist in leading [the PRG-group](http://prg.is.titech.ac.jp/) under [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/)'s direction.
@@ -39,7 +37,7 @@ For a comprehensive list including informal publications by my mentees, see my [
 <!--
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, Yudai Tanabe, Hidehiko Masuhara<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model </a><br>Journal of Information Processing, 2025<br>Co-supervised with Hidehiko Masuhara.
 -->
-- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">Fork-Joinモデルで記述された細粒度並列プログラムのGPU上での効率的な実行手法の提案</a><br>情報処理学会論文誌 プログラミング, 2025 <!--Volume 33, Pages xxx-yyy-->
+- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>IPSJ Transactions on Programming, 2025 <!--Volume 33, Pages xxx-yyy-->
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025 <!--Volume 33, Pages xxx-yyy-->
 
 #### Tokyo Institute of Technology
