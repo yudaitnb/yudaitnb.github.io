@@ -1,0 +1,41 @@
+- title: At Tokyo Institute of Technology, as an Educator
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - 1Q (Apr~), Programming II <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402398&Nendo=2024&vid=03&lang=EN">[OCW]</a>
+        - 1Q-2Q (Apr~), Forum on Computing [OCW]→<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432846&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">[S3]</a> <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432848&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">[S4]</a> <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432850&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">[S5]</a>
+        - 3Q-4Q (Oct~), Forum on Computing [OCW]→<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432847&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">[F3]</a> <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432849&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">[F4]</a> <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&KamokuCD=120900&KougiCD=202432851&Nendo=2024&LeftTab=graduate&lang=EN&vid=03">[F5]</a>
+
+
+- title: At Tokyo Institute of Technology, as a TA
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - 3Q (Oct~), Programming I <a href="https://prg1-2020.github.io/lecture/web/">[Class]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202002384&Nendo=2020&vid=03&lang=EN">[OCW]</a>
+        - 2Q (Jun~), Information Literacy 2 <a href="https://titechcomp.github.io/y20-il2j/">[3b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=202007189&Nendo=2020&vid=03">[OCW]</a>
+        - 1Q (Apr~), Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202002383&lang=EN&vid=03">[OCW]</a>
+    - year: 2019
+      items: 
+        - 3Q (Oct~), Programming I <a href="https://prg1-2019.github.io/lecture/web/">[Class]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201902384&lang=EN">[OCW]</a>
+        - 2Q (Jun~), Information Literacy 2 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2019-il2/">[1b,3b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201907183&lang=EN&vid=03">[OCW(1b)]</a>
+        - 1Q (Apr~), Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=201902383&Nendo=2019&lang=EN">[OCW]</a>
+    - year: 2018
+      items: 
+        - 2Q (Jun~), Information Literacy 2 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il2/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201807183&lang=EN&vid=03">[OCW]</a>
+        - 1Q (Apr~), Information Literacy 1 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il1/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201807165&Nendo=2018&lang=EN&vid=03">[OCW]</a>
+        - 1Q (Apr~), Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=201802383&Nendo=2018&lang=EN">[OCW]</a>
+
+- title: Mentorship
+  type: time_table
+  contents:
+    - title: <a href="https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a><br><span style="font-size:0.7em">複数バージョンのクラス定義を使用できる動的型付け言語の設計とその互換性検査機構</span>
+      institution: Satsuki Kasuya, <a href="https://www.jsps.go.jp/english/">PRG-group, Tokyo Institute of Technology</a>
+      year: 2026
+    - title: <a href="https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a><br><span style="font-size:0.7em">複数バージョンのクラス定義を使用できる動的型付け言語の設計とその互換性検査機構</span>
+      institution: Satsuki Kasuya, <a href="https://www.jsps.go.jp/english/">PRG-group, Tokyo Institute of Technology</a>
+      year: 2024
+    - title: <a href="https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a><br><span style="font-size:0.7em">複数バージョンのクラス定義を使用できる動的型付け言語の設計とその互換性検査機構</span>
+      institution: Satsuki Kasuya, <a href="https://www.jsps.go.jp/english/">PRG-group, Tokyo Institute of Technology</a>
+      year: 2024

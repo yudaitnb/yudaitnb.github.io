@@ -2,96 +2,111 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yudai Tanabe
     - name: Languages
-      value: English, German
+      value: Japanese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Science
+      institution: Department of Mathematical and Computing Science, School of Computing, Tokyo Institue of Technology.
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Dissertation “A Programming Language with Versions”.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - <a href="https://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100886483">Official archive</a>
+            - <a href="https://www.cambridge.org/core/journals/journal-of-functional-programming/article/phd-abstracts/A32EE036508B4F3B309230D342DA7C2C">Phd Abstract, Journal of Functional Programming</a>
+    - title: Master of Science
+      institution: Department of Mathematical and Computing Science, School of Computing, Tokyo Institue of Technology.
+      year: 2020
+    - title: Bachelor of Science
+      institution: Department of Information Science, School of Science, Tokyo Institue of Technology.
+      year: 2018
 
-- title: Experience
+- title: Job Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor
+      institution: <a href="https://educ.titech.ac.jp/is/eng/">Department of Mathematical and Computing Science</a>, <a href="https://www.titech.ac.jp/english/about/organization/schools/organization04">School of Computing</a>, <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology
+      year: 2024 - 2029
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Running <a href="https://prg.is.titech.ac.jp/">PRG-group</a> with <a href="https://prg.is.titech.ac.jp/people/masuhara/">Hidehiko Masuhara</a> and <a href="https://sites.google.com/site/youyoucong212/">Youyou Cong</a>
+
+    - title: Program-specific Researcher
+      institution: <a href="https://www.fos.kuis.kyoto-u.ac.jp/">Computer Software Group</a>, Kyoto University
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00582/">KAKENHI 20H00582</a>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: JSPS Research Fellow
+      institution: <a href="https://www.jsps.go.jp/english/e-pd/index.html">Japan Society for the Promotion of Science</a>
+      year: 2022 - 2023
       description:
+        - <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1313/">KAKENHI 22KJ1313 / 22J14382</a>
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Tokyo Student Intern (paid, part-time)
+      institution: <a href="http://www.research.ibm.com/labs/tokyo/">IBM Research Tokyo</a>
+      year: 2021 - 2021
+      description:
+        - Research & development on a Java compiler
 
-- title: Open Source Projects
+    - title: Research Assistant
+      institution: <a href="https://prg.is.titech.ac.jp/">Programming Group</a>, Tokyo Institute of Technology
+      year: 2021 - 2021
+      description:
+        - <a href="https://prg.is.titech.ac.jp/projects/software-development-environment/kanon/">Kanon, Live Programming for Data Structure Programming</a>
+        - <a href="https://github.com/prg-titech/Kanon">DEMO</a>
+
+    - title: Research Tokyo Student Intern (paid, part-time)
+      institution: <a href="http://www.research.ibm.com/labs/tokyo/">IBM Research Tokyo</a>
+      year: 2018 - 2018
+      description:
+        - Research & development on a Java compiler
+
+    - title: Editorial / Technical Assistant
+      institution: MYU Research
+      year: 2014 - 2022
+      description:
+        - Publication, editing, and translation for scientific journals in applied phisics, medicine, and philosophy
+
+- title: Scholarship
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS Research Fellowship for Young Scientists (DC2)</a>
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2022 - 2024
+      description:
+        - Withdrawn in 2023 due to my transfer to Kyoto University.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: <a href="https://www.titech.ac.jp/english/enrolled/tuition/tsubame_scholarship.html">Tokyo Tech Tsubame Scholarship</a>
+      institution: Tokyo Institute of Technology
+      year: 2020 - 2022
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

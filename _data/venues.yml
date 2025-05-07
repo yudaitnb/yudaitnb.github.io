@@ -1,9 +1,47 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"POPL":
+  url: https://dl.acm.org/loi/pacmpl
+  color: "#ff4b00"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"PLDI":
+  url: https://dl.acm.org/loi/pacmpl
+  color: "#ff4b00"
 
-"Vision":
-  color: "#009f36"
+"ICFP":
+  url: https://dl.acm.org/loi/pacmpl
+  color: "#ff4b00"
+
+"OOPSLA":
+  url: https://dl.acm.org/loi/pacmpl
+  color: "#ff4b00"
+
+"ECOOP":
+  url: https://drops.dagstuhl.de/entities/conference/ECOOP
+  color: "#ff4b00"
+
+"‹Programming›":
+  url: https://programming-journal.org/
+  color: "#ff4b00"
+
+"JIP":
+  url: https://www.ipsj.or.jp/english/jip/index.html
+  color: "#ff4b00"
+
+"PRO":
+  url: https://sigpro.ipsj.or.jp/sigtra4/
+  color: "#ff4b00"
+
+"APLAS":
+  url: https://conf.researchr.org/series/APLAS
+  color: "#005aff"
+
+"SLE":
+  url: https://conf.researchr.org/series/SLE
+  color: "#005aff"
+
+"COP":
+  url: https://conf.researchr.org/series/COP
+  color: "#990099"
+
+"Book":
+  color: "#804000"
+

@@ -1,0 +1,41 @@
+- title: Leading as a Principal Investigator
+  type: time_table
+  contents:
+    - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K21178">Programming Supports for Incremental and Interactive Updates through Compatibility-Oriented Program Analysis</a><br><span style="font-size:0.8em">互換性指向プログラム解析による漸進的・対話的なプログラム更新支援</span>
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2025 - 2028
+      description:
+        - Grant in Aid for Early-Career Scientists (若手研究)
+        - Grunt Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K21178">25K21178</a>
+      
+    - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K19961/">Research on Updating Support Techniques by Introducing Semantic Versioning into Programming Languages</a><br><span style="font-size:0.8em">プログラミング言語への意味的バージョンの導入による更新支援技術の研究</span>
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2023 - 2025
+      description:
+        - Grant-in-Aid for Research Activity Start-up (研究活動スタート支援)
+        - Grunt Number <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23K19961/">23K19961</a>
+
+    - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1313/">Programming Language with Versions</a><br><span style="font-size:0.8em">バージョンを言語要素に持つプログラミング言語の開発</span>
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2022 - 2024
+      description:
+        - Grant-in-Aid for JSPS Research Fellows (特別研究員奨励費)
+        - Grunt Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ1313/">22KJ1313 / 22J14382</a>
+        - ※ Withdrawn in 2023 due to my transfer to Kyoto University.
+
+- title: Contributing as a Co-investigator
+  type: time_table
+  contents:
+    - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K28058/">High-Performance and Highly-Productive Language Infrastructures Based on Language Implementation Frameworks</a><br><span style="font-size:0.8em">言語処理系フレームワークによる性能と開発効率を両立させる言語基盤の創出</span>
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2024 - 2028
+      description:
+        - Grant in Aid for Scientific Research (A) (基盤研究(A))
+        - Grunt Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K28058/">23K28058</a>
+
+    - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00582/">Research on software contracts for highly interoperable software modules</a><br><span style="font-size:0.8em">高相互運用性を持つソフトウェアモジュールのためのソフトウェア契約の研究</span>
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2020 - 2025
+      description:
+        - Grant in Aid for Scientific Research (B) (基盤研究(B))
+        - Grunt Number <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H00582/">20H00582</a>

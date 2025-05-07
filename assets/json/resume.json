@@ -1,31 +1,30 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yudai Tanabe",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yudaitnb@prg.is.titech.ac.jp",
+    "url": "https://yudaitnb.github.io/",
+    "summary": "An assistant professor of PRG-group.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Department of Mathematical and Computing Science, Institute of Science Tokyo, Ookayama 2-12-1 W8-35",
+      "postalCode": "152-8552",
+      "city": "Meguro",
+      "countryCode": "JP",
+      "region": "Japan"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "yudaitnb",
+        "url": "https://twitter.com/yudaitnb"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Institute of Science Tokyo",
+      "position": "Assistant Professor",
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
