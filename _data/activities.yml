@@ -24,9 +24,6 @@
 - title: External Reviewer
   type: time_table
   contents:
-    - year: 2025
-      items:
-        - <a href="https://2025.splashcon.org/track/splash-2025-Onward-paper">Onward! Papers</a> (External Reviewer)
     - year: 2024
       items:
         - <a href="https://conf.researchr.org/track/apsec-2024/apsec-2024-technical-track">APSEC</a> (External Reviewer)
