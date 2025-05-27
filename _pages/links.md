@@ -32,7 +32,7 @@ I was previously a postdoctoral researcher of
 - Research outreach talk at an open campus of Institute of Science Tokyo in Tokyo, Japan (August 2025)
 - [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, Korea (June 2025)
 - 4-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (May 2025)
-- Half-day visit to [Group MMSD (NII)](https://group-mmm.org/eratommsd/about/) for [The 4th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (May 2025)
+- Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 4th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (May 2025)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (May 2025)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (April 2025)
 - [PRO 2024-5](https://sigpro.ipsj.or.jp/pro2024-5/) at The University of Tokyo in Tokyo, Japan (March 2025)
