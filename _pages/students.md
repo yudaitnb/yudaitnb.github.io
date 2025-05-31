@@ -23,8 +23,8 @@ If you wish to conduct research with me, please contact the PIs mentioned above.
 I am currently mentoring 
 - **one** all but dissertation doctoral student,
 <!-- D5: Luthfan -->
-- **eight** graduate students, and 
-<!-- M4: Yoshimura, M2: Kasuya, Peien, Suda, Inaba, Yoshio, Hayashi, Sakakibara -->
+- **seven** graduate students, and 
+<!-- M4: Yoshimura, M2: Kasuya, Peien, Inaba, Yoshio, Hayashi, Sakakibara -->
 - **no** undergraduate students.
 <!-- B4:  -->
 
@@ -37,7 +37,7 @@ For a comprehensive list including informal publications by my mentees, see my [
 <!--
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, Yudai Tanabe, Hidehiko Masuhara<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model </a><br>Journal of Information Processing, 2025<br>Co-supervised with Hidehiko Masuhara.
 -->
-- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">(Conditionally accepted) An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>IPSJ Transactions on Programming, 2025 <!--Volume 33, Pages xxx-yyy-->
+- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>IPSJ Transactions on Programming, 2025 <!--Volume 33, Pages xxx-yyy-->
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025 <!--Volume 33, Pages xxx-yyy-->
 
 #### Tokyo Institute of Technology
