@@ -38,10 +38,10 @@ For a comprehensive list including informal publications by my mentees, see my [
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, Yudai Tanabe, Hidehiko Masuhara<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model </a><br>Journal of Information Processing, 2025<br>Co-supervised with Hidehiko Masuhara.
 -->
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>IPSJ Transactions on Programming, 2025 <!--Volume 33, Pages xxx-yyy-->
-- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025 <!--Volume 33, Pages xxx-yyy-->
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025 <!--Volume 33, Pages xxx-yyy-->
 
 #### Tokyo Institute of Technology
-- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kasuya/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Vython: a Language with Dynamic Version Checking for Gradual Updating<br><a class="font-weight-bold">Awarded for <a  class="font-weight-bold" href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">the audience award in APLAS 2024 SRC</a></a>, 2024
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Vython: a Language with Dynamic Version Checking for Gradual Updating<br><a class="font-weight-bold">Awarded for <a  class="font-weight-bold" href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">the audience award in APLAS 2024 SRC</a></a>, 2024
 
 
 <!-- ## Former Students -->
