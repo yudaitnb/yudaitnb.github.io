@@ -34,9 +34,7 @@ and working on their thesis projects regarding <b><i>language design</i></b>, <b
 For a comprehensive list including informal publications by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
 
 #### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
-<!--
-- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, Yudai Tanabe, Hidehiko Masuhara<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model </a><br>Journal of Information Processing, 2025<br>Co-supervised with Hidehiko Masuhara.
--->
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>マイクロサービスの独立性を損なわないバージョン移行の支援手法<br><a class="font-weight-bold">Awarded for <a  class="font-weight-bold" href="https://www.spring-boost.i.isct.ac.jp/en/">Science Tokyo SPRING</a>, 2025
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>IPSJ Transactions on Programming, 2025 <!--Volume 33, Pages xxx-yyy-->
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025 <!--Volume 33, Pages xxx-yyy-->
 
