@@ -29,8 +29,8 @@ I was previously a postdoctoral researcher of
 
 #### 2025
 - Invited talk at PRO 2025-3 or PRO 2025-4 somewhere, Japan (November 2025 or January 2026)
-- Invited talk at [Karuizawa NII Workshop](https://www.perf.cs.tut.ac.jp/lab/?page_id=1078&lang=en) in Tokyo, Japan (September 2025)
-- Research outreach talk at [Open Campus of Institute of Science Tokyo](https://www.isct.ac.jp/ja/news/rpida5lj8wjh) in Tokyo, Japan (August 2025)
+- Invited talk at [Karuizawa NII PL Seminar](https://www.nii.ac.jp/en/about/seminar-house/) in Nagano, Japan (September 2025)
+- Research outreach talk at [Open Campus of Institute of Science Tokyo](https://admissions.isct.ac.jp/ja/013/undergraduate/open-campus-and-briefing-sessions/science-engineering) in Tokyo, Japan (August 2025)
 - Invited talk at [MIT-Toyohashi ASPIRE Workshop 2025](https://www.perf.cs.tut.ac.jp/lab/?page_id=1078&lang=en) in Tokyo, Japan (June 2025)
 - [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, Korea (June 2025)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) with [Hanliang Zhang](https://komaec.github.io/) and [Meng Wang](https://mengwangoxf.github.io/) in Tokyo, Japan (May 2025)
