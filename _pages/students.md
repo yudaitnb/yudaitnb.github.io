@@ -24,7 +24,7 @@ I am currently mentoring
 - **one** all but dissertation doctoral student,
 <!-- D5: Luthfan -->
 - **seven** graduate students, and 
-<!-- M4: Yoshimura, M2: Kasuya, Peien, Inaba, Yoshio, Hayashi, Sakakibara -->
+<!-- M4: Yoshimura, M2: Kasuya, Kawazoe, M1 Autumn: Peien, M1: Inaba, Yoshio, Hayashi -->
 - **no** undergraduate students.
 <!-- B4:  -->
 
