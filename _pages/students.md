@@ -21,8 +21,8 @@ If you wish to conduct research with me, please contact the PIs mentioned above.
 ## Current Students
 (Updated on April 1, 2025)<br>
 I am currently mentoring 
-- **one** all but dissertation doctoral student,
-<!-- D5: Luthfan -->
+- **two** Phd students and Phd all but dissertation doctoral student,
+<!-- D5: Luthfan, Kawakami -->
 - **seven** graduate students, and 
 <!-- M4: Yoshimura, M2: Kasuya, Kawazoe, M1 Autumn: Peien, M1: Inaba, Yoshio, Hayashi -->
 - **no** undergraduate students.
