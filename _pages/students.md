@@ -19,7 +19,7 @@ If you wish to conduct research with me, please contact the PIs mentioned above.
 [👉What is 助教 (jokyo, assistant professor in Japan)](https://kensakayori.github.io/blog/posts/2023-04-03.html)
 
 ## Current Students
-(Updated on April 1, 2025)<br>
+(Updated on August 7, 2025)<br>
 I am currently mentoring 
 - **two** Phd students and Phd all but dissertation doctoral student,
 <!-- D5: Luthfan, Kawakami -->
