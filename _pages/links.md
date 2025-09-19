@@ -30,6 +30,7 @@ I was previously a postdoctoral researcher of
 #### 2025
 - Invited talk at [PRO 2025-3](https://sigpro.ipsj.or.jp/pro2025-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2025)
 - Invited talk at [NII Karuizawa Seminar](https://www.nii.ac.jp/en/about/seminar-house/) in Nagano, Japan (September 2025)
+- Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) for [The 5th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (September 2025)
 - [SES 2025](https://ses.sigse.jp/2025/) in Tokyo, Japan (September 2025)
 - [JSSST 2025](https://jssst2025.wordpress.com/) in Tokyo, Japan (September 2025)
 - [SATSS 2025](https://sc-sys.github.io/) in Tokyo, Japan (August 2025)
