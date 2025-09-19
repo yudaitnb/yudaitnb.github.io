@@ -39,6 +39,7 @@ For a comprehensive list including informal publications by my mentees, see my [
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025 <!--Volume 33, Pages xxx-yyy-->
 
 ##### Awards
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Gradual Migration via Multi-version Object Mechanism<br><a class="font-weight-bold">Awarded for <a  class="font-weight-bold" href="https://ses.sigse.jp/2025/">Interactive Poster Award at IPSJ/SIGSE Software Engineering Symposium (SES2025)</a>, 2025
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>マイクロサービスの独立性を損なわないバージョン移行の支援手法<br><a class="font-weight-bold">Awarded for <a  class="font-weight-bold" href="https://www.spring-boost.i.isct.ac.jp/en/">Science Tokyo SPRING</a>, 2025
 
 #### Tokyo Institute of Technology
