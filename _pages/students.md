@@ -19,16 +19,18 @@ If you wish to conduct research with me, please contact the PIs mentioned above.
 
 
 ## Current Students
-(Updated on August 7, 2025)<br>
-I am currently mentoring 
-- **two** Phd students and Phd all but dissertation doctoral student,
-<!-- D5: Luthfan, Kawakami -->
-- **seven** graduate students, and 
-<!-- M4: Yoshimura, M2: Kasuya, Kawazoe, M1 Autumn: Peien, M1: Inaba, Yoshio, Hayashi -->
+(Updated on October 9, 2025)<br>
+I am currently mentoring
+- **one** Phd all but dissertation doctoral student at Science Tokyo, 
+<!-- D5: Luthfan -->
+- **one** Phd students at NII,
+<!-- D1: Kawakami -->
+- **eight** graduate students at Science Tokyo and Kyoto University, and 
+<!-- M4: Yoshimura, M2: Kasuya, Kawazoe, M1 Autumn: Peien, M1: Inaba, Yoshio, Hayashi, M1: Oshima (KU) -->
 - **no** undergraduate students.
 <!-- B4:  -->
 
-and working on their thesis projects regarding <b><i>advanced module systems</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
+and working on their thesis projects regarding <b><i>advanced module systems</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>programming interactivity</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
 
 ### Awards and Publications of Students
 For a comprehensive list including informal publications by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
