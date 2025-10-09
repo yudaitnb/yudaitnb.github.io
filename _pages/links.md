@@ -28,12 +28,14 @@ I was previously a postdoctoral researcher of
 - [PPL 2026](https://jssst-ppl.org/workshop/2026/) in Kagawa, Japan (March 2026)
 
 #### 2025
+- [11th SATSS](https://sc-sys.github.io/) in Tokyo, Japan (November 2025)
 - Invited talk at [PRO 2025-3](https://sigpro.ipsj.or.jp/pro2025-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2025)
 - Invited talk at [NII Karuizawa Seminar](https://www.nii.ac.jp/en/about/seminar-house/) in Nagano, Japan (September 2025)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) for [The 5th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (September 2025)
 - [SES 2025](https://ses.sigse.jp/2025/) in Tokyo, Japan (September 2025)
 - [JSSST 2025](https://jssst2025.wordpress.com/) in Tokyo, Japan (September 2025)
-- [SATSS 2025](https://sc-sys.github.io/) in Tokyo, Japan (August 2025)
+- [10th SATSS](https://sc-sys.github.io/) in Tokyo, Japan (September 2025)
+- [9th SATSS](https://sc-sys.github.io/) in Tokyo, Japan (August 2025)
 - 4-days visit to [Sekiyama lab (NII)](https://skymountain.github.io/) with [Wenjia Ye](https://yewenjia.github.io/) in Tokyo, Japan (August 2025)
 - Research outreach talk at [Open Campus of Institute of Science Tokyo](https://admissions.isct.ac.jp/ja/013/undergraduate/open-campus-and-briefing-sessions/science-engineering) in Tokyo, Japan (August 2025)
 - Invited talk at [MIT-Toyohashi ASPIRE Workshop 2025](https://www.perf.cs.tut.ac.jp/lab/?page_id=1078&lang=en) in Tokyo, Japan (June 2025)
