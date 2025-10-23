@@ -28,14 +28,14 @@
   contents:
     - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K28058/">High-Performance and Highly-Productive Language Infrastructures Based on Language Implementation Frameworks</a><br><span style="font-size:0.8em">言語処理系フレームワークによる性能と開発効率を両立させる言語基盤の創出</span>
       institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
-      year: 2024 - 2028
+      year: 2023 - 2028
       description:
-        - Grant in Aid for Scientific Research (A) (基盤研究(A))
-        - Project Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K28058/">23K28058</a>
+        - Grant in Aid for Scientific Research (B) (基盤研究(B))
+        - Project Number <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K28058/">23K28058</a> / <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23H03368/">23H03368</a>
 
     - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H00582/">Research on software contracts for highly interoperable software modules</a><br><span style="font-size:0.8em">高相互運用性を持つソフトウェアモジュールのためのソフトウェア契約の研究</span>
       institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
       year: 2020 - 2025
       description:
-        - Grant in Aid for Scientific Research (B) (基盤研究(B))
+        - Grant in Aid for Scientific Research (A) (基盤研究(A))
         - Project Number <a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H00582/">20H00582</a>
