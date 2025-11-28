@@ -28,6 +28,9 @@ I was previously a postdoctoral researcher of
 - [PPL 2026](https://jssst-ppl.org/workshop/2026/) in Kagawa, Japan (March 2026)
 
 #### 2025
+- Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for [The 6th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
+- 1-day visit to [Unno lab (TohokuU)](https://www.riec.tohoku.ac.jp/~unno/) in Miyagi, Japan (December 2025)
+- 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (December 2025)
 - [11th SATSS](https://sc-sys.github.io/) in Tokyo, Japan (November 2025)
 - Invited talk at [PRO 2025-3](https://sigpro.ipsj.or.jp/pro2025-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2025)
 - Invited talk at [NII Karuizawa Seminar](https://www.nii.ac.jp/en/about/seminar-house/) in Nagano, Japan (September 2025)
