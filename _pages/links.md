@@ -29,6 +29,7 @@ I was previously a postdoctoral researcher of
 
 #### 2025
 - Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for [The 6th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
+- 1-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (December 2025)
 - 1-day visit to [Unno lab (TohokuU)](https://www.riec.tohoku.ac.jp/~unno/) in Miyagi, Japan (December 2025)
 - 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (December 2025)
 - [11th SATSS](https://sc-sys.github.io/) in Tokyo, Japan (November 2025)
