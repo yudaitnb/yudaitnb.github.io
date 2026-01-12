@@ -19,39 +19,60 @@ If you wish to conduct research with me, please contact the PIs mentioned above.
 
 
 ## Current Students
-(Updated on October 9, 2025)<br>
+(Updated on January 12, 2026)<br>
 I am currently mentoring
 - **one** Phd all but dissertation doctoral student at Science Tokyo, 
 <!-- D5: Luthfan -->
 - **one** Phd students at NII,
 <!-- D1: Kawakami -->
-- **eight** graduate students at Science Tokyo and Kyoto University, and 
-<!-- M4: Yoshimura, M2: Kasuya, Kawazoe, M1 Autumn: Peien, M1: Inaba, Yoshio, Hayashi, M1: Oshima (KU) -->
+- **six** graduate students at Science Tokyo, and 
+<!-- M2: Kasuya, Kawazoe, M1 Autumn: Peien, M1: Inaba, Yoshio, Hayashi -->
+- **one** graduate students at Kyoto University, and 
+<!-- M1: Oshima (KU) -->
 - **no** undergraduate students.
 <!-- B4:  -->
 
 and working on their thesis projects regarding <b><i>advanced module systems</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>programming interactivity</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
 
-### Awards and Publications of Students
+### Awards and Papers of Students
 For a comprehensive list including informal publications by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
 
 #### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
-##### Publications
+##### Papers
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-5/">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>IPSJ Transactions on Programming, 2025 <!--Volume 33, Pages xxx-yyy-->
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://sigpro.ipsj.or.jp/pro2024-4/">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025 <!--Volume 33, Pages xxx-yyy-->
 
 ##### Awards
-- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Gradual Migration via Multi-version Object Mechanism<br><a class="font-weight-bold">Awarded for <a  class="font-weight-bold" href="https://ses.sigse.jp/2025/">Interactive Poster Award at IPSJ/SIGSE Software Engineering Symposium (SES2025)</a>, 2025
-- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>マイクロサービスの独立性を損なわないバージョン移行の支援手法<br><a class="font-weight-bold">Awarded for <a  class="font-weight-bold" href="https://www.spring-boost.i.isct.ac.jp/en/">Science Tokyo SPRING</a>, 2025
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Gradual Migration via Multi-version Object Mechanism<br><a class="font-weight-bold">Awarded for <a class="font-weight-bold" href="https://ses.sigse.jp/2025/">Interactive Poster Award at IPSJ/SIGSE Software Engineering Symposium (SES2025)</a>, 2025
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>マイクロサービスの独立性を損なわないバージョン移行の支援手法<br><a class="font-weight-bold">Awarded for <a class="font-weight-bold" href="https://www.spring-boost.i.isct.ac.jp/en/">Science Tokyo SPRING</a>, 2025
 
 #### Tokyo Institute of Technology
 ##### Awards
-- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Vython: a Language with Dynamic Version Checking for Gradual Updating<br><a class="font-weight-bold">Awarded for <a  class="font-weight-bold" href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">the audience award in APLAS 2024 SRC</a></a>, 2024
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Vython: a Language with Dynamic Version Checking for Gradual Updating<br><a class="font-weight-bold">Awarded for <a class="font-weight-bold" href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">the audience award in APLAS 2024 SRC</a></a>, 2024
 
 
 <!-- ## Former Students -->
-<!-- ### Graduated PhD Students -->
+<!--
+### Graduated PhD Students
+- Peien Chen (Sep 2029, co-supervised with Taro Sekiyama)
+- Satsuki Kasuya (Mar 2029, co-supervised with Hidehiko Masuhara)
+- Ryuji Kawakami (Mar 2028, co-supervised with Taro Sekiyama)
+-->
 
-<!-- ### Graduated MSc Students -->
+<!--
+### Graduated MSc Students
+- Ryota Inaba (Mar 2027)
+- Minami Hayashi (Mar 2027)
+- Takuma Yoshio (Mar 2027)
+- Peien Chen (Sep 2026, co-supervised with Taro Sekiyama)
+- Satsuki Kasuya (Mar 2026)
+-->
 
-<!-- ### Graduated Bachelor Students -->
+<!--
+### Graduated Bachelor Students
+- Ryota Inaba (Mar 2025)
+- Minami Hayashi (Mar 2025)
+- Takuma Yoshio (Mar 2025)
+- Satsuki Kasuya (Mar 2024, supervised from Kyoto Univ.)
+-->
+
