@@ -26,6 +26,7 @@ I was previously a postdoctoral researcher of
 ## Visits
 #### 2026
 - [PPL 2026](https://jssst-ppl.org/workshop/2026/) in Kagawa, Japan (March 2026)
+- 3?-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (February 2026)
 
 #### 2025
 - Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for [The 6th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
