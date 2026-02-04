@@ -42,6 +42,10 @@
   url: https://conf.researchr.org/series/COP
   color: "#990099"
 
+"PPL":
+  url: http://ppl.jssst.or.jp/
+  color: "#990099"
+
 "Book":
   color: "#804000"
 
