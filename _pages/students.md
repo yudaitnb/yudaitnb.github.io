@@ -46,7 +46,7 @@ For a comprehensive list including informal publications by my mentees, see my [
 - <a class="font-weight-bold" href="https://pe200012.github.io/pe200012">Peien Chen</a>, co-supervised with Taro Sekiyama.<br><a href="https://prg.is.titech.ac.jp/news/ppl2026-c1/">Towards Borrowable Ownership Types with Algebraic Effect Handlers</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://prg.is.titech.ac.jp/news/ppl2026-c1/">Dynamic Version Checking for Gradual Updating</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://doi.org/10.2197/ipsjjip.33.840">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>Journal of Information Processing, 2025, Volume 33, Pages 840--851
-- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://doi.org/10.2197/ipsjjip.33.471">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025, Volume 33, Pages Pages 471--486
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://doi.org/10.2197/ipsjjip.33.471">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025, Volume 33, Pages 471--486
 
 ##### Awards
 
