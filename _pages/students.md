@@ -41,6 +41,7 @@ For a comprehensive list including informal publications by my mentees, see my [
 #### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 
 ##### Papers
+
 - <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/yoshimura/">Yusei Yoshimura</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://prg.is.titech.ac.jp/news/ppl2026-c1/">トレーシングJITコンパイラを用いた多段階計算の高速かつ簡易な実行方式</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
 - <a class="font-weight-bold" href="https://pe200012.github.io/pe200012">Peien Chen</a>, co-supervised with Taro Sekiyama.<br><a href="https://prg.is.titech.ac.jp/news/ppl2026-c1/">Towards Borrowable Ownership Types with Algebraic Effect Handlers</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://prg.is.titech.ac.jp/news/ppl2026-c1/">Dynamic Version Checking for Gradual Updating</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
