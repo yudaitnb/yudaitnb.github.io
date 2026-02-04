@@ -1,7 +1,7 @@
 @inproceedings{yoshimura-ppl2026,  
 	address = {Takamatsu, Kagawa, Japan},
 	series = {{PPL} '26},
-  title = {トレーシングJITコンパイラを用いた多段階計算の高速かつ簡易な実行方式},
+  title = {A Lightweight Implementation for Efficient Multi-Stage Computation Using a Tracing JIT Compiler (トレーシングJITコンパイラを用いた多段階計算の高速かつ簡易な実行方式)},
   url = {https://prg.is.titech.ac.jp/ja/news/ppl2026-c1/},
   abstract = {多段階計算は実行時コード生成と生成されたコードの実行を行う機能を備えたメタプログラミング機構である。多段階計算の実行時性能はコード生成オーバヘッドおよび生成コードの品質の両方に依存するが、従来方式ではこれらの両立が困難であった。本研究はトレーシングJITコンパイラを多段階計算のコード生成機構として利用する新たな実行方式を提案する。提案方式では、多段階計算プログラムを実行前にクロージャベースの一段階計算へ変換し、実行時にはトレーシングJITによりクロージャ呼び出しをインライン化する。本手法によりコード生成の軽量性と生成コードの実行性能の両立を、低労力で実現することが期待できる。提案方式による多段階計算言語の実装に向けた予備評価として、提案方式をPyPy上に実装し、累乗計算およびDSLインタプリタを含むベンチマークでMetaOCamlと比較評価した。その結果、一定の条件下では提案方式が従来方式を上回る性能を示した。},
 	language = {jp},
