@@ -154,10 +154,10 @@ I was previously a postdoctoral researcher of
 
 | Conference                                                     | Date                    | Archive                                                         | Submission                                                                |
 | :------------------------------------------------------------- | :---------------------- | :-------------------------------------------------------------- | :------------------------------------------------------------------------ |
-| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ <br>December  | [proceedings](https://link.springer.com/conference/flops)       | LNCS 15 pgs. + refs                                                       |
 | [APLAS](https://conf.researchr.org/series/aplas)               | October ~ <br>December  | [proceedings](https://link.springer.com/conference/aplas)       | LNCS 17(+1) pgs. + refs                                                   |
 | [‹Programming›](https://conf.researchr.org/series/programming) | March ~ <br>April       | [‹Programming› Journal](https://programming-journal.org/)       | ‹Programming› template 22 pgs. + refs<br>3 _separate_ rounds of reviewing |
 | [GPCE](https://conf.researchr.org/series/gpce)                 | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/gpce/proceedings)   | sigplan 12 pgs. + refs                                                    |
+| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ <br>December  | [proceedings](https://link.springer.com/conference/flops)       | LNCS 15 pgs. + refs                                                       |
 | [SLE](https://conf.researchr.org/series/sle)                   | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?)                                         |
 | [DLS](https://conf.researchr.org/series/dls)                   | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?)                                         |
 | [PPDP](https://conf.researchr.org/series/ppdp)                 | September ~ <br>October | [proceedings](https://dl.acm.org/conference/ppdp/proceedings)   | sigplan 12 pgs. + refs                                                    |
@@ -201,26 +201,12 @@ I was previously a postdoctoral researcher of
 <br>
 ### Programming Environment and Experience
 
-| Conference                                     | Comment                      |
-| :--------------------------------------------- | :--------------------------- |
-| [LIVE](https://conf.researchr.org/series/live) | Colocated with SPLASH        |
-| [PX](https://conf.researchr.org/series/px)     | Colocated with ‹Programming› |
-| [SIGCHI](https://programs.sigchi.org/)         | Hosts CHI, IUI, UIST         |
-
-<br>
-### Programming Education
-
-| Conference | Comment                      |
-| :--------- | :--------------------------- |
-| ITiCSE     | https://iticse.acm.org/2023/ |
-
-<br>
-### Others
-
-| Conference                                   | Comment                                                                             |
-| :------------------------------------------- | :---------------------------------------------------------------------------------- |
-| [COP](https://conf.researchr.org/series/COP) | Colocated with ECOOP                                                                |
-| Onward!                                      | Colocated with SPLASH<br>https://2022.splashcon.org/track/splash-2022-Onward-papers |
+| Conference                                       | Comment                      |
+| :----------------------------------------------- | :--------------------------- |
+| [LIVE](https://conf.researchr.org/series/live)   | Colocated with SPLASH        |
+| [PAINT](https://conf.researchr.org/series/paint) | Colocated with SPLASH        |
+| [PX](https://conf.researchr.org/series/px)       | Colocated with ‹Programming›  |
+| [SIGCHI](https://programs.sigchi.org/)           | Hosts CHI, IUI, UIST         |
 
 <br>
 
