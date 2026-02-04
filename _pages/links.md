@@ -10,12 +10,14 @@ nav_order: 10
 ## Labs
 
 I am an alumnus and currently a faculty member of
+
 - [Programming Group (a.k.a. PRG-Group)](http://prg.is.titech.ac.jp/),
   - [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/),
   - [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04),
   - [Institute of Science Tokyo](https://www.isct.ac.jp/en) <span style="font-size:0.8em">(renamed in 2024 after merging with [TMDU](https://www.tmd.ac.jp/english/), formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/english))</span>.
 
 I was previously a postdoctoral researcher of
+
 - [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
   - [Department of Communications and Computer Engineering](https://www.cce.i.kyoto-u.ac.jp/english),
   - [Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/),
@@ -24,11 +26,14 @@ I was previously a postdoctoral researcher of
 ---
 
 ## Visits
+
 #### 2026
+
 - [PPL 2026](https://jssst-ppl.org/workshop/2026/) in Kagawa, Japan (March 2026)
 - 3?-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (February 2026)
 
 #### 2025
+
 - Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for [The 6th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
 - 1-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (December 2025)
 - 1-day visit to [Unno lab (TohokuU)](https://www.riec.tohoku.ac.jp/~unno/) in Miyagi, Japan (December 2025)
@@ -59,6 +64,7 @@ I was previously a postdoctoral researcher of
 - Half-day visit to [Shinya lab (Akita University)](http://www.math.akita-u.ac.jp/~ryoma/) in Akita, Japan (January 2025)
 
 #### 2024
+
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) for [The 2nd PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
 - [PRO 2024-3](https://sigpro.ipsj.or.jp/pro2024-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2024)
 - Half-day visit to [Programming Lang. (Yasugi-Emoto) lab (Kyutech)](https://www.pl.ai.kyutech.ac.jp/) in Fukuoka, Japan (November 2024)
@@ -73,6 +79,7 @@ I was previously a postdoctoral researcher of
 - [PPL 2024](https://jssst-ppl.org/workshop/2024/) in Niigata, Japan (March 2024)
 
 #### 2023
+
 - [APSEC 2023](https://conf.researchr.org/home/apsec-2023) in Seoul, Korea (December 2023)
 - [APLAS 2023](https://conf.researchr.org/home/aplas-2023) in Taipei, Taiwan (November 2023)
 - Online participation in [JSSST 2023](https://jssst2023.wordpress.com/) (Septemebr 2023)
@@ -82,6 +89,7 @@ I was previously a postdoctoral researcher of
 - [‹Programming› 2023](https://2023.programming-conference.org/) in Tokyo, Japan (March 2023)
 
 #### 2022
+
 - Half-day visit to [Software Architecture Group (HPI)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Berlin, Germany (July 2022)
 - [ECOOP 2022](https://2022.ecoop.org/) in Berlin, Germany (July 2022)
 - Online participation in [‹Programming› 2022](https://2022.programming-conference.org/) (April 2022)
@@ -89,6 +97,7 @@ I was previously a postdoctoral researcher of
 - Online participation in [POPL 2022](https://popl22.sigplan.org/) (January 2022)
 
 #### 2021
+
 - 2-month online internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) (November & December 2021)
 - Online participation in [JSSST 2021](https://jssst2021.wordpress.com/) (September 2021)
 - Online participation in [ICFP 2021](https://icfp21.sigplan.org/) (August 2021)
@@ -98,16 +107,19 @@ I was previously a postdoctoral researcher of
 - Online participation in [POPL 2021](https://popl21.sigplan.org/) (January 2021)
 
 #### 2020
+
 - Online participation in [APLAS 2020](https://conf.researchr.org/home/aplas-2020) (December 2020)
 - Online participation in [SPLASH/ECOOP 2020](https://2020.splashcon.org/) (November 2020)
 - Online participation in [ICFP 2020](https://icfp20.sigplan.org/) (August 2020)
 - (Canceled due to COVID-19) [PPL 2020](https://jssst-ppl.org/workshop/2020/) in Saga, Japan (March 2020)
 
 #### 2019
+
 - [PRO 2019-1](https://sigpro.ipsj.or.jp/pro2019-1/) in Nagoya, Japan (June 2019)
 - [PPL 2019](https://jssst-ppl.org/workshop/2019/) in Iwate, Japan (March 2019)
 
 #### 2018
+
 - 2-month internship at [IBM Research Tokyo](http://www.research.ibm.com/labs/tokyo/) in Tokyo, Japan (September & October 2018)
 - Kumiki meeting 6.0 at Kyushu University in Fukuoka, Japan (September 2018)
 - [ECOOP/ISSTA 2018](https://2018.ecoop.org/) in Amsterdam, Netherlands (July 2018)
@@ -115,9 +127,10 @@ I was previously a postdoctoral researcher of
 - [PRO 2017-5](https://sigpro.ipsj.or.jp/pro2017-5/) in Tokyo, Japan (February & March 2018)
 
 #### 2017
+
 - [JSSST 2017](https://jssst2017.wordpress.com/) in Tokyo, Japan (September 2017)
 
---- 
+---
 
 ## Tools
 
@@ -129,26 +142,27 @@ I was previously a postdoctoral researcher of
 
 ## International Conference
 
-| Conference                                                     | Date                    | Archive                                                                | Submission     |
-| :------------------------------------------------------------- | :---------------------- | :--------------------------------------------------------------------- | :------------- |
-| [POPL](https://conf.researchr.org/series/popl)                 | January                 | [PACMPL](https://dl.acm.org/loi/pacmpl)                        | acmsmall 25 pgs. + refs |
-| [PLDI](https://conf.researchr.org/series/pldi)                 | June                    | [PACMPL](https://dl.acm.org/loi/pacmpl)                        | acmsmall 20 pgs. + refs |
-| [SPLASH/OOPSLA](https://conf.researchr.org/series/splash)      | October ~ <br>December  | [PACMPL](https://dl.acm.org/loi/pacmpl)                        | acmsmall 23(+4) pgs. + refs<br>2 _separate_ rounds of reviewing |
-| [ICFP](https://conf.researchr.org/series/icfp)                 | August ~ <br>September  | [PACMPL](https://dl.acm.org/loi/pacmpl)                        | acmsmall 25(+2) pgs. + refs |
-| [ECOOP](https://conf.researchr.org/series/ecoop)               | June ~ <br>July         | [LIPIcs](https://drops.dagstuhl.de/entities/conference/ECOOP) | No limits when submission<br>LIPIcs 25 pgs. + refs (camera-ready)<br>2 _separate_ rounds of reviewing |
-| [ESOP](https://etaps.org/)                                     | October ~ <br>November  | [proceedings](https://link.springer.com/conference/esop)    | LNCS 25 pgs. + refs |
+| Conference                                                | Date                   | Archive                                                       | Submission                                                                                            |
+| :-------------------------------------------------------- | :--------------------- | :------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------- |
+| [POPL](https://conf.researchr.org/series/popl)            | January                | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 25 pgs. + refs                                                                               |
+| [PLDI](https://conf.researchr.org/series/pldi)            | June                   | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 20 pgs. + refs                                                                               |
+| [SPLASH/OOPSLA](https://conf.researchr.org/series/splash) | October ~ <br>December | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 23(+4) pgs. + refs<br>2 _separate_ rounds of reviewing                                       |
+| [ICFP](https://conf.researchr.org/series/icfp)            | August ~ <br>September | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 25(+2) pgs. + refs                                                                           |
+| [ECOOP](https://conf.researchr.org/series/ecoop)          | June ~ <br>July        | [LIPIcs](https://drops.dagstuhl.de/entities/conference/ECOOP) | No limits when submission<br>LIPIcs 25 pgs. + refs (camera-ready)<br>2 _separate_ rounds of reviewing |
+| [ESOP](https://etaps.org/)                                | October ~ <br>November | [proceedings](https://link.springer.com/conference/esop)      | LNCS 25 pgs. + refs                                                                                   |
 
-| Conference                                                     | Date                        | Archive                                                                    | Submission     |
-| :------------------------------------------------------------- | :-------------------------- | :------------------------------------------------------------------------- | :------------- |
-| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ <br>December      | [proceedings](https://link.springer.com/conference/flops)       | LNCS 15 pgs. + refs |
-| [APLAS](https://conf.researchr.org/series/aplas)               | October ~ <br>December      | [proceedings](https://link.springer.com/conference/aplas)       | LNCS 17(+1) pgs. + refs |
-| [‹Programming›](https://conf.researchr.org/series/programming)  | March ~ <br>April           | [‹Programming› Journal](https://programming-journal.org/)                        | ‹Programming› template 22 pgs. + refs<br>3 _separate_ rounds of reviewing |
-| [GPCE](https://conf.researchr.org/series/gpce)                 | (Colocated with SPLASH)     | [proceedings](https://dl.acm.org/conference/gpce/proceedings)   | sigplan 12 pgs. + refs |
-| [SLE](https://conf.researchr.org/series/sle)                   | (Colocated with SPLASH)     | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?) |
-| [DLS](https://conf.researchr.org/series/dls)                   | (Colocated with SPLASH)     | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?) |
-| [PPDP](https://conf.researchr.org/series/ppdp)                 | September ~ <br>October     | [proceedings](https://dl.acm.org/conference/ppdp/proceedings)   | sigplan 12 pgs. + refs |
+| Conference                                                     | Date                    | Archive                                                         | Submission                                                                |
+| :------------------------------------------------------------- | :---------------------- | :-------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ <br>December  | [proceedings](https://link.springer.com/conference/flops)       | LNCS 15 pgs. + refs                                                       |
+| [APLAS](https://conf.researchr.org/series/aplas)               | October ~ <br>December  | [proceedings](https://link.springer.com/conference/aplas)       | LNCS 17(+1) pgs. + refs                                                   |
+| [‹Programming›](https://conf.researchr.org/series/programming) | March ~ <br>April       | [‹Programming› Journal](https://programming-journal.org/)       | ‹Programming› template 22 pgs. + refs<br>3 _separate_ rounds of reviewing |
+| [GPCE](https://conf.researchr.org/series/gpce)                 | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/gpce/proceedings)   | sigplan 12 pgs. + refs                                                    |
+| [SLE](https://conf.researchr.org/series/sle)                   | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?)                                         |
+| [DLS](https://conf.researchr.org/series/dls)                   | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?)                                         |
+| [PPDP](https://conf.researchr.org/series/ppdp)                 | September ~ <br>October | [proceedings](https://dl.acm.org/conference/ppdp/proceedings)   | sigplan 12 pgs. + refs                                                    |
 
 ### Templates
+
 - [acmsmall (acmart, PACMPL)](https://www.sigplan.org/Resources/Author/)
 - [sigplan (acmart)](https://www.sigplan.org/Resources/Author/)
 - [Springer LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
@@ -165,20 +179,20 @@ I was previously a postdoctoral researcher of
 <br>
 ### Language Implementation
 
-| Conference                                             | Comment        |
-| :----------------------------------------------------- | :------------- |
+| Conference                                             | Comment                      |
+| :----------------------------------------------------- | :--------------------------- |
 | [MoreVMs](https://conf.researchr.org/series/MOREVMs)   | Colocated with ‹Programming› |
-| [Array](https://conf.researchr.org/series/ARRAY)       | Colocated with PLDI |
-| [ICOOOLPS](https://conf.researchr.org/series/ICOOOLPS) | Colocated with ECOOP |
+| [Array](https://conf.researchr.org/series/ARRAY)       | Colocated with PLDI          |
+| [ICOOOLPS](https://conf.researchr.org/series/ICOOOLPS) | Colocated with ECOOP         |
 
 <br>
 ### Types and Functional Language
 
-| Conference                                         | Comment        |
-| :------------------------------------------------- | :------------- |
+| Conference                                         | Comment             |
+| :------------------------------------------------- | :------------------ |
 | [PEPM](https://conf.researchr.org/series/pepm)     | Colocated with POPL |
 | [Scheme](https://conf.researchr.org/series/Scheme) | Colocated with ICFP |
-| [TFP](https://trendsfp.github.io/)                 |  |
+| [TFP](https://trendsfp.github.io/)                 |                     |
 | [WITS](https://conf.researchr.org/series/wits)     | Colocated with POPL |
 | [TyDe](https://conf.researchr.org/series/tyde)     | Colocated with ICFP |
 | [HOPE](https://conf.researchr.org/series/hope)     | Colocated with ICFP |
@@ -186,25 +200,25 @@ I was previously a postdoctoral researcher of
 <br>
 ### Programming Environment and Experience
 
-| Conference                                     | Comment        |
-| :--------------------------------------------- | :------------- |
-| [LIVE](https://conf.researchr.org/series/live) | Colocated with SPLASH |
+| Conference                                     | Comment                      |
+| :--------------------------------------------- | :--------------------------- |
+| [LIVE](https://conf.researchr.org/series/live) | Colocated with SPLASH        |
 | [PX](https://conf.researchr.org/series/px)     | Colocated with ‹Programming› |
-| [SIGCHI](https://programs.sigchi.org/)         | Hosts CHI, IUI, UIST |
+| [SIGCHI](https://programs.sigchi.org/)         | Hosts CHI, IUI, UIST         |
 
 <br>
 ### Programming Education
 
-| Conference                                     | Comment        |
-| :--------------------------------------------- | :------------- |
-| ITiCSE                                         | https://iticse.acm.org/2023/ |
+| Conference | Comment                      |
+| :--------- | :--------------------------- |
+| ITiCSE     | https://iticse.acm.org/2023/ |
 
 <br>
 ### Others
 
-| Conference                                   | Comment        |
-| :------------------------------------------- | :------------- |
-| [COP](https://conf.researchr.org/series/COP) | Colocated with ECOOP |
+| Conference                                   | Comment                                                                             |
+| :------------------------------------------- | :---------------------------------------------------------------------------------- |
+| [COP](https://conf.researchr.org/series/COP) | Colocated with ECOOP                                                                |
 | Onward!                                      | Colocated with SPLASH<br>https://2022.splashcon.org/track/splash-2022-Onward-papers |
 
 <br>
@@ -214,9 +228,9 @@ I was previously a postdoctoral researcher of
 <br>
 ### Domestic Conference
 
-| Conference                                                 | Comment        |
-| :--------------------------------------------------------- | :------------- |
-| [SIGPX](https://sigpx.org/)                                |  |
-| [JSSST-PPL](https://jssst-ppl.org/workshop/2023/)          |  |
-| [JSSST Annual Conference](https://www.jssst.or.jp/taikai/) |  |
-| [IPSJ PRO](https://sigpro.ipsj.or.jp/)                     |  |
+| Conference                                                 | Comment |
+| :--------------------------------------------------------- | :------ |
+| [SIGPX](https://sigpx.org/)                                |         |
+| [JSSST-PPL](https://jssst-ppl.org/workshop/2023/)          |         |
+| [JSSST Annual Conference](https://www.jssst.or.jp/taikai/) |         |
+| [IPSJ PRO](https://sigpro.ipsj.or.jp/)                     |         |

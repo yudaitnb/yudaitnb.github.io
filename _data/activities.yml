@@ -2,26 +2,26 @@
   type: time_table
   contents:
     - year: 2026
-      items: 
+      items:
         - <a href="https://conf.researchr.org/home/sle-2026">SLE</a> (Program Committee)
     - year: 2025
-      items: 
+      items:
         - <a href="https://jssst-ppl.org/workshop/2025/">PPL</a> (Program Committee)
     - year: 2024
-      items: 
+      items:
         - <a href="https://2024.ecoop.org/track/ecoop-2024-papers">ECOOP</a> (Extended Review Committee)
         - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Selection Committee & Judge)
         - <a href="https://conf.researchr.org/home/tyde-2024">TyDe</a> (Program Committee)
         - <a href="https://www.iccq.ru/2024.html">ICCQ</a> (Program Committee)
     - year: 2023
-      items: 
+      items:
         - <a href="https://conf.researchr.org/track/apsec-2023/apsec-2023-student-research-competition">APSEC SRC</a> (Program Committee)
         - <a href="https://conf.researchr.org/track/aplas-2023/src-and-posters">APLAS SRC & Posters</a> (Judge)
         - <a href="https://conf.researchr.org/track/icsme-2023/icsme-2023-industry-track">ICSME Industry Track</a> (Program Committee)
         - <a href="https://conf.researchr.org/track/COP-2023/COP-2023">COP</a> (Program Committee <b><i>Chair</i></b>)
         - <a href="https://www.iccq.ru/2023.html">ICCQ</a> (Program Committee)
     - year: 2022
-      items: 
+      items:
         - <a href="https://2022.ecoop.org/home/COP-2022">COP</a> (Program Committee <b><i>Chair</i></b>)
 
 - title: External Reviewer
@@ -31,26 +31,26 @@
       items:
         - <a href="https://conf.researchr.org/track/apsec-2024/apsec-2024-technical-track">APSEC</a> (External Reviewer)
     - year: 2022
-      items: 
+      items:
         - <a href="https://peerj.com/computer-science/">PeerJ Computer Science</a> (Reviewer)
     - year: 2021
-      items: 
+      items:
         - <a href="https://icfp21.sigplan.org/home/scheme-2021">Scheme</a> (External Reviewer)
     - year: 2020
-      items: 
+      items:
         - <a href="https://2020.splashcon.org/track/splash-2020-Onward-Essays">Onward! Essays</a> (Co-reviewer)
 
 - title: Artifact Evaluation Committee
   type: time_table
   contents:
     - year: 2025
-      items: 
+      items:
         - <a href="https://pldi25.sigplan.org/track/pldi-2025-pldi-research-artifacts">PLDI Research Artifacts</a> (Artifact Evaluation Committee)
         - <a href="https://2025.splashcon.org/track/splash-2025-oopsla-artifacts">OOPSLA Artifacts</a> (Artifact Evaluation Committee)
         - <a href="https://popl25.sigplan.org/track/POPL-2025-artifact-evaluation">POPL Artifact Evaluation</a> (Artifact Evaluation Committee)
         - <a href="https://2025.programming-conference.org/track/programming-2025-artifacts">‹Programming›</a> (Artifact Evaluation Committee)
     - year: 2024
-      items: 
+      items:
         - <a href="https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts">PLDI Research Artifacts</a> (Artifact Evaluation Committee)
         - <a href="https://2024.ecoop.org/track/ecoop-2024-artifact-evaluation">ECOOP Artifact Evaluation</a> (Artifact Evaluation Committee)
         - <a href="https://icfp24.sigplan.org/track/icfp-2024-artifact-evaluation">ICFP Artifact Evaluation</a> (Artifact Evaluation Committee)
@@ -59,23 +59,23 @@
   type: time_table
   contents:
     - year: 2024~
-      items: 
+      items:
         - <a href="https://skymountain.github.io/pl-seminar/">PL Joint Seminar</a> (Founder, Organizer) <span style="font-size:0.8em">(Co-founded by <a href="https://skymountain.github.io/">Taro Sekiyama</a> and <a href="https://takeshi-tsukada.github.io/">Takeshi Tsukada</a>)</span>
     - year: 2026
-      items: 
+      items:
         - <a href="https://jssst-ppl.org/workshop/2026/">PPL</a> (Assistant Treasurer)
     - year: 2025
-      items: 
+      items:
         - <a href="https://jssst-ppl.org/workshop/2025/">PPL</a> (Treasurer)
     - year: 2024
-      items: 
+      items:
         - <a href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F">APLAS SRC & Posters</a> (Organizer) <span style="font-size:0.8em">(Co-organized with <a href="https://www.kurims.kyoto-u.ac.jp/~kmuroya/">Koko Muroya</a>)</span>
         - <a href="https://atva-conference.org/2024/">ATVA</a> (Poster Chair) <span style="font-size:0.8em">(Co-organized with <a href="https://www.kurims.kyoto-u.ac.jp/~kmuroya/">Koko Muroya</a>)</span>
     - year: 2023
-      items: 
+      items:
         - <a href="https://conf.researchr.org/track/COP-2023/COP-2023">COP</a> (Organizing Committee) <span style="font-size:0.8em">(Co-organized with <a href="https://cfaed.tu-dresden.de/ccc-staff-schuetze">Lars Schütze</a>)</span>
     - year: 2022
-      items: 
+      items:
         - <a href="https://2022.ecoop.org/home/COP-2022">COP</a> (Organizing Committee) <span style="font-size:0.8em">(Co-organized with <a href="https://jenslincke.de/">Jens Lincke</a>)</span>
         - <a href="https://popl22.sigplan.org/home/pepm-2022">PEPM History Project</a> (Organizing Committee)
 
@@ -83,8 +83,8 @@
   type: time_table
   contents:
     - year: 2021
-      items: 
+      items:
         - <a href="https://jssst-ppl.org/workshop/2021/">PPL</a> (Panelist (Social Event))
     - year: 2020
-      items: 
+      items:
         - <a href="https://2020.splashcon.org/">SPLASH</a> (Student Volunteer)
