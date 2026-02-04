@@ -36,7 +36,7 @@ and working on their thesis projects regarding <b><i>advanced module systems</i>
 
 ### Awards and Papers of Students
 
-For a comprehensive list including informal publications by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
+For a comprehensive list including informal publications and presentations by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
 
 #### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 
