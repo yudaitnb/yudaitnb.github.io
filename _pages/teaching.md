@@ -37,6 +37,7 @@ nav_order: 6
 #### at Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 
 - <a class="font-weight-bold">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
+
   - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202502398?hl=en">2025 1Q (April~)</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502398&Nendo=2025&vid=03&lang=EN">Syllabus (old)</a>)
 
 - <a class="font-weight-bold">Forum on Computing</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
