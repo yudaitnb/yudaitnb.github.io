@@ -12,13 +12,13 @@ nav_order: 6
 #### at Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 
 - <a class="font-weight-bold">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
-  - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202502398?hl=en">2025 1Q (April~)</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502398&Nendo=2025&vid=03&lang=EN">Syllabus (old)</a>)
+  <!-- - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202502398?hl=en">2026 1Q (April~)</a> -->
 - <a class="font-weight-bold">Forum on Computing</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
-  - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202532847?hl=en">2025 3Q-4Q (October~) (F3, F4, F5)</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532847&Nendo=2025&vid=03&lang=EN">Syllabus (old)</a>)
-  - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202532846?hl=en">2025 1Q-2Q (April~) (S3, S4, S5)</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532846&Nendo=2025&vid=03&lang=EN">Syllabus (old)</a>)
+  <!-- - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202532847?hl=en">2026 3Q-4Q (October~) (F3, F4, F5)</a> -->
+  <!-- - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202532846?hl=en">2026 1Q-2Q (April~) (S3, S4, S5)</a> -->
 - <a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
-  - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202502404?hl=en">2025 3Q-4Q (October~)</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502404&Nendo=2025&vid=03&lang=EN">Syllabus (old)</a>)
-    - Lecture 2: <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and Programming Languages</a>.
+  <!-- - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202502404?hl=en">2026 3Q-4Q (October~)</a> -->
+    <!-- - Lecture 2: <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and Programming Languages</a>. -->
 
 ##### Research Opportunity in Laboratories (MCS)
 
@@ -36,12 +36,16 @@ nav_order: 6
 
 #### at Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 
-<!-- - <a class="font-weight-bold">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
-  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502398&Nendo=2025&vid=03&lang=EN">2025 1Q (April~)</a> -->
+- <a class="font-weight-bold">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
+  - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202502398?hl=en">2025 1Q (April~)</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502398&Nendo=2025&vid=03&lang=EN">Syllabus (old)</a>)
 
 - <a class="font-weight-bold">Forum on Computing</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
+  - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202532847?hl=en">2025 3Q-4Q (October~) (F3, F4, F5)</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532847&Nendo=2025&vid=03&lang=EN">Syllabus (old)</a>)
+  - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202532846?hl=en">2025 1Q-2Q (April~) (S3, S4, S5)</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202532846&Nendo=2025&vid=03&lang=EN">Syllabus (old)</a>)
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=340000&KeiCD=&KougiCD=202432847&Nendo=2024&vid=03&lang=EN">2024 3Q-4Q (October~) (F3, F4, F5)</a>
 - <a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
+  - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202502404?hl=en">2025 3Q-4Q (October~)</a> (<a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202502404&Nendo=2025&vid=03&lang=EN">Syllabus (old)</a>)
+    - Lecture 2: <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and Programming Languages</a>.
   - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=202402404&Nendo=2024&vid=03&lang=EN">2024 3Q-4Q (October~)</a>
     - Lecture 2: <a href="https://github.com/prg-titech/pypy-tutorial-jp">The PyPy Tutorial</a>
     - Lecture 3: <a href="https://gchandbook.org/editions.html">The Garbage Collection Handbook (2nd ed.)</a>
