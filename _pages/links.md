@@ -31,6 +31,7 @@ I was previously a postdoctoral researcher of
 
 - 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2026)
 - [PPL 2026](https://jssst-ppl.org/workshop/2026/) in Kagawa, Japan (March 2026)
+- 1-week visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (March 2026)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) for [The 7th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (February 2026)
 
 #### 2025
