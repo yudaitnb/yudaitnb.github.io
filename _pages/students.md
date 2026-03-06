@@ -18,19 +18,22 @@ If you wish to conduct research with me, please contact the PIs mentioned above.
 
 ## Current Students
 
-(Updated on January 12, 2026)<br>
+(Updated on April 1, 2026)<br>
 I am currently mentoring
 
-- **one** Phd all but dissertation doctoral student at Science Tokyo,
-<!-- D5: Luthfan -->
-- **one** Phd students at NII,
-<!-- D1: Kawakami -->
-- **six** graduate students at Science Tokyo, and
-<!-- M2: Kasuya, Kawazoe, M1 Autumn: Peien, M1: Inaba, Yoshio, Hayashi -->
-- **one** graduate students at Kyoto University, and
-<!-- M1: Oshima (KU) -->
-- **no** undergraduate students.
-<!-- B4:  -->
+- **three** Phd students at Science Tokyo and NII, and
+<!-- D6: Luthfan,
+     D2: Kawakami,
+     D1: Kasuya -->
+- **six** graduate students at Science Tokyo and Kyoto University, and
+<!-- M2 Autumn: Peien,
+     M2 Spring: Inaba, Yoshio, Oshima
+     M1 Autumn: Hayashi,
+     M1 Spring: Vincenzo -->
+- **two** undergraduate students, and
+<!-- B4: Nakano, Kataoka -->
+- **one** research student.
+<!-- Ex: Kocatas -->
 
 and working on their thesis projects regarding <b><i>advanced module systems</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>programming interactivity</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
 
