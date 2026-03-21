@@ -26,6 +26,13 @@
 - title: Contributing as a Co-investigator
   type: time_table
   contents:
+    - title: <a href="">Research on (TBA) (accepted)</a><br><span style="font-size:0.8em">(TBA)の研究 (採択済)</span>
+      institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
+      year: 2026 - 2029
+      description:
+        - Grant in Aid for Scientific Research (A) (基盤研究(A))
+        - Project Number <a href="">TBA</a>
+
     - title: <a href="https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K28058/">High-Performance and Highly-Productive Language Infrastructures Based on Language Implementation Frameworks</a><br><span style="font-size:0.8em">言語処理系フレームワークによる性能と開発効率を両立させる言語基盤の創出</span>
       institution: <a href="https://www.jsps.go.jp/english/">Japan Society For the Promotion of Science (JSPS)</a>
       year: 2023 - 2028
