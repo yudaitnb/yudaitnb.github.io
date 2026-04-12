@@ -27,6 +27,10 @@ I was previously a postdoctoral researcher of
 
 ## Visits
 
+#### 2027
+
+- [PPL 2027](https://jssst-ppl.org/workshop/2027/) in ???, Japan (March 2027)
+
 #### 2026
 
 - Host [12th SATSS](https://sc-sys.github.io/), with talks by [Prof. Binoy Ravindran](https://binoyravindran.github.io/) and Izumi Tanaka, at Science Tokyo in Tokyo, Japan (May 2026)
