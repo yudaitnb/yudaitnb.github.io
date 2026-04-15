@@ -12,12 +12,12 @@ nav_order: 6
 #### at Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 
 - <a class="font-weight-bold">Programming II</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
-  <!-- - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202502398?hl=en">2026 1Q (April~)</a> -->
+  - <a href="https://syllabus.s.isct.ac.jp/courses/2026/4/0-904-342200-0-0/202602398?hl=en">2026 1Q (April~)</a>
 - <a class="font-weight-bold">Forum on Computing</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
-  <!-- - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202532847?hl=en">2026 3Q-4Q (October~) (F3, F4, F5)</a> -->
-  <!-- - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202532846?hl=en">2026 1Q-2Q (April~) (S3, S4, S5)</a> -->
+  - <a href="https://syllabus.s.isct.ac.jp/courses/2026/4/1-904-340000-121100-0/202632846?hl=en">2026 1Q-2Q (April~) (S3, S4, S5)</a>
+  - <a href="https://syllabus.s.isct.ac.jp/courses/2026/4/1-904-340000-121100-0/202632847?hl=en">2026 3Q-4Q (October~) (F3, F4, F5)</a>
 - <a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
-  <!-- - <a href="https://syllabus.s.isct.ac.jp/courses/-/-/-/202502404?hl=en">2026 3Q-4Q (October~)</a> -->
+  - <a href="https://syllabus.s.isct.ac.jp/courses/2026/4/0-904-342200-0-0/202602404?hl=en">2026 3Q-4Q (October~)</a>
     <!-- - Lecture 2: <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and Programming Languages</a>. -->
 
 ##### Research Opportunity in Laboratories (MCS)
