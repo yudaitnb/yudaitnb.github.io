@@ -33,7 +33,7 @@ I was previously a postdoctoral researcher of
 
 #### 2026
 
-- Host [12th SATSS](https://sc-sys.github.io/), with talks by [Prof. Binoy Ravindran](https://binoyravindran.github.io/) and Izumi Tanaka, at Science Tokyo in Tokyo, Japan (May 2026)
+- Host [12th SATSS](https://sc-sys.github.io/), with invited talks by [Prof. Binoy Ravindran](https://binoyravindran.github.io/) and Izumi Tanaka, at Science Tokyo in Tokyo, Japan (May 2026)
 - Weekly one-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (From April 2026)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (March 2026)
 - 4-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2026)
