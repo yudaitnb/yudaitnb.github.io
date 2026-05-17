@@ -28,8 +28,14 @@
   type: time_table
   contents:
     - title: Assistant Professor
-      institution: <a href="https://educ.titech.ac.jp/is/eng/">Department of Mathematical and Computing Science</a>, <a href="https://www.titech.ac.jp/english/about/organization/schools/organization04">School of Computing</a>, <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology
-      year: 2024 - 2029
+      institution: <a href="https://educ.titech.ac.jp/is/eng/">Department of Mathematical and Computing Science</a>, <a href="https://www.titech.ac.jp/english/about/organization/schools/organization04">School of Computing</a>, <a href="https://www.isct.ac.jp/en">Institute of Science Tokyo (renamed due to University merger)</a>
+      year: 2024 Spr - 2029 Mar
+      description:
+        - Running <a href="https://prg.is.titech.ac.jp/">PRG-group</a> with <a href="https://prg.is.titech.ac.jp/people/masuhara/">Hidehiko Masuhara</a> and <a href="https://sites.google.com/site/youyoucong212/">Youyou Cong</a>
+
+    - title: Assistant Professor
+      institution: <a href="https://educ.titech.ac.jp/is/eng/">Department of Mathematical and Computing Science</a>, <a href="https://www.titech.ac.jp/english/about/organization/schools/organization04">School of Computing</a>, <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology</a>
+      year: 2024 Apr - 2024 Sep
       description:
         - Running <a href="https://prg.is.titech.ac.jp/">PRG-group</a> with <a href="https://prg.is.titech.ac.jp/people/masuhara/">Hidehiko Masuhara</a> and <a href="https://sites.google.com/site/youyoucong212/">Youyou Cong</a>
 
@@ -82,6 +88,7 @@
     - title: <a href="https://www.titech.ac.jp/english/enrolled/tuition/tsubame_scholarship.html">Tokyo Tech Tsubame Scholarship</a>
       institution: Tokyo Institute of Technology
       year: 2020 - 2022
+
 # - title: Honors and Awards
 #   type: time_table
 #   contents:
