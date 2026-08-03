@@ -29,6 +29,7 @@ I was previously a postdoctoral researcher of
 
 #### 2027
 
+- [‹Programming› 2027](https://2027.programmingconference.org/) in Kyoto, Japan (March 2027)
 - [PPL 2027](https://jssst-ppl.org/workshop/2027/) in Kyoto, Japan (March 2027)
 
 #### 2026
