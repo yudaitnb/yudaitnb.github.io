@@ -33,6 +33,8 @@ I was previously a postdoctoral researcher of
 - [PPL 2027](https://jssst-ppl.org/workshop/2027/) in Kyoto, Japan (March 2027)
 
 #### 2026
+
+- [APSEC 2026](https://conf.researchr.org/home/apsec-2026) in Bali, Indonesia (December 2026)
 - [NII Karuizawa Seminar](https://www.nii.ac.jp/en/about/seminar-house/) in Nagano, Japan (September 2026)
 - 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (September 2026)
 - [JSSST 2026](https://jssst2026.wordpress.com/) in Hokkaido, Japan (September 2026)
