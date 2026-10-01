@@ -35,6 +35,8 @@ I was previously a postdoctoral researcher of
 #### 2026
 
 - [APSEC 2026](https://conf.researchr.org/home/apsec-2026) in Bali, Indonesia (December 2026)
+- Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 10th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (Nov 2026)
+- Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 9th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (Oct 2026)
 - [NII Karuizawa Seminar](https://www.nii.ac.jp/en/about/seminar-house/) in Nagano, Japan (September 2026)
 - 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (September 2026)
 - [JSSST 2026](https://jssst2026.wordpress.com/) in Hokkaido, Japan (September 2026)
