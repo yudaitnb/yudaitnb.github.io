@@ -154,7 +154,10 @@ I was previously a postdoctoral researcher of
 
 ---
 
-## International Conference
+## International Conference (associated with PRG-group)
+
+If you are interested in PL/verification, see also [我々の分野の国際会議紹介](https://kensakayori.github.io/blog/posts/2026-09-22.html).
+The article was written at the 2026 Karuizawa Workshop.
 
 | Conference                                                | Date                   | Archive                                                       | Submission                                                                                            |
 | :-------------------------------------------------------- | :--------------------- | :------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------- |
