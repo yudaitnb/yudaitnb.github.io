@@ -38,6 +38,10 @@
   url: https://conf.researchr.org/series/SLE
   color: "#005aff"
 
+"APSEC":
+  url: https://conf.researchr.org/series/apsec
+  color: "#005aff"
+
 "COP":
   url: https://conf.researchr.org/series/COP
   color: "#990099"
