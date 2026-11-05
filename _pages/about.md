@@ -34,7 +34,10 @@ I am an Assistant Professor at
 - [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04),
 - [Institute of Science Tokyo](https://www.isct.ac.jp/en).<br><span style="font-size:0.8em">(renamed in 2024 after merging with [TMDU](https://www.tmd.ac.jp/english/), formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/english))</span>
 
-I am also a member of [Association for Computing Machinery (ACM)](https://www.acm.org/) and [Information Processing Society of Japan (IPSJ)](https://www.ipsj.or.jp/english/index.html).
+I am also a member of
+- [Association for Computing Machinery (ACM)](https://www.acm.org/),
+- [Information Processing Society of Japan (IPSJ)](https://www.ipsj.or.jp/english/index.html), and
+- [Japan Society for Software Science and Technology (JSSST)](https://www.jssst.or.jp/).
 
 <details>
   <summary>Short Bio (en)</summary>
