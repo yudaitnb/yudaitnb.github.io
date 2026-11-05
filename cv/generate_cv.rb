@@ -532,7 +532,7 @@ class CvGenerator
   end
 
   def extract_email(body)
-    body[/mailto:([^"'>\s]+)/, 1] || "yudaitnb@prg.is.titech.ac.jp"
+    body[/mailto:([^"'>\s]+)/, 1] || "yudaitnb@prg.comp.isct.ac.jp"
   end
 
   def clean_data_text(value)
