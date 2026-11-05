@@ -22,10 +22,10 @@ If you wish to conduct research with me, please contact the PIs mentioned above.
 I am currently mentoring
 
 - **three** PhD students at Science Tokyo, NII and
-<!-- D6: Luthfan, -->
-<!-- D2: Kawakami,
-     D1: Kasuya,
-     D1A: Peien -->
+  <!-- D6: Luthfan, -->
+  <!-- D2: Kawakami,
+       D1: Kasuya,
+       D1A: Peien -->
 - **four** graduate students at Science Tokyo and Kyoto University, and
 <!-- M2: Inaba, Yoshio, Oshima
      M1A: Hayashi -->
