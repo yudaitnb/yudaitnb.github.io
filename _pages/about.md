@@ -29,7 +29,7 @@ Assistant Professor
 
 I am an Assistant Professor at
 
-- [Programming Group (a.k.a. PRG-Group)](http://prg.is.titech.ac.jp/),
+- [Programming Group (a.k.a. PRG-Group)](http://prg.comp.isct.ac.jp/),
 - [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/),
 - [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04),
 - [Institute of Science Tokyo](https://www.isct.ac.jp/en).<br><span style="font-size:0.8em">(renamed in 2024 after merging with [TMDU](https://www.tmd.ac.jp/english/), formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/english))</span>
@@ -56,7 +56,7 @@ Yudai Tanabe, Ph.D., is an Assistant Professor at the Department of Mathematical
 
 <span style="width: 120px; display: inline-block">Postal Address:</span>Department of Mathematical and Computing Science, Tokyo Institute of Technology<br>
 <span style="width: 120px; display: inline-block"> </span>Ookayama 2-12-1 W8-35, Meguro-ku, Tokyo 152-8552 Japan<br>
-<span style="width: 120px; display: inline-block">E-mail:</span><a href="mailto:yudaitnb@prg.is.titech.ac.jp">yudaitnb [at] prg.is.titech.ac.jp</a><br>
+<span style="width: 120px; display: inline-block">E-mail:</span><a href="mailto:yudaitnb@prg.comp.isct.ac.jp">yudaitnb [at] prg.comp.isct.ac.jp</a><br>
 <span style="width: 120px; display: inline-block">Office:</span>E1005, West Bldg. 8E (<a href="https://www.titech.ac.jp/english/0/maps/ookayama/ookayama">"21" in the campus map</a>)<br>
 
 <hr>

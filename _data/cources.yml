@@ -18,23 +18,23 @@
     - year: 2019
       items:
         - 3Q (Oct~), Programming I <a href="https://prg1-2019.github.io/lecture/web/">[Class]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201902384&lang=EN">[OCW]</a>
-        - 2Q (Jun~), Information Literacy 2 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2019-il2/">[1b,3b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201907183&lang=EN&vid=03">[OCW(1b)]</a>
+        - 2Q (Jun~), Information Literacy 2 <a href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2019-il2/">[1b,3b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201907183&lang=EN&vid=03">[OCW(1b)]</a>
         - 1Q (Apr~), Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=201902383&Nendo=2019&lang=EN">[OCW]</a>
     - year: 2018
       items:
-        - 2Q (Jun~), Information Literacy 2 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il2/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201807183&lang=EN&vid=03">[OCW]</a>
-        - 1Q (Apr~), Information Literacy 1 <a href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il1/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201807165&Nendo=2018&lang=EN&vid=03">[OCW]</a>
+        - 2Q (Jun~), Information Literacy 2 <a href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2018-il2/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201807183&lang=EN&vid=03">[OCW]</a>
+        - 1Q (Apr~), Information Literacy 1 <a href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2018-il1/">[1b]</a> <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201807165&Nendo=2018&lang=EN&vid=03">[OCW]</a>
         - 1Q (Apr~), Introduction to Computer Science <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=201802383&Nendo=2018&lang=EN">[OCW]</a>
 
 - title: Mentorship
   type: time_table
   contents:
-    - title: <a href="https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a><br><span style="font-size:0.7em">複数バージョンのクラス定義を使用できる動的型付け言語の設計とその互換性検査機構</span>
+    - title: <a href="https://prg.comp.isct.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a><br><span style="font-size:0.7em">複数バージョンのクラス定義を使用できる動的型付け言語の設計とその互換性検査機構</span>
       institution: Satsuki Kasuya, <a href="https://www.jsps.go.jp/english/">PRG-group, Tokyo Institute of Technology</a>
       year: 2026
-    - title: <a href="https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a><br><span style="font-size:0.7em">複数バージョンのクラス定義を使用できる動的型付け言語の設計とその互換性検査機構</span>
+    - title: <a href="https://prg.comp.isct.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a><br><span style="font-size:0.7em">複数バージョンのクラス定義を使用できる動的型付け言語の設計とその互換性検査機構</span>
       institution: Satsuki Kasuya, <a href="https://www.jsps.go.jp/english/">PRG-group, Tokyo Institute of Technology</a>
       year: 2024
-    - title: <a href="https://prg.is.titech.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a><br><span style="font-size:0.7em">複数バージョンのクラス定義を使用できる動的型付け言語の設計とその互換性検査機構</span>
+    - title: <a href="https://prg.comp.isct.ac.jp/news/bachelor-defense-2024-02/">Design and Compatibility-Checking Mechanism of a Dynamically-Typed Language That Supports Multiple Versions</a><br><span style="font-size:0.7em">複数バージョンのクラス定義を使用できる動的型付け言語の設計とその互換性検査機構</span>
       institution: Satsuki Kasuya, <a href="https://www.jsps.go.jp/english/">PRG-group, Tokyo Institute of Technology</a>
       year: 2024

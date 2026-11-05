@@ -7,7 +7,7 @@ nav_order: 7
 description:
 ---
 
-- I assist in leading [the PRG-group](http://prg.is.titech.ac.jp/) under [Hidehiko Masuhara](https://prg.is.titech.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/)'s direction. If you find that our research areas align with your interests, please refer to ["How to Join the Group"](https://prg.is.titech.ac.jp/people/how-to-join/) for further details.
+- I assist in leading [the PRG-group](http://prg.comp.isct.ac.jp/) under [Hidehiko Masuhara](https://prg.comp.isct.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/)'s direction. If you find that our research areas align with your interests, please refer to ["How to Join the Group"](https://prg.comp.isct.ac.jp/people/how-to-join/) for further details.
 - I am also looking for students interested in type systems and program verification to collaborate with [Taro Sekiyama](https://skymountain.github.io/) at NII. If you are interested, please feel free to contact me.
 
 <b>Notice:</b>
@@ -32,7 +32,7 @@ I am currently mentoring
 - **two** undergraduate students, and
 <!-- B4: Nakano, Kataoka -->
 
-and working on their thesis projects regarding <b><i>advanced module systems</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>programming interactivity</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.is.titech.ac.jp/projects/) page.
+and working on their thesis projects regarding <b><i>advanced module systems</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>programming interactivity</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.comp.isct.ac.jp/projects/) page.
 
 ### Awards and Papers of Students
 
@@ -42,10 +42,10 @@ For a comprehensive list including informal publications and presentations by my
 
 ##### Papers
 
-- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/yoshimura/">Yusei Yoshimura</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://prg.is.titech.ac.jp/news/ppl2026-c1/">A Lightweight Implementation for Efficient Multi-Stage Computation Using a Tracing JIT Compiler<br><span style="font-size:0.8em">トレーシングJITコンパイラを用いた多段階計算の高速かつ簡易な実行方式</span></a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
-- <a class="font-weight-bold" href="https://pe200012.github.io/pe200012">Peien Chen</a>, co-supervised with Taro Sekiyama.<br><a href="https://prg.is.titech.ac.jp/news/ppl2026-c1/">Towards Borrowable Ownership Types with Algebraic Effect Handlers</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
-- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://prg.is.titech.ac.jp/news/ppl2026-c1/">Dynamic Version Checking for Gradual Updating</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
-- <a class="font-weight-bold" href="https://prg.is.titech.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://doi.org/10.2197/ipsjjip.33.840">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>Journal of Information Processing, 2025, Volume 33, Pages 840--851
+- <a class="font-weight-bold" href="https://prg.comp.isct.ac.jp/people/yoshimura/">Yusei Yoshimura</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://prg.comp.isct.ac.jp/news/ppl2026-c1/">A Lightweight Implementation for Efficient Multi-Stage Computation Using a Tracing JIT Compiler<br><span style="font-size:0.8em">トレーシングJITコンパイラを用いた多段階計算の高速かつ簡易な実行方式</span></a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
+- <a class="font-weight-bold" href="https://pe200012.github.io/pe200012">Peien Chen</a>, co-supervised with Taro Sekiyama.<br><a href="https://prg.comp.isct.ac.jp/news/ppl2026-c1/">Towards Borrowable Ownership Types with Algebraic Effect Handlers</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://prg.comp.isct.ac.jp/news/ppl2026-c1/">Dynamic Version Checking for Gradual Updating</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
+- <a class="font-weight-bold" href="https://prg.comp.isct.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://doi.org/10.2197/ipsjjip.33.840">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>Journal of Information Processing, 2025, Volume 33, Pages 840--851
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://doi.org/10.2197/ipsjjip.33.471">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025, Volume 33, Pages 471--486
 
 ##### Awards

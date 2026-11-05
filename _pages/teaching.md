@@ -67,11 +67,11 @@ nav_order: 6
   - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201902384&lang=EN">2019 3Q (October~)</a><!--<a class="font-weight-bold" href="https://prg1-2019.github.io/lecture/web/">Class</a> -->
 - <a class="font-weight-bold">Information Literacy 2</a>, <span style="font-style: italic;">Teaching Assistant</span>. Tokyo Institute of Technology.
   - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=202007189&Nendo=2020&vid=03">2020 2Q (June~) (Class 3b)</a><!--<a class="font-weight-bold" href="https://titechcomp.github.io/y20-il2j/">3b</a>-->
-  - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201907183&lang=EN&vid=03">2019 2Q (June~) (Class 1b)</a><!--<a class="font-weight-bold" href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2019-il2/">class 1b & 3b</a>-->
-  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201907189&Nendo=2019&vid=03&lang=EN">2019 2Q (June~) (Class 3b)</a><!--<a class="font-weight-bold" href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2019-il2/">class 1b & 3b</a>-->
-  - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201807183&lang=EN&vid=03">2018 2Q (June~) (Class 1b)</a><!--<a class="font-weight-bold" href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il2/">Information Literacy 2 (class 1b)</a>-->
+  - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201907183&lang=EN&vid=03">2019 2Q (June~) (Class 1b)</a><!--<a class="font-weight-bold" href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2019-il2/">class 1b & 3b</a>-->
+  - <a href="https://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201907189&Nendo=2019&vid=03&lang=EN">2019 2Q (June~) (Class 3b)</a><!--<a class="font-weight-bold" href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2019-il2/">class 1b & 3b</a>-->
+  - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201807183&lang=EN&vid=03">2018 2Q (June~) (Class 1b)</a><!--<a class="font-weight-bold" href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2018-il2/">Information Literacy 2 (class 1b)</a>-->
 - <a class="font-weight-bold">Information Literacy 1</a>, <span style="font-style: italic;">Teaching Assistant</span>. Tokyo Institute of Technology.
-  - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201807165&Nendo=2018&lang=EN&vid=03">2018 1Q (April~)</a><!--<a class="font-weight-bold" href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il1/">Class 1b</a>-->
+  - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201807165&Nendo=2018&lang=EN&vid=03">2018 1Q (April~)</a><!--<a class="font-weight-bold" href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2018-il1/">Class 1b</a>-->
 - <a class="font-weight-bold">Introduction to Computer Science</a>, <span style="font-style: italic;">Teaching Assistant</span>. Tokyo Institute of Technology.
   - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202002383&lang=EN&vid=03">2020 1Q (April~)</a>
   - <a href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=4&GakkaCD=342200&KeiCD=22&KougiCD=201902383&Nendo=2019&lang=EN">2019 1Q (April~)</a>
@@ -122,7 +122,7 @@ nav_order: 6
     </tr>
     <tr>
         <td>2019 2Q (June ~)</td>
-        <td>Information Literacy 2 <a class="font-weight-bold" href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2019-il2/">[1b,3b]</a> <a class="font-weight-bold" href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201907183&lang=EN&vid=03">[OCW(1b)]</a></td>
+        <td>Information Literacy 2 <a class="font-weight-bold" href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2019-il2/">[1b,3b]</a> <a class="font-weight-bold" href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201907183&lang=EN&vid=03">[OCW(1b)]</a></td>
         <td>TA</td>
     </tr>
     <tr>
@@ -132,12 +132,12 @@ nav_order: 6
     </tr>
     <tr>
         <td>2018 2Q (June ~)</td>
-        <td>Information Literacy 2 <a class="font-weight-bold" href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il2/">[1b]</a> <a class="font-weight-bold" href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201807183&lang=EN&vid=03">OCW</a></td>
+        <td>Information Literacy 2 <a class="font-weight-bold" href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2018-il2/">[1b]</a> <a class="font-weight-bold" href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=201807183&lang=EN&vid=03">OCW</a></td>
         <td>TA</td>
     </tr>
     <tr>
         <td>2018 1Q (April ~)</td>
-        <td>Information Literacy 1 <a class="font-weight-bold" href="http://prg.is.titech.ac.jp/ja/people/masuhara/classes/2018-il1/">[1b]</a> <a class="font-weight-bold" href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201807165&Nendo=2018&lang=EN&vid=03">OCW</a></td>
+        <td>Information Literacy 1 <a class="font-weight-bold" href="http://prg.comp.isct.ac.jp/ja/people/masuhara/classes/2018-il1/">[1b]</a> <a class="font-weight-bold" href="http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=7&KamokuCD=110800&KougiCD=201807165&Nendo=2018&lang=EN&vid=03">OCW</a></td>
         <td>TA</td>
     </tr>
     <tr>
