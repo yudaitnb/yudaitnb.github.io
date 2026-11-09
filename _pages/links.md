@@ -35,6 +35,7 @@ I was previously a postdoctoral researcher of
 
 #### 2026
 
+- [Frontier of Formal Verification](https://group-mmm.org/~kazuki/FFV/en.html) in Tokyo, Japan (December 2026)
 - [APSEC 2026](https://conf.researchr.org/home/apsec-2026) in Bali, Indonesia (December 2026)
 - Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 10th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (Nov 2026)
 - Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 9th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (Oct 2026)
