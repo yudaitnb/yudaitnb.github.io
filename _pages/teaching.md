@@ -18,7 +18,8 @@ nav_order: 6
   - <a href="https://syllabus.s.isct.ac.jp/courses/2026/4/1-904-340000-121100-0/202632847?hl=en">2026 3Q-4Q (October~) (F3, F4, F5)</a>
 - <a class="font-weight-bold">Research opportunity in Laboratories (MCS)</a>, <span style="font-style: italic;">Lecturer</span>. Institute of Science Tokyo.
   - <a href="https://syllabus.s.isct.ac.jp/courses/2026/4/0-904-342200-0-0/202602404?hl=en">2026 3Q-4Q (October~)</a>
-    <!-- - Lecture 2: <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and Programming Languages</a>. -->
+    - Lecture 1: <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">Types and Programming Languages</a>.
+    - Lecture 2: Introduction of RPython Framework.
 
 ##### Research Opportunity in Laboratories (MCS)
 
