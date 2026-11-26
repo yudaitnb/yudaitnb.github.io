@@ -16,16 +16,41 @@ This list is also maintained on my <a href="https://scholar.google.co.jp/citatio
 {% include bib_search.liquid %}
 
 <!-- Filter buttons: defined in _data/publication_filters.yml, applied by the search box above through the URL hash. -->
-<div class="publication-filters" style="margin-top: 0.75rem; font-size: 0.85rem">
+<style>
+  .publication-filters {
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    line-height: 1.9;
+  }
+  .publication-filters .filter-group {
+    display: inline-block;
+    min-width: 4.5rem;
+    font-weight: bold;
+  }
+  .publication-filters a {
+    margin-right: 0.3rem;
+    padding: 0 0.4rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.25rem;
+    color: var(--global-text-color);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .publication-filters a:hover {
+    border-color: var(--global-theme-color);
+    color: var(--global-theme-color);
+  }
+</style>
+<div class="publication-filters">
   {% for group in site.data.publication_filters %}
-    <div style="margin-bottom: 0.25rem">
-      <span style="display: inline-block; min-width: 4.5rem; font-weight: bold">{{ group.title }}</span>
-      {% for value in group.values %}
-        <a href="#{{ value | slugify | prepend: '-' | prepend: group.prefix }}" class="btn btn-sm z-depth-0" role="button">{{ value }}</a>
-      {% endfor %}
+    <div>
+      <span class="filter-group">{{ group.title }}</span>
+      {% for value in group.values -%}
+        <a href="#{{ value | slugify | prepend: '-' | prepend: group.prefix }}">{{ value }}</a>
+      {%- endfor %}
     </div>
   {% endfor %}
-  <a href="#" class="btn btn-sm z-depth-0" role="button">Show all</a>
+  <div><span class="filter-group"></span><a href="#">Show all</a></div>
 </div>
 
 <div class="publications">

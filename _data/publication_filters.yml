@@ -18,6 +18,7 @@
     # - Live programming # no entry is tagged with it yet
     - Meta-JIT
     - Multi-stage computation
+    - Ownership typing
 
 - title: Type
   prefix: type
