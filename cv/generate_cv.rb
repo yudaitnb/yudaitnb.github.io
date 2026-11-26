@@ -432,7 +432,7 @@ class CvGenerator
     names = editor ? field(entry, :editor) : field(entry, :author)
     subtitle_tex = authors_tex(names)
     # `annotation` explains the author marks, as the info popover does on the site.
-    annotation = clean_bib_text(field(entry, :annotation))
+    annotation = clean_bib_text(field(entry, :annotation).gsub(/<br\s*\/?>/i, "; "))
     subtitle_tex += CvLatex.latex_raw_plain(" (#{annotation})", strip: false) unless annotation.empty?
     {
       title: title,
