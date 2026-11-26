@@ -2,6 +2,15 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## This repository is a site, not the starter
+
+This is the personal site published at https://yudaitnb.github.io/, created from the al-folio v1 starter and kept in sync with it by merging the `upstream` remote (`git fetch upstream && git merge upstream/main`). The starter notes below and in `AGENTS.md` still describe how the gems work. These points differ here:
+
+- `baseurl` is empty. Build and serve with plain `bundle exec jekyll build` / `bundle exec jekyll serve` (http://localhost:4000/); never pass `--baseurl /al-folio`.
+- Local `_layouts/` and `_includes/` are allowed (see [local overrides](docs/ARCHITECTURE.md#local-overrides-your-site-vs-this-repo)). `_layouts/bib.liquid` overrides `al_folio_core` and is tracked in `.al-folio-overrides.yml`; `_layouts/cv_sections.liquid` and `_includes/cv_sections/` belong to this site.
+- `_data/cv.yml`, `_data/activities.yml` and `_data/grants.yml` use the classic al-folio CV format, rendered by the `cv_sections` layout. `cv/generate_cv.rb` builds `assets/pdf/CV.pdf` from them and from `_pages/about.md`, `_pages/teaching.md` and `_bibliography/papers.bib`, so keep those formats, including the `<a class="font-weight-bold">` course lines in `teaching.md`.
+- When an upstream merge conflicts on demo content this site deleted (posts, projects, demo pages and assets), keep it deleted.
+
 @AGENTS.md
 
 `AGENTS.md` (imported above) is the **authoritative** agent entry point: change routing, the stop sign for gem-owned paths, the three silent failure modes, and the validated command set. Keep it short and ecosystem-neutral. Cross-repo architecture — the wrapper/tag/gem delegation table, feature gating, the v1 config contract, local overrides — lives in [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md); area-to-gem ownership lives in [`docs/BOUNDARIES.md`](docs/BOUNDARIES.md).
