@@ -1,17 +1,21 @@
 {%- comment -%}
   al_folio_core's bib.liquid includes this hook for every entry, right after it
-  builds the venue text (`entrytype`), with `entry` in scope (docs/CUSTOMIZE.md).
+  builds the venue text (`entrytype`: venue, location and `additional_info`),
+  with `entry` in scope (docs/CUSTOMIZE.md).
 
-  This site does not show the venue line ("In Proceedings of ..., Mar 2026"):
-  the venue badge and the year headings already say where and when. The line
-  keeps only the entry's `additional_info` (for example "ERA Track", or a
-  link to the slides of a second talk), so entries without it get no line.
-  Clearing the month and year stops bib.liquid from appending them.
+  - The venue line shows no date: the year headings already give the year.
+    Clearing the month and year stops bib.liquid from appending them.
+  - `additional_info` goes through markdownify, which leaves a trailing
+    newline; strip it.
+  - `additional_info` starts with its own separator (", ERA Track",
+    ". Also presented at ..."). When an entry has no venue, drop that leading
+    separator so the line does not start with punctuation.
 {%- endcomment -%}
-{%- capture entrytype -%}
-  {%- if entry.additional_info -%}
-    {{- entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' | strip -}}
-  {%- endif -%}
-{%- endcapture -%}
+{%- assign entrytype = entrytype | strip -%}
+{%- assign pv_text = entrytype | strip_html | strip -%}
+{%- assign pv_first = pv_text | slice: 0 -%}
+{%- if pv_first == ',' or pv_first == '.' -%}
+  {%- assign entrytype = entrytype | remove_first: pv_first | strip -%}
+{%- endif -%}
 {%- assign entrymonth = '' -%}
 {%- assign entryyear = '' -%}
