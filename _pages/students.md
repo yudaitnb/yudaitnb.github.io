@@ -22,7 +22,6 @@ If you wish to conduct research with me, please contact the PIs mentioned above.
 I am currently mentoring the following students on their thesis projects related to <b><i>advanced module systems</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>:
 
 - **three** PhD students at Science Tokyo and NII,
-  <!-- D6: Luthfan, -->
   <!-- D2: Kawakami,
        D1: Kasuya,
        D1A: Peien -->
@@ -31,6 +30,22 @@ I am currently mentoring the following students on their thesis projects related
      M1A: Hayashi -->
 - **two** undergraduate students.
 <!-- B4: Nakano, Kataoka -->
+
+{% comment %} Template for the next academic year (AY2027)
+
+- **five** PhD students at Science Tokyo, NII, Kyoto University,
+<!-- D3: Kawakami,
+     D2: Kasuya,
+     D1A: Peien,
+     D1: Oshima,
+     D1: XXX -->
+- **two** master's students at Science Tokyo and Kyoto University, and
+<!-- M2A: Hayashi
+     M1: Kataoka -->
+- **three** undergraduate students.
+<!-- B4: X, Y, Z -->
+
+{% endcomment %}
 
 For more information about our ongoing projects, please visit our ["Projects"](https://prg.comp.isct.ac.jp/projects/) page.
 
