@@ -7,6 +7,21 @@ nav: true
 nav_order: 6
 ---
 
+<!--
+  Course names are bold labels written as <a class="font-weight-bold"> (cv/generate_cv.rb looks for that markup), not links.
+  Nested lists are kept compact, as on the earlier Bootstrap-based theme.
+-->
+<style>
+  article a.font-weight-bold:not([href]),
+  article a.font-weight-bold:not([href]):hover {
+    color: inherit;
+    text-decoration: none;
+  }
+  article li > ul {
+    margin-bottom: 0;
+  }
+</style>
+
 ## Courses in the Latest Academic Year
 
 #### at Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
@@ -31,7 +46,7 @@ nav_order: 6
   - Interactive Theorem Proving: <a href="https://softwarefoundations.cis.upenn.edu/">Software Foundations, Volume 1</a>.
   - PL Theory: <a href="https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf">Winskel</a> xor <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">TaPL</a>.
 
-{% comment %} 
+{% comment %}
 
 #### at Hosei University
 

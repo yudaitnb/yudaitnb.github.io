@@ -26,24 +26,24 @@ I am currently mentoring the following students on their thesis projects related
        D1: Kasuya,
        D1A: Peien -->
 - **four** master's students at Science Tokyo and Kyoto University, and
-<!-- M2: Inaba, Yoshio, Oshima
-     M1A: Hayashi -->
+  <!-- M2: Inaba, Yoshio, Oshima
+       M1A: Hayashi -->
 - **two** undergraduate students.
-<!-- B4: Nakano, Kataoka -->
+  <!-- B4: Nakano, Kataoka -->
 
 {% comment %} Template for the next academic year (AY2027)
 
 - **five** PhD students at Science Tokyo, NII, Kyoto University,
-<!-- D3: Kawakami,
-     D2: Kasuya,
-     D1A: Peien,
-     D1: Oshima,
-     D1: XXX -->
+  <!-- D3: Kawakami,
+       D2: Kasuya,
+       D1A: Peien,
+       D1: Oshima,
+       D1: XXX -->
 - **two** master's students at Science Tokyo and Kyoto University, and
-<!-- M2A: Hayashi
-     M1: Kataoka -->
+  <!-- M2A: Hayashi
+       M1: Kataoka -->
 - **three** undergraduate students.
-<!-- B4: X, Y, Z -->
+  <!-- B4: X, Y, Z -->
 
 {% endcomment %}
 
