@@ -1,0 +1,123 @@
+---
+layout: default
+---
+{% comment %}
+  Renders a page from a data file in the classic al-folio (v0.x) CV format:
+  a list of sections, each with `title`, `type` (map, list, nested_list,
+  time_table, list_groups) and `contents`.
+
+  The page's `cv_data` front matter picks the file, for example
+  `cv_data: grants` reads _data/grants.yml. cv/generate_cv.rb reads the same
+  files to build assets/pdf/CV.pdf, so keep their format unchanged.
+
+  This is the site's own layout, not an override of a gem-owned file, so gem
+  updates never replace it. The markup matches al_folio_cv's templates, and
+  the stylesheet is linked here because al_folio_core only adds it to pages
+  with `layout: cv`.
+{% endcomment %}
+{% assign data_name = page.cv_data | default: 'cv' %}
+{% assign sections = site.data[data_name] %}
+
+<link rel="stylesheet" href="{{ '/assets/css/al-folio-cv.css' | relative_url | bust_file_cache }}">
+<style>
+  /* The section includes were written for Bootstrap 4, which v1 no longer
+     loads. Restore the parts of it they rely on: unbulleted, padded and
+     ruled list items, and the spacing utilities that al-folio-cv.css
+     would otherwise override. */
+  .cv .card ul.list-group {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.5;
+    color: var(--global-text-color);
+  }
+  .cv .card li.list-group-item {
+    display: block;
+    padding: 0.75rem 1.25rem;
+    border-bottom: 1px solid var(--global-divider-color);
+  }
+  .cv .card li.list-group-item:last-child {
+    border-bottom-width: 0;
+  }
+  .cv .card ul.items {
+    margin-bottom: 0;
+  }
+  .cv .card table.table-cv td {
+    border-top-width: 0;
+  }
+  .cv .card table.table-cv td.p-1 {
+    padding: 0.25rem;
+  }
+  .cv .card table.table-cv td.pr-2 {
+    padding-right: 0.5rem;
+  }
+  .cv .card table.table-cv td.pl-2 {
+    padding-left: 0.5rem;
+  }
+  /* time_table.liquid's entry body: a small top margin while the columns
+     are stacked, none once they sit side by side. (Bootstrap's mt-2 mt-md-0;
+     in v1's stylesheet mt-2 is !important and always wins.) */
+  .cv .card .cv-entry-body {
+    margin-top: 0.5rem;
+  }
+  @media (min-width: 768px) {
+    .cv .card .cv-entry-body {
+      margin-top: 0;
+    }
+  }
+</style>
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title }}
+      {% if page.cv_pdf %}
+        <a
+          {% if page.cv_pdf contains '://' %}
+            href="{{ page.cv_pdf }}"
+          {% else %}
+            href="{{ page.cv_pdf | relative_url }}"
+          {% endif %}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="float-right"
+        >
+          <i class="fa-solid fa-file-pdf"></i>
+        </a>
+      {% endif %}
+    </h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <article>
+    <div class="cv">
+      {% for entry in sections %}
+        <a class="anchor" id="{{ entry.title }}"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+          <div>
+            {% case entry.type %}
+              {% when 'list' %}
+                {% include cv_sections/list.liquid %}
+              {% when 'map' %}
+                {% include cv_sections/map.liquid %}
+              {% when 'nested_list' %}
+                {% include cv_sections/nested_list.liquid %}
+              {% when 'time_table' %}
+                {% include cv_sections/time_table.liquid %}
+              {% when 'list_groups' %}
+                {% include cv_sections/list_groups.liquid %}
+              {% else %}
+                {{ entry.contents }}
+            {% endcase %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </article>
+</div>

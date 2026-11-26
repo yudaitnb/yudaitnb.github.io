@@ -1,5 +1,6 @@
 ---
-layout: grants
+layout: cv_sections
+cv_data: grants # renders _data/grants.yml
 permalink: /grants/
 title: grants
 nav: true
