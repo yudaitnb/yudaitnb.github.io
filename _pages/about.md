@@ -61,6 +61,8 @@ Yudai Tanabe, Ph.D., is an Assistant Professor at the Department of Mathematical
 <span style="width: 120px; display: inline-block">Postal Address:</span>Department of Mathematical and Computing Science, Institute of Science Tokyo<br>
 <span style="width: 120px; display: inline-block"> </span>Ookayama 2-12-1 W8-35, Meguro-ku, Tokyo 152-8552 Japan<br>
 <span style="width: 120px; display: inline-block">E-mail:</span>{% al_email_protect_link "yudaitnb@prg.comp.isct.ac.jp" %} <span style="font-size: 0.8em; opacity: 0.6">(click to copy)</span><br>
+<span style="width: 120px; display: inline-block"> </span><s>{{ "yudaitnb@prg.is.titech.ac.jp" | al_email_obfuscate }}</s><br>
+<span style="width: 120px; display: inline-block"> </span><s>{{ "yudaitnb@fos.kuis.kyoto-u.ac.jp" | al_email_obfuscate }}</s><br>
 <span style="width: 120px; display: inline-block">Office:</span>E1005, West Bldg. 8E (<a href="https://www.titech.ac.jp/english/0/maps/ookayama/ookayama">"21" on the campus map</a>)<br>
 
 <hr>
