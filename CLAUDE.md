@@ -10,6 +10,7 @@ This is the personal site published at https://yudaitnb.github.io/, created from
 - Local `_layouts/` and `_includes/` are allowed (see [local overrides](docs/ARCHITECTURE.md#local-overrides-your-site-vs-this-repo)). `_layouts/bib.liquid` overrides `al_folio_core` and is tracked in `.al-folio-overrides.yml`; `_layouts/cv_sections.liquid` and `_includes/cv_sections/` belong to this site.
 - `_data/cv.yml`, `_data/activities.yml` and `_data/grants.yml` use the classic al-folio CV format, rendered by the `cv_sections` layout. `cv/generate_cv.rb` builds `assets/pdf/CV.pdf` from them and from `_pages/about.md`, `_pages/teaching.md` and `_bibliography/papers.bib`, so keep those formats, including the `<a class="font-weight-bold">` course lines in `teaching.md`.
 - When an upstream merge conflicts on demo content this site deleted (posts, projects, demo pages and assets), keep it deleted.
+- `_data/citations.yml` holds this site's Google Scholar counts, refreshed by `update-citations.yml`; `.gitattributes` keeps our copy on upstream merges once `git config merge.ours.driver true` is set in the clone.
 
 @AGENTS.md
 

@@ -1,2 +1,7 @@
 # Force LF line endings, needed for Docker to work on Windows
 *.sh text eol=lf
+# _data/citations.yml holds this site's Google Scholar counts (refreshed by
+# update-citations.yml); upstream's copy holds the demo author's. Keep ours when
+# merging upstream. The "ours" driver must be defined once per clone:
+#   git config merge.ours.driver true
+_data/citations.yml merge=ours
