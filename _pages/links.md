@@ -164,7 +164,8 @@ I was previously a postdoctoral researcher at
 
 - [PL Conference Deadlines](https://yeah-tiger.github.io/)
 - [Doctoral Students Funding Calendar](https://kn1cht.github.io/doctor-funding-calendar/) (for PhD students in Japan)
-- [ACM Digital Library](https://dl.acm.org/profile/99659304893)
+- [escher-ts](https://yudaitnb.github.io/escher-ts/) (a TypeScript implementation of Escher, a programming-by-example synthesizer)
+- [LiveRef](https://github.com/yudaitnb/liveref) (a browser-based JavaScript playground that visualizes how object references change over time)
 
 ---
 
