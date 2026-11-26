@@ -9,8 +9,8 @@
   2. Publication filters (see _data/publication_filters.yml). The filter
      buttons on the publications page link to /publications/#<token>, which
      the official search box (bib_search) applies. This hook writes each
-     entry's tokens into the entry as visually hidden text, and shows the
-     entry's type (`kind`) and `topics` as small tag links after the date:
+     entry's tokens into the entry as visually hidden text (the visible type
+     and topic tags are _includes/publication_tags.liquid):
        type-<kind>    from `kind`   (journal, conference, workshop)
        topic-<topic>  from `topics` (comma-separated)
        area-<area>    the areas of _data/publication_filters.yml listing a topic
@@ -18,20 +18,14 @@
                       authors, marked *), corresponding author (†), editor
                       (@book entries)
        venue-<abbr>   from `abbr`
-     To put the tags after the date, the hook appends the month and year
-     itself and clears them, so bib.liquid does not add them again.
 {%- endcomment -%}
 {%- assign entrytype = entrytype | strip -%}
 
-{%- assign pf_url = '/publications/' | relative_url -%}
-{%- assign pf_tags = '' -%}
 {%- assign pf_tokens = '' -%}
-{%- assign pf_tag_style = 'margin-left:.4rem;padding:0 .35rem;border:1px solid var(--global-divider-color);border-radius:.25rem;font-size:.75rem;font-style:normal;white-space:nowrap;color:var(--global-text-color-light);text-decoration:none;' -%}
 
 {%- if entry.kind -%}
   {%- assign pf_label = entry.kind | strip -%}
   {%- assign pf_token = pf_label | slugify | prepend: 'type-' -%}
-  {%- capture pf_tags -%}{{ pf_tags }}<a href="{{ pf_url }}#{{ pf_token }}" style="{{ pf_tag_style }}">{{ pf_label }}</a>{%- endcapture -%}
   {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_token }}{%- endcapture -%}
 {%- endif -%}
 
@@ -41,7 +35,6 @@
     {%- assign pf_label = pf_topic | strip -%}
     {%- if pf_label != '' -%}
       {%- assign pf_token = pf_label | slugify | prepend: 'topic-' -%}
-      {%- capture pf_tags -%}{{ pf_tags }}<a href="{{ pf_url }}#{{ pf_token }}" style="{{ pf_tag_style }}">{{ pf_label }}</a>{%- endcapture -%}
       {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_token }}{%- endcapture -%}
       {%- for pf_group in site.data.publication_filters -%}
         {%- for pf_area in pf_group.areas -%}
@@ -76,13 +69,7 @@
   {%- capture pf_tokens -%}{{ pf_tokens }} {{ entry.abbr | slugify | prepend: 'venue-' }}{%- endcapture -%}
 {%- endif -%}
 
-{%- assign pf_entrytype_text = entrytype | strip_html | strip -%}
 {%- capture entrytype -%}
   {{- entrytype -}}
-  {%- if pf_entrytype_text != '' and entryyear != '' %}, {% endif -%}
-  {{- entrymonth }}{{ entryyear -}}
-  {{- pf_tags -}}
   <span aria-hidden="true" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;">{{ pf_tokens }}</span>
 {%- endcapture -%}
-{%- assign entrymonth = '' -%}
-{%- assign entryyear = '' -%}
