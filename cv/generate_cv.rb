@@ -328,13 +328,17 @@ class CvGenerator
 
   def parse_teaching_page
     _fm, body = front_matter("_pages/teaching.md")
+    # Commented-out entries (such as courses prepared for a future year) are
+    # not rendered on the site, so they must not reach the CV either.
+    body = body.gsub(/\{%-?\s*comment\s*-?%\}.*?\{%-?\s*endcomment\s*-?%\}/m, "")
+               .gsub(/<!--.*?-->/m, "")
     groups = { educator: [], ta: [] }
     current_kind = nil
     current_entry = nil
 
     body.each_line do |line|
       case line
-      when /^## Courses in Latest Academic Year/i, /^## Past Courses/i
+      when /^## Courses in (?:the )?Latest Academic Year/i, /^## Past Courses/i
         current_kind = :educator
         current_entry = nil
       when /^## Coursework Support/i
