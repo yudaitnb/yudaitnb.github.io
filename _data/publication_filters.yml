@@ -19,12 +19,13 @@
     - Meta-JIT
     - Multi-stage computation
     - Ownership typing
+    - Effect handler
 
 - title: Type
   prefix: type
   values:
     - Journal
-    - International conference
+    - Conference
     - Workshop
 
 - title: Role
