@@ -2,14 +2,14 @@
 layout: page
 permalink: /publications/
 title: papers
-description: papers in reverse chronological order, including ones not yet formally published.
 nav: true
 nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
 
-This list is also maintained on my <a href="https://scholar.google.co.jp/citations?user=rFnRl1gAAAAJ">Google Scholar</a> and <a href="https://researchmap.jp/yudaitanabe?lang=en">researchmap</a> profiles.
+<!-- Written here rather than as the page `description`, which also feeds the meta tags and cannot hold links. -->
+<p class="post-description">Papers in reverse chronological order, including some not yet formally published; also listed on my <a href="https://scholar.google.co.jp/citations?user=rFnRl1gAAAAJ">Google Scholar</a> and <a href="https://researchmap.jp/yudaitanabe?lang=en">researchmap</a> profiles.</p>
 
 <!-- Bibsearch Feature -->
 
@@ -20,6 +20,12 @@ This list is also maintained on my <a href="https://scholar.google.co.jp/citatio
 
 <!-- Filter buttons: defined in _data/publication_filters.yml, applied by the search box above through the URL hash. -->
 <style>
+  .post-header .post-description:empty {
+    display: none;
+  }
+  article > .post-description a {
+    color: var(--global-theme-color);
+  }
   .publication-search {
     display: flex;
     align-items: center;
