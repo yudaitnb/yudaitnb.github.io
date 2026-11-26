@@ -82,10 +82,7 @@
 } /* Name.Label */ /* Name.Namespace */
 .highlight .nt {
   color: #000080;
-} /* Name.Tag */
-.highlight .nv {
-  color: #008080;
-} /* Name.Variable */ /* Operator.Word */
+} /* Name.Tag */ /* Name.Variable */ /* Operator.Word */
 .highlight .w {
   color: #bbbbbb;
 } /* Text.Whitespace */ /* Literal.Number.Float */ /* Literal.Number.Hex */

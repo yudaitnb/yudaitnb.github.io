@@ -101,10 +101,7 @@
 .highlight .nt {
   color: #6ab825;
   font-weight: bold;
-} /* Name.Tag */
-.highlight .nv {
-  color: #40ffff;
-} /* Name.Variable */ /* Operator.Word */
+} /* Name.Tag */ /* Name.Variable */ /* Operator.Word */
 .highlight .w {
   color: #666666;
 } /* Text.Whitespace */ /* Literal.Number.Float */ /* Literal.Number.Hex */
