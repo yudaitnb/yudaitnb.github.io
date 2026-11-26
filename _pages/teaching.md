@@ -9,6 +9,13 @@ toc:
   sidebar: left
 ---
 
+<!-- tocbot makes the sidebar a scroll box; with no height limit it only ever scrolls a rounding pixel, which shows a scrollbar. -->
+<style>
+  #toc-sidebar {
+    overflow-y: visible;
+  }
+</style>
+
 <!--
   Course names are bold labels written as <a class="font-weight-bold"> (cv/generate_cv.rb looks for that markup), not links.
   Nested lists are kept compact, as on the earlier Bootstrap-based theme.

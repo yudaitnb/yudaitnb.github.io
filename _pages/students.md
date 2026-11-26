@@ -9,6 +9,13 @@ toc:
   sidebar: left
 ---
 
+<!-- tocbot makes the sidebar a scroll box; with no height limit it only ever scrolls a rounding pixel, which shows a scrollbar. -->
+<style>
+  #toc-sidebar {
+    overflow-y: visible;
+  }
+</style>
+
 - I assist in leading [the PRG-Group](http://prg.comp.isct.ac.jp/) under the direction of [Hidehiko Masuhara](https://prg.comp.isct.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/). If you find that our research areas align with your interests, please refer to ["How to Join the Group"](https://prg.comp.isct.ac.jp/people/how-to-join/) for further details.
 - Together with [Taro Sekiyama](https://skymountain.github.io/) at NII, I am also looking for students interested in type systems and program verification. If you are interested, please feel free to contact me.
 

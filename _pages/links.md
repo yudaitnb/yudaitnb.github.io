@@ -9,6 +9,13 @@ toc:
   sidebar: left
 ---
 
+<!-- tocbot makes the sidebar a scroll box; with no height limit it only ever scrolls a rounding pixel, which shows a scrollbar. -->
+<style>
+  #toc-sidebar {
+    overflow-y: visible;
+  }
+</style>
+
 ## Labs
 
 I am an alumnus and currently a faculty member of
