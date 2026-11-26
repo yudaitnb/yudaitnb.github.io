@@ -5,6 +5,8 @@ title: students
 nav: true
 nav_order: 7
 description:
+toc:
+  sidebar: left
 ---
 
 - I assist in leading [the PRG-Group](http://prg.comp.isct.ac.jp/) under the direction of [Hidehiko Masuhara](https://prg.comp.isct.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/). If you find that our research areas align with your interests, please refer to ["How to Join the Group"](https://prg.comp.isct.ac.jp/people/how-to-join/) for further details.
