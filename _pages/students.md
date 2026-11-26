@@ -58,13 +58,13 @@ I am currently mentoring the following students on their thesis projects related
 
 For more information about our ongoing projects, please visit our ["Projects"](https://prg.comp.isct.ac.jp/projects/) page.
 
-### Student Awards and Papers
+## Student Awards and Papers
 
 For a comprehensive list including informal publications and presentations by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
 
-#### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
+### Institute of Science Tokyo <span style="font-size:0.6em">(formerly Tokyo Institute of Technology)</span>
 
-##### Papers
+#### Papers
 
 - <a class="font-weight-bold" href="https://prg.comp.isct.ac.jp/people/yoshimura/">Yusei Yoshimura</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://prg.comp.isct.ac.jp/news/ppl2026-c1/">A Lightweight Implementation for Efficient Multi-Stage Computation Using a Tracing JIT Compiler<br><span style="font-size:0.8em">トレーシングJITコンパイラを用いた多段階計算の高速かつ簡易な実行方式</span></a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
 - <a class="font-weight-bold" href="https://pe200012.github.io/pe200012">Peien Chen</a>, co-supervised with Taro Sekiyama.<br><a href="https://prg.comp.isct.ac.jp/news/ppl2026-c1/">Towards Borrowable Ownership Types with Algebraic Effect Handlers</a><br>The 28th JSSST Workshop on Programming and Programming Languages (PPL2026)
@@ -72,14 +72,14 @@ For a comprehensive list including informal publications and presentations by my
 - <a class="font-weight-bold" href="https://prg.comp.isct.ac.jp/people/kiuchi/">Kosuke Kiuchi</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://doi.org/10.2197/ipsjjip.33.840">An Efficient Execution Mechanism on a GPU for Fine-Grained Parallel Programs With the Fork-Join Model</a><br>Journal of Information Processing, 2025, Volume 33, Pages 840--851
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br><a href="https://doi.org/10.2197/ipsjjip.33.471">Dynamic Version Checking for Gradual Updating</a><br>Journal of Information Processing, 2025, Volume 33, Pages 471--486
 
-##### Awards
+#### Awards
 
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Gradual Migration via Multi-version Object Mechanism<br><span class="font-weight-bold">Received the</span> <a class="font-weight-bold" href="https://ses.sigse.jp/2025/">Interactive Poster Award at the IPSJ/SIGSE Software Engineering Symposium (SES 2025)</a>, 2025
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>マイクロサービスの独立性を損なわないバージョン移行の支援手法<br><span class="font-weight-bold">Selected for the</span> <a class="font-weight-bold" href="https://www.spring-boost.i.isct.ac.jp/en/">Science Tokyo SPRING program</a>, 2025
 
-#### Tokyo Institute of Technology
+### Tokyo Institute of Technology
 
-##### Awards
+#### Awards
 
 - <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Vython: a Language with Dynamic Version Checking for Gradual Updating<br><span class="font-weight-bold">Received the</span> <a class="font-weight-bold" href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">Audience Award at the APLAS 2024 Student Research Competition (SRC)</a>, 2024
 
