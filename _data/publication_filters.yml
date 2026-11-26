@@ -20,6 +20,7 @@
     - Multi-stage computation
     - Ownership typing
     - Effect handler
+    - Repository mining
 
 - title: Type
   prefix: type
