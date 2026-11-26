@@ -37,6 +37,7 @@ I was previously a postdoctoral researcher at
 
 - [Frontier of Formal Verification](https://group-mmm.org/~kazuki/FFV/en.html) in Tokyo, Japan (December 2026)
 - [APSEC 2026](https://conf.researchr.org/home/apsec-2026) in Bali, Indonesia (December 2026)
+- Hosted an invited talk by [Prof. Werner Dietl](https://ece.uwaterloo.ca/~wdietl/) at Science Tokyo in Tokyo, Japan (November 2026)
 - Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 10th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (November 2026)
 - Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 9th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (October 2026)
 - [NII Karuizawa Seminar](https://www.nii.ac.jp/en/about/seminar-house/) in Nagano, Japan (September 2026)
