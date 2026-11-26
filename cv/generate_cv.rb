@@ -152,6 +152,9 @@ class CvGenerator
     "jul" => 7, "aug" => 8, "sep" => 9, "oct" => 10, "nov" => 11, "dec" => 12
   }.freeze
   MONTH_LABELS = %w[Jan. Feb. Mar. Apr. May Jun. Jul. Aug. Sep. Oct. Nov. Dec.].freeze
+  # Marks after an author's last name in papers.bib (e.g. "Tanabe*" for co-first
+  # authors). Same set that al_folio_core's bib.liquid renders as superscripts.
+  AUTHOR_MARKS = /[*∗†‡§¶‖&^]+/
 
   def initialize(options)
     @options = options
@@ -417,7 +420,7 @@ class CvGenerator
     venue = [field(entry, :journal), field(entry, :booktitle), field(entry, :howpublished), field(entry, :publisher)]
             .find { |value| !value.empty? }
     details = []
-    details << "In #{venue}" unless venue.empty?
+    details << "In #{venue}#{additional_info_text(entry)}" unless venue.empty?
     details << "Vol. #{field(entry, :volume)}" unless field(entry, :volume).empty?
     details << "No. #{field(entry, :number)}" unless field(entry, :number).empty? || field(entry, :number).strip.empty?
     details << "pp. #{field(entry, :pages)}" unless field(entry, :pages).empty?
@@ -427,11 +430,15 @@ class CvGenerator
     link_url = publication_url(entry)
 
     names = editor ? field(entry, :editor) : field(entry, :author)
+    subtitle_tex = authors_tex(names)
+    # `annotation` explains the author marks, as the info popover does on the site.
+    annotation = clean_bib_text(field(entry, :annotation))
+    subtitle_tex += CvLatex.latex_raw_plain(" (#{annotation})", strip: false) unless annotation.empty?
     {
       title: title,
       title_tex: link_url.empty? ? CvLatex.latex_raw_plain(title) : CvLatex.link(link_url, title),
       date: field(entry, :year),
-      subtitle_tex: authors_tex(names),
+      subtitle_tex: subtitle_tex,
       meta: clean_bib_text(field(entry, :abbr)),
       note: clean_bib_text(details.join(", ")),
       note_tex: details_tex,
@@ -679,7 +686,7 @@ class CvGenerator
 
   def publication_details_tex(entry, venue)
     parts = []
-    parts << CvLatex.latex_raw_plain("In #{clean_bib_text(venue)}") unless venue.to_s.empty?
+    parts << CvLatex.latex_raw_plain("In #{clean_bib_text(venue)}#{additional_info_text(entry)}") unless venue.to_s.empty?
     parts << CvLatex.latex_raw_plain("Vol. #{field(entry, :volume)}") unless field(entry, :volume).empty?
     parts << CvLatex.latex_raw_plain("No. #{field(entry, :number)}") unless field(entry, :number).empty? || field(entry, :number).strip.empty?
     parts << CvLatex.latex_raw_plain("pp. #{field(entry, :pages)}") unless field(entry, :pages).empty?
@@ -712,11 +719,19 @@ class CvGenerator
     MONTHS.fetch(value.to_s.downcase[0, 3], 0)
   end
 
+  # bib.liquid appends `additional_info` (Markdown) right after the venue.
+  def additional_info_text(entry)
+    clean_bib_text(field(entry, :additional_info)).gsub(/(\*\*?)(.+?)\1/, "\\2")
+  end
+
   def authors_tex(raw_names)
     names = raw_names.to_s.split(/\s+and\s+/).map { |name| format_person_name(name) }.reject(&:empty?)
     names.map do |name|
-      escaped = CvLatex.latex_raw_plain(CvLatex.plain(name))
-      name == "Yudai Tanabe" ? "\\textbf{#{escaped}}" : escaped
+      marks = name.scan(AUTHOR_MARKS).join
+      bare = name.gsub(AUTHOR_MARKS, "").strip
+      escaped = CvLatex.latex_raw_plain(CvLatex.plain(bare))
+      escaped = "\\textbf{#{escaped}}" if bare == "Yudai Tanabe"
+      marks.empty? ? escaped : "#{escaped}\\textsuperscript{#{CvLatex.latex_raw_plain(marks)}}"
     end.join(", ")
   end
 
