@@ -14,9 +14,9 @@ I am an alumnus and currently a faculty member of
 - [Programming Group (a.k.a. PRG-Group)](http://prg.comp.isct.ac.jp/),
   - [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/),
   - [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04),
-  - [Institute of Science Tokyo](https://www.isct.ac.jp/en) <span style="font-size:0.8em">(renamed in 2024 after merging with [TMDU](https://www.tmd.ac.jp/english/), formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/english))</span>.
+  - [Institute of Science Tokyo](https://www.isct.ac.jp/en) <span style="font-size:0.8em">(established in 2024 through the merger of [Tokyo Institute of Technology](https://www.titech.ac.jp/english) and [TMDU](https://www.tmd.ac.jp/english/))</span>.
 
-I was previously a postdoctoral researcher of
+I was previously a postdoctoral researcher at
 
 - [Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
   - [Department of Communications and Computer Engineering](https://www.cce.i.kyoto-u.ac.jp/english),
@@ -37,15 +37,15 @@ I was previously a postdoctoral researcher of
 
 - [Frontier of Formal Verification](https://group-mmm.org/~kazuki/FFV/en.html) in Tokyo, Japan (December 2026)
 - [APSEC 2026](https://conf.researchr.org/home/apsec-2026) in Bali, Indonesia (December 2026)
-- Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 10th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (Nov 2026)
-- Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 9th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (Oct 2026)
+- Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 10th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (November 2026)
+- Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 9th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (October 2026)
 - [NII Karuizawa Seminar](https://www.nii.ac.jp/en/about/seminar-house/) in Nagano, Japan (September 2026)
-- 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (September 2026)
+- 3-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (September 2026)
 - [JSSST 2026](https://jssst2026.wordpress.com/) in Hokkaido, Japan (September 2026)
-- Host [12th SATSS](https://sc-sys.github.io/), with invited talks by [Prof. Binoy Ravindran](https://binoyravindran.github.io/) and Izumi Tanaka, at Science Tokyo in Tokyo, Japan (May 2026)
-- Weekly one-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (From April to June, 2026)
+- Hosted the [12th SATSS](https://sc-sys.github.io/), with invited talks by [Prof. Binoy Ravindran](https://binoyravindran.github.io/) and Izumi Tanaka, at Science Tokyo in Tokyo, Japan (May 2026)
+- Weekly 1-day visits to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (April to June 2026)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (March 2026)
-- 4-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2026)
+- 4-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2026)
 - [PPL 2026](https://jssst-ppl.org/workshop/2026/) in Kagawa, Japan (March 2026)
 - 1-week visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (March 2026)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) for [The 7th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (February 2026)
@@ -55,7 +55,7 @@ I was previously a postdoctoral researcher of
 - Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for [The 6th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
 - 1-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (December 2025)
 - 1-day visit to [Unno lab (TohokuU)](https://www.riec.tohoku.ac.jp/~unno/) in Miyagi, Japan (December 2025)
-- 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (December 2025)
+- 3-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (December 2025)
 - [11th SATSS](https://sc-sys.github.io/) in Tokyo, Japan (November 2025)
 - Invited talk at [PRO 2025-3](https://sigpro.ipsj.or.jp/pro2025-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2025)
 - Invited talk at [NII Karuizawa Seminar](https://www.nii.ac.jp/en/about/seminar-house/) in Nagano, Japan (September 2025)
@@ -64,32 +64,32 @@ I was previously a postdoctoral researcher of
 - [JSSST 2025](https://jssst2025.wordpress.com/) in Tokyo, Japan (September 2025)
 - [10th SATSS](https://sc-sys.github.io/) in Tokyo, Japan (September 2025)
 - [9th SATSS](https://sc-sys.github.io/) in Tokyo, Japan (August 2025)
-- 4-days visit to [Sekiyama lab (NII)](https://skymountain.github.io/) with [Wenjia Ye](https://yewenjia.github.io/) in Tokyo, Japan (August 2025)
-- Research outreach talk at [Open Campus of Institute of Science Tokyo](https://admissions.isct.ac.jp/ja/013/undergraduate/open-campus-and-briefing-sessions/science-engineering) in Tokyo, Japan (August 2025)
+- 4-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) with [Wenjia Ye](https://yewenjia.github.io/) in Tokyo, Japan (August 2025)
+- Research outreach talk at the [Open Campus of Institute of Science Tokyo](https://admissions.isct.ac.jp/ja/013/undergraduate/open-campus-and-briefing-sessions/science-engineering) in Tokyo, Japan (August 2025)
 - Invited talk at [MIT-Toyohashi ASPIRE Workshop 2025](https://www.perf.cs.tut.ac.jp/lab/?page_id=1078&lang=en) in Tokyo, Japan (June 2025)
 - [PLDI 2025](https://pldi25.sigplan.org/) in Seoul, Korea (June 2025)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) with [Hanliang Zhang](https://komaec.github.io/) and [Meng Wang](https://mengwangoxf.github.io/) in Tokyo, Japan (May 2025)
-- 4-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (May 2025)
+- 4-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (May 2025)
 - Half-day visit to [Watanabe lab (NII)](https://group-mmm.org/~kazuki/) for [The 4th PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (May 2025)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (May 2025)
 - Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) in Tokyo, Japan (April 2025)
 - [PRO 2024-5](https://sigpro.ipsj.or.jp/pro2024-5/) at The University of Tokyo in Tokyo, Japan (March 2025)
-- 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2025)
+- 3-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2025)
 - [PPL 2025](https://jssst-ppl.org/workshop/2025/) in Aichi, Japan (March 2025)
-- Host [The 3rd PL Joint Seminar](https://skymountain.github.io/pl-seminar/) at Institute of Science Tokyo in Tokyo, Japan (February 2025)
-- 3-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (February 2025)
+- Hosted [The 3rd PL Joint Seminar](https://skymountain.github.io/pl-seminar/) at Institute of Science Tokyo in Tokyo, Japan (February 2025)
+- 3-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (February 2025)
 - [PRO 2024-4](https://sigpro.ipsj.or.jp/pro2024-4/) in Akita, Japan (January 2025)
 - Half-day visit to [Shinya lab (Akita University)](http://www.math.akita-u.ac.jp/~ryoma/) in Akita, Japan (January 2025)
 
 #### 2024
 
-- Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) for [The 2nd PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2025)
+- Half-day visit to [Sekiyama lab (NII)](https://skymountain.github.io/) for [The 2nd PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (December 2024)
 - [PRO 2024-3](https://sigpro.ipsj.or.jp/pro2024-3/) at Institute of Science Tokyo in Tokyo, Japan (November 2024)
 - Half-day visit to [Programming Lang. (Yasugi-Emoto) lab (Kyutech)](https://www.pl.ai.kyutech.ac.jp/) in Fukuoka, Japan (November 2024)
 - Half-day visit to [Kobayashi lab (UTokyo)](https://www-kb.is.s.u-tokyo.ac.jp/index.html.en) for [The 1st PL Joint Seminar](https://skymountain.github.io/pl-seminar/) in Tokyo, Japan (November 2024)
 - [APLAS 2024](https://conf.researchr.org/home/aplas-2024) in Kyoto, Japan (October 2024)
 - Invited talk at [JSSST 2024](https://jssst2024.wordpress.com/) in Osaka, Japan (September 2024)
-- 2-days visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (July 2024)
+- 2-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (July 2024)
 - [PLDI 2024](https://pldi24.sigplan.org/) in Copenhagen, Denmark (June 2024)
 - Online participation in [PRO 2024-1](https://sigpro.ipsj.or.jp/pro2024-1/) (June 2024)
 - Invited talk and online participation at [The 7th STAIR Lab ST Seminar](https://stair.center/archives/events/%e7%ac%ac7%e5%9b%9e%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9%e3%83%9c%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e6%8a%80%e8%a1%93%e3%82%bb%e3%83%9f%e3%83%8a%e3%83%bc-%e7%94%b0%e8%be%ba%e8%a3%95) (May 2024)
@@ -100,15 +100,15 @@ I was previously a postdoctoral researcher of
 
 - [APSEC 2023](https://conf.researchr.org/home/apsec-2023) in Seoul, Korea (December 2023)
 - [APLAS 2023](https://conf.researchr.org/home/aplas-2023) in Taipei, Taiwan (November 2023)
-- Online participation in [JSSST 2023](https://jssst2023.wordpress.com/) (Septemebr 2023)
-- [SLACS 2023](https://lambda.ski/slacs2023/) in Kyoto, Japan (August & Septemebr 2023)
+- Online participation in [JSSST 2023](https://jssst2023.wordpress.com/) (September 2023)
+- [SLACS 2023](https://lambda.ski/slacs2023/) in Kyoto, Japan (August & September 2023)
 - [ECOOP/ISSTA 2023](https://conf.researchr.org/home/ecoop-issta-2023) in Seattle, USA (July 2023)
 - 1-day visit to [Computer Software Group (KyotoU)](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en) in Kyoto, Japan (March 2023)
 - [‹Programming› 2023](https://2023.programming-conference.org/) in Tokyo, Japan (March 2023)
 
 #### 2022
 
-- Half-day visit to [Software Architecture Group (HPI)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Berlin, Germany (July 2022)
+- Half-day visit to [Software Architecture Group (HPI)](https://www.hpi.uni-potsdam.de/hirschfeld/index.html) in Potsdam, Germany (July 2022)
 - [ECOOP 2022](https://2022.ecoop.org/) in Berlin, Germany (July 2022)
 - Online participation in [‹Programming› 2022](https://2022.programming-conference.org/) (April 2022)
 - Online participation in [PPL 2022](https://jssst-ppl.org/workshop/2022/) (March 2022)
@@ -158,29 +158,29 @@ I was previously a postdoctoral researcher of
 
 ---
 
-## International Conference (associated with PRG-group)
+## International Conferences (associated with PRG-Group)
 
 If you are interested in PL/verification, see also [我々の分野の国際会議紹介](https://kensakayori.github.io/blog/posts/2026-09-22.html).
-The article was written at the 2026 Karuizawa Workshop.
+The article was written at the 2026 NII Karuizawa Seminar.
 
-| Conference                                                | Date                   | Archive                                                       | Submission                                                                                            |
-| :-------------------------------------------------------- | :--------------------- | :------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------- |
-| [POPL](https://conf.researchr.org/series/popl)            | January                | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 25 pgs. + refs                                                                               |
-| [PLDI](https://conf.researchr.org/series/pldi)            | June                   | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 20 pgs. + refs                                                                               |
-| [SPLASH/OOPSLA](https://conf.researchr.org/series/splash) | October ~ <br>December | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 23(+4) pgs. + refs<br>2 _separate_ rounds of reviewing                                       |
-| [ICFP](https://conf.researchr.org/series/icfp)            | August ~ <br>September | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 25(+2) pgs. + refs                                                                           |
-| [ECOOP](https://conf.researchr.org/series/ecoop)          | June ~ <br>July        | [LIPIcs](https://drops.dagstuhl.de/entities/conference/ECOOP) | No limits when submission<br>LIPIcs 25 pgs. + refs (camera-ready)<br>2 _separate_ rounds of reviewing |
-| [ESOP](https://etaps.org/)                                | October ~ <br>November | [proceedings](https://link.springer.com/conference/esop)      | LNCS 25 pgs. + refs                                                                                   |
+| Conference                                                | Date                   | Archive                                                       | Submission                                                                                          |
+| :-------------------------------------------------------- | :--------------------- | :------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------- |
+| [POPL](https://conf.researchr.org/series/popl)            | January                | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 25 pgs. + refs                                                                             |
+| [PLDI](https://conf.researchr.org/series/pldi)            | June                   | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 20 pgs. + refs                                                                             |
+| [SPLASH/OOPSLA](https://conf.researchr.org/series/splash) | October ~ <br>December | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 23(+4) pgs. + refs<br>2 submission rounds per year                                         |
+| [ICFP](https://conf.researchr.org/series/icfp)            | August ~ <br>September | [PACMPL](https://dl.acm.org/loi/pacmpl)                       | acmsmall 25(+2) pgs. + refs                                                                         |
+| [ECOOP](https://conf.researchr.org/series/ecoop)          | June ~ <br>July        | [LIPIcs](https://drops.dagstuhl.de/entities/conference/ECOOP) | No page limit at submission<br>LIPIcs 25 pgs. + refs (camera-ready)<br>2 submission rounds per year |
+| [ESOP](https://etaps.org/)                                | October ~ <br>November | [proceedings](https://link.springer.com/conference/esop)      | LNCS 25 pgs. + refs                                                                                 |
 
-| Conference                                                     | Date                    | Archive                                                         | Submission                                                                |
-| :------------------------------------------------------------- | :---------------------- | :-------------------------------------------------------------- | :------------------------------------------------------------------------ |
-| [APLAS](https://conf.researchr.org/series/aplas)               | October ~ <br>December  | [proceedings](https://link.springer.com/conference/aplas)       | LNCS 17(+1) pgs. + refs                                                   |
-| [‹Programming›](https://conf.researchr.org/series/programming) | March ~ <br>April       | [‹Programming› Journal](https://programming-journal.org/)       | ‹Programming› template 22 pgs. + refs<br>3 _separate_ rounds of reviewing |
-| [GPCE](https://conf.researchr.org/series/gpce)                 | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/gpce/proceedings)   | sigplan 12 pgs. + refs                                                    |
-| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ <br>December  | [proceedings](https://link.springer.com/conference/flops)       | LNCS 15 pgs. + refs                                                       |
-| [SLE](https://conf.researchr.org/series/sle)                   | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?)                                         |
-| [DLS](https://conf.researchr.org/series/dls)                   | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?)                                         |
-| [PPDP](https://conf.researchr.org/series/ppdp)                 | September ~ <br>October | [proceedings](https://dl.acm.org/conference/ppdp/proceedings)   | sigplan 12 pgs. + refs                                                    |
+| Conference                                                     | Date                    | Archive                                                         | Submission                                                            |
+| :------------------------------------------------------------- | :---------------------- | :-------------------------------------------------------------- | :-------------------------------------------------------------------- |
+| [APLAS](https://conf.researchr.org/series/aplas)               | October ~ <br>December  | [proceedings](https://link.springer.com/conference/aplas)       | LNCS 17(+1) pgs. + refs                                               |
+| [‹Programming›](https://conf.researchr.org/series/programming) | March ~ <br>April       | [‹Programming› Journal](https://programming-journal.org/)       | ‹Programming› template 22 pgs. + refs<br>3 submission rounds per year |
+| [GPCE](https://conf.researchr.org/series/gpce)                 | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/gpce/proceedings)   | sigplan 12 pgs. + refs                                                |
+| [FLOPS](https://conf.researchr.org/series/flops)               | October ~ <br>December  | [proceedings](https://link.springer.com/conference/flops)       | LNCS 15 pgs. + refs                                                   |
+| [SLE](https://conf.researchr.org/series/sle)                   | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?)                                     |
+| [DLS](https://conf.researchr.org/series/dls)                   | (Colocated with SPLASH) | [proceedings](https://dl.acm.org/conference/splash/proceedings) | sigplan 12 pgs. (including refs?)                                     |
+| [PPDP](https://conf.researchr.org/series/ppdp)                 | September ~ <br>October | [proceedings](https://dl.acm.org/conference/ppdp/proceedings)   | sigplan 12 pgs. + refs                                                |
 
 ### Templates
 
@@ -195,7 +195,7 @@ The article was written at the 2026 Karuizawa Workshop.
 ---
 
 <br>
-## International Workshop / Symposium
+## International Workshops / Symposia
 
 <br>
 ### Language Implementation
@@ -207,7 +207,7 @@ The article was written at the 2026 Karuizawa Workshop.
 | [ICOOOLPS](https://conf.researchr.org/series/ICOOOLPS) | Colocated with ECOOP         |
 
 <br>
-### Types and Functional Language
+### Types and Functional Languages
 
 | Conference                                         | Comment             |
 | :------------------------------------------------- | :------------------ |
@@ -219,7 +219,7 @@ The article was written at the 2026 Karuizawa Workshop.
 | [HOPE](https://conf.researchr.org/series/hope)     | Colocated with ICFP |
 
 <br>
-### Programming Environment and Experience
+### Programming Environments and Experience
 
 | Conference                                       | Comment                      |
 | :----------------------------------------------- | :--------------------------- |
@@ -233,7 +233,7 @@ The article was written at the 2026 Karuizawa Workshop.
 ---
 
 <br>
-### Domestic Conference
+### Domestic Conferences
 
 | Conference                                                 | Comment |
 | :--------------------------------------------------------- | :------ |

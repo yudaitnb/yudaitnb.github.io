@@ -7,34 +7,34 @@ nav_order: 7
 description:
 ---
 
-- I assist in leading [the PRG-group](http://prg.comp.isct.ac.jp/) under [Hidehiko Masuhara](https://prg.comp.isct.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/)'s direction. If you find that our research areas align with your interests, please refer to ["How to Join the Group"](https://prg.comp.isct.ac.jp/people/how-to-join/) for further details.
-- I am also looking for students interested in type systems and program verification to collaborate with [Taro Sekiyama](https://skymountain.github.io/) at NII. If you are interested, please feel free to contact me.
+- I assist in leading [the PRG-Group](http://prg.comp.isct.ac.jp/) under the direction of [Hidehiko Masuhara](https://prg.comp.isct.ac.jp/people/masuhara/) and [Youyou Cong](https://sites.google.com/site/youyoucong212/). If you find that our research areas align with your interests, please refer to ["How to Join the Group"](https://prg.comp.isct.ac.jp/people/how-to-join/) for further details.
+- Together with [Taro Sekiyama](https://skymountain.github.io/) at NII, I am also looking for students interested in type systems and program verification. If you are interested, please feel free to contact me.
 
 <b>Notice:</b>
 I am not formally authorized to supervise students.
 If you wish to conduct research with me, please contact the PIs mentioned above.
 
-[👉What is 助教 (jokyo, assistant professor in Japan)](https://kensakayori.github.io/blog/posts/2023-04-03.html)
+[👉What is a 助教 (jokyo, assistant professor in Japan)?](https://kensakayori.github.io/blog/posts/2023-04-03.html)
 
 ## Current Students
 
 (Updated on October 1, 2026)<br>
-I am currently mentoring
+I am currently mentoring the following students on their thesis projects related to <b><i>advanced module systems</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>:
 
-- **three** PhD students at Science Tokyo, NII and
+- **three** PhD students at Science Tokyo and NII,
   <!-- D6: Luthfan, -->
   <!-- D2: Kawakami,
        D1: Kasuya,
        D1A: Peien -->
-- **four** graduate students at Science Tokyo and Kyoto University, and
+- **four** master's students at Science Tokyo and Kyoto University, and
 <!-- M2: Inaba, Yoshio, Oshima
      M1A: Hayashi -->
-- **two** undergraduate students, and
+- **two** undergraduate students.
 <!-- B4: Nakano, Kataoka -->
 
-and working on their thesis projects regarding <b><i>advanced module systems</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>programming interactivity</i></b>. For more information about our ongoing projects, please visit our ["Projects"](https://prg.comp.isct.ac.jp/projects/) page.
+For more information about our ongoing projects, please visit our ["Projects"](https://prg.comp.isct.ac.jp/projects/) page.
 
-### Awards and Papers of Students
+### Student Awards and Papers
 
 For a comprehensive list including informal publications and presentations by my mentees, see my [researchmap](https://researchmap.jp/yudaitanabe/presentations).
 
@@ -50,14 +50,14 @@ For a comprehensive list including informal publications and presentations by my
 
 ##### Awards
 
-- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Gradual Migration via Multi-version Object Mechanism<br><a class="font-weight-bold">Awarded for <a class="font-weight-bold" href="https://ses.sigse.jp/2025/">Interactive Poster Award at IPSJ/SIGSE Software Engineering Symposium (SES2025)</a>, 2025
-- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>マイクロサービスの独立性を損なわないバージョン移行の支援手法<br><a class="font-weight-bold">Awarded for <a class="font-weight-bold" href="https://www.spring-boost.i.isct.ac.jp/en/">Science Tokyo SPRING</a>, 2025
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Gradual Migration via Multi-version Object Mechanism<br><span class="font-weight-bold">Received the</span> <a class="font-weight-bold" href="https://ses.sigse.jp/2025/">Interactive Poster Award at the IPSJ/SIGSE Software Engineering Symposium (SES 2025)</a>, 2025
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>マイクロサービスの独立性を損なわないバージョン移行の支援手法<br><span class="font-weight-bold">Selected for the</span> <a class="font-weight-bold" href="https://www.spring-boost.i.isct.ac.jp/en/">Science Tokyo SPRING program</a>, 2025
 
 #### Tokyo Institute of Technology
 
 ##### Awards
 
-- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Vython: a Language with Dynamic Version Checking for Gradual Updating<br><a class="font-weight-bold">Awarded for <a class="font-weight-bold" href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">the audience award in APLAS 2024 SRC</a></a>, 2024
+- <a class="font-weight-bold" href="https://satsuki942.github.io/">Satsuki Kasuya</a>, co-supervised with Hidehiko Masuhara.<br>Vython: a Language with Dynamic Version Checking for Gradual Updating<br><span class="font-weight-bold">Received the</span> <a class="font-weight-bold" href="https://conf.researchr.org/track/aplas-2024/src-and-posters%3F#audience-awards">Audience Award at the APLAS 2024 Student Research Competition (SRC)</a>, 2024
 
 <!-- ## Former Students -->
 <!--

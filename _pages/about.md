@@ -9,7 +9,7 @@ profile:
   image: profile_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Taken by my friend at <a href="https://maps.app.goo.gl/NJaTsZwx9jkdD4Uo6">the Kaminarimon gate (雷門)</a>
+    Taken by a friend at <a href="https://maps.app.goo.gl/NJaTsZwx9jkdD4Uo6">the Kaminarimon gate (雷門)</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -32,7 +32,7 @@ I am an Assistant Professor at
 - [Programming Group (a.k.a. PRG-Group)](http://prg.comp.isct.ac.jp/),
 - [Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/),
 - [School of Computing](https://www.titech.ac.jp/english/about/organization/schools/organization04),
-- [Institute of Science Tokyo](https://www.isct.ac.jp/en).<br><span style="font-size:0.8em">(renamed in 2024 after merging with [TMDU](https://www.tmd.ac.jp/english/), formerly [Tokyo Institute of Technology](https://www.titech.ac.jp/english))</span>
+- [Institute of Science Tokyo](https://www.isct.ac.jp/en).<br><span style="font-size:0.8em">(established in 2024 through the merger of [Tokyo Institute of Technology](https://www.titech.ac.jp/english) and [TMDU](https://www.tmd.ac.jp/english/))</span>
 
 I am also a member of
 
@@ -43,7 +43,7 @@ I am also a member of
 <details>
   <summary>Short Bio (en)</summary>
 
-Yudai Tanabe, Ph.D., is an Assistant Professor at the Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo. He received B.S., M.S., and D.S. degrees from Tokyo Institute of Technology in 2018, 2020, and 2023 respectively. Formerly, he was a JSPS Research Fellow at Tokyo Institute of Technology until 2023, a program-specific researcher at Kyoto University until 2024, and an assistant professor at the Department of Mathematical and Computing Science, School of Computing, Tokyo Institute of Technology until September 2024. His research interest is programming language and software engineering, especially in programming language theory, type systems, and software maintenance.
+Yudai Tanabe, Ph.D., is an Assistant Professor at the Department of Mathematical and Computing Science, School of Computing, Institute of Science Tokyo. He received his B.S., M.S., and Ph.D. degrees from Tokyo Institute of Technology in 2018, 2020, and 2023, respectively. Previously, he was a JSPS Research Fellow (DC2) at Tokyo Institute of Technology until 2023, a Program-Specific Researcher at Kyoto University until 2024, and an Assistant Professor at the Department of Mathematical and Computing Science, School of Computing, Tokyo Institute of Technology until September 2024. His research interests are programming languages and software engineering, especially programming language theory, type systems, and software maintenance.
 
 </details>
 
@@ -58,23 +58,23 @@ Yudai Tanabe, Ph.D., is an Assistant Professor at the Department of Mathematical
 
 ## coordinates
 
-<span style="width: 120px; display: inline-block">Postal Address:</span>Department of Mathematical and Computing Science, Tokyo Institute of Technology<br>
+<span style="width: 120px; display: inline-block">Postal Address:</span>Department of Mathematical and Computing Science, Institute of Science Tokyo<br>
 <span style="width: 120px; display: inline-block"> </span>Ookayama 2-12-1 W8-35, Meguro-ku, Tokyo 152-8552 Japan<br>
 <span style="width: 120px; display: inline-block">E-mail:</span><a href="mailto:yudaitnb@prg.comp.isct.ac.jp">yudaitnb [at] prg.comp.isct.ac.jp</a><br>
-<span style="width: 120px; display: inline-block">Office:</span>E1005, West Bldg. 8E (<a href="https://www.titech.ac.jp/english/0/maps/ookayama/ookayama">"21" in the campus map</a>)<br>
+<span style="width: 120px; display: inline-block">Office:</span>E1005, West Bldg. 8E (<a href="https://www.titech.ac.jp/english/0/maps/ookayama/ookayama">"21" on the campus map</a>)<br>
 
 <hr>
 
 ## research interests
 
-My research interests focus on <b><i>programming language design</i></b> and <b><i>programming language theory</i></b>.
+My research focuses on <b><i>programming language design</i></b> and <b><i>programming language theory</i></b>.
 I am currently engaged in the following research projects:
 
 1. <i>Programming Language with Versions</i>. &nbsp; [👉APLAS'23](https://link.springer.com/chapter/10.1007/978-981-99-8311-7_1), [👉SLE'22](https://dl.acm.org/doi/10.1145/3567512.3567531), [👉‹Programming›'22](https://programming-journal.org/2022/6/5/)
-2. <i>Space-efficient Gradual Typing</i>. &nbsp; [👉PLDI'24](https://dl.acm.org/doi/10.1145/3656441), &nbsp; [👉comming soon]()
+2. <i>Space-efficient Gradual Typing</i>. &nbsp; [👉PLDI'24](https://dl.acm.org/doi/10.1145/3656441), &nbsp; 👉coming soon
 3. <i>Safe Language Interoperability</i>. &nbsp; WIP.
 
-I am also working with [students](https://yudaitnb.github.io/students/) on projects regarding <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>.
+I am also working with [students](https://yudaitnb.github.io/students/) on projects related to <b><i>language design</i></b>, <b><i>type systems</i></b>, <b><i>GPGPU</i></b>, and <b><i>live programming</i></b>.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
