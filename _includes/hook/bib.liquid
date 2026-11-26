@@ -13,8 +13,9 @@
      entry's type (`kind`) and `topics` as small tag links after the date:
        type-<kind>    from `kind`   (journal, international conference, ...)
        topic-<topic>  from `topics` (comma-separated)
-       role-*         from the author list: first author, co-first author (*),
-                      corresponding author (†), editor (@book entries)
+       role-*         from the author list: first author (including co-first
+                      authors, marked *), corresponding author (†), editor
+                      (@book entries)
        venue-<abbr>   from `abbr`
      To put the tags after the date, the hook appends the month and year
      itself and clears them, so bib.liquid does not add them again.
@@ -48,11 +49,8 @@
 {%- for pf_author in entry.author_array -%}
   {%- assign pf_last = pf_author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
   {%- if site.scholar.last_name contains pf_last and site.scholar.first_name contains pf_author.first -%}
-    {%- if forloop.first -%}
+    {%- if forloop.first or pf_author.last contains '*' -%}
       {%- capture pf_tokens -%}{{ pf_tokens }} role-first-author{%- endcapture -%}
-    {%- endif -%}
-    {%- if pf_author.last contains '*' -%}
-      {%- capture pf_tokens -%}{{ pf_tokens }} role-co-first-author{%- endcapture -%}
     {%- endif -%}
     {%- if pf_author.last contains '†' -%}
       {%- capture pf_tokens -%}{{ pf_tokens }} role-corresponding-author{%- endcapture -%}

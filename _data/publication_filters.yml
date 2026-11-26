@@ -31,7 +31,6 @@
   prefix: role
   values:
     - First author
-    - Co-first author
     - Corresponding author
     - Editor
 
