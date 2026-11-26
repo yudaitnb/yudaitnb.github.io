@@ -13,10 +13,31 @@ This list is also maintained on my <a href="https://scholar.google.co.jp/citatio
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<div class="publication-search">
+  {% include bib_search.liquid %}
+  <a href="#">Show all</a>
+</div>
 
 <!-- Filter buttons: defined in _data/publication_filters.yml, applied by the search box above through the URL hash. -->
 <style>
+  .publication-search {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  .publication-search a {
+    padding: 0 0.4rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.25rem;
+    font-size: 0.8rem;
+    color: var(--global-text-color);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .publication-search a:hover {
+    border-color: var(--global-theme-color);
+    color: var(--global-theme-color);
+  }
   .publication-filters {
     margin-top: 0.5rem;
     font-size: 0.8rem;
@@ -78,10 +99,6 @@ This list is also maintained on my <a href="https://scholar.google.co.jp/citatio
       </div>
     {% endif %}
   {% endfor %}
-  <div class="filter-row">
-    <span class="filter-group"></span>
-    <span class="filter-values"><a href="#">Show all</a></span>
-  </div>
 </div>
 
 <div class="publications">
