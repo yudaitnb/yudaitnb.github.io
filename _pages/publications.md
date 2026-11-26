@@ -9,7 +9,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Written here rather than as the page `description`, which also feeds the meta tags and cannot hold links. -->
-<p class="post-description">Papers in reverse chronological order, including some not yet formally published; also listed on my <a href="https://scholar.google.co.jp/citations?user=rFnRl1gAAAAJ">Google Scholar</a> and <a href="https://researchmap.jp/yudaitanabe?lang=en">researchmap</a> profiles.</p>
+<p class="post-description">Includes papers not yet formally published; also listed on my <a href="https://scholar.google.co.jp/citations?user=rFnRl1gAAAAJ">Google Scholar</a> and <a href="https://researchmap.jp/yudaitanabe?lang=en">researchmap</a> profiles.</p>
 
 <!-- Bibsearch Feature -->
 
