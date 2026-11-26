@@ -1,0 +1,105 @@
+{%- comment -%}
+  The row of badges above a publication's title, included by the site's
+  override of al_folio_core's _layouts/bib.liquid: venue (abbr), then type
+  (`kind`), then `topics`. Thumbnails are off (enable_publication_thumbnails:
+  false), so al_folio_core's left abbr column is not rendered; the venue badge
+  uses that column's markup, and the `abbr` class on the row keeps its styling.
+  Type and topic badges link to the publications page filtered by them.
+
+  Publication filters (see _data/publication_filters.yml): the filter buttons
+  on the publications page link to /publications/#<token>, which the official
+  search box (bib_search) applies. The row also carries each entry's tokens
+  as visually hidden text:
+    type-<kind>    from `kind`   (journal, conference, workshop)
+    topic-<topic>  from `topics` (comma-separated)
+    area-<area>    the areas of _data/publication_filters.yml listing a topic
+    role-*         from the author list: first author (including co-first
+                   authors, marked *), corresponding author (†), editor
+                   (@book entries)
+    venue-<abbr>   from `abbr`
+{%- endcomment -%}
+{%- assign pf_tokens = '' -%}
+
+{%- if entry.kind -%}
+  {%- assign pf_label = entry.kind | strip -%}
+  {%- assign pf_token = pf_label | slugify | prepend: 'type-' -%}
+  {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_token }}{%- endcapture -%}
+{%- endif -%}
+
+{%- if entry.topics -%}
+  {%- assign pf_topics = entry.topics | split: ',' -%}
+  {%- for pf_topic in pf_topics -%}
+    {%- assign pf_label = pf_topic | strip -%}
+    {%- if pf_label != '' -%}
+      {%- assign pf_token = pf_label | slugify | prepend: 'topic-' -%}
+      {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_token }}{%- endcapture -%}
+      {%- for pf_group in site.data.publication_filters -%}
+        {%- for pf_area in pf_group.areas -%}
+          {%- if pf_area.values contains pf_label -%}
+            {%- assign pf_area_token = pf_area.name | slugify | prepend: 'area-' -%}
+            {%- unless pf_tokens contains pf_area_token -%}
+              {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_area_token }}{%- endcapture -%}
+            {%- endunless -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+{%- for pf_author in entry.author_array -%}
+  {%- assign pf_last = pf_author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
+  {%- if site.scholar.last_name contains pf_last and site.scholar.first_name contains pf_author.first -%}
+    {%- if forloop.first or pf_author.last contains '*' -%}
+      {%- capture pf_tokens -%}{{ pf_tokens }} role-first-author{%- endcapture -%}
+    {%- endif -%}
+    {%- if pf_author.last contains '†' -%}
+      {%- capture pf_tokens -%}{{ pf_tokens }} role-corresponding-author{%- endcapture -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if entry.type == 'book' -%}
+  {%- capture pf_tokens -%}{{ pf_tokens }} role-editor{%- endcapture -%}
+{%- endif -%}
+
+{%- if entry.abbr and entry.abbr != 'Proceedings' -%}
+  {%- capture pf_tokens -%}{{ pf_tokens }} {{ entry.abbr | slugify | prepend: 'venue-' }}{%- endcapture -%}
+{%- endif -%}
+{%- assign pb_url = '/publications/' | relative_url -%}
+{%- assign pb_tag = 'margin:0;border:1px solid var(--global-divider-color);background:transparent;font-weight:400;color:var(--global-text-color-light);text-decoration:none;' -%}
+{%- assign pb_type = 'margin:0;border:1px solid var(--global-text-color-light);background:transparent;font-weight:700;color:var(--global-text-color);text-decoration:none;' -%}
+<div class="abbr publication-badges" style="display:flex;flex-wrap:wrap;align-items:center;gap:.3rem;margin-bottom:.4rem;">
+  {%- if entry.abbr -%}
+    {%- if site.data.venues[entry.abbr] -%}
+      {%- assign pb_venue_style = 'margin:0;min-width:4.5rem;' -%}
+      {%- if site.data.venues[entry.abbr].color != blank -%}
+        {%- assign pb_venue_style = pb_venue_style | append: 'background-color:' | append: site.data.venues[entry.abbr].color | append: ';' -%}
+      {%- endif -%}
+      <abbr class="badge rounded" style="{{ pb_venue_style }}">
+        {%- if site.data.venues[entry.abbr].url -%}
+          <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
+        {%- else -%}
+          {{ entry.abbr }}
+        {%- endif -%}
+      </abbr>
+    {%- else -%}
+      <abbr class="badge rounded" style="margin:0;min-width:4.5rem;">{{ entry.abbr }}</abbr>
+    {%- endif -%}
+  {%- endif -%}
+  {%- if entry.kind -%}
+    {%- assign pb_label = entry.kind | strip -%}
+    <a class="badge rounded" href="{{ pb_url }}#{{ pb_label | slugify | prepend: 'type-' }}" style="{{ pb_type }}">{{ pb_label }}</a>
+  {%- endif -%}
+  {%- if entry.topics -%}
+    {%- assign pb_topics = entry.topics | split: ',' -%}
+    {%- for pb_topic in pb_topics -%}
+      {%- assign pb_label = pb_topic | strip -%}
+      {%- if pb_label != '' -%}
+        <a class="badge rounded" href="{{ pb_url }}#{{ pb_label | slugify | prepend: 'topic-' }}" style="{{ pb_tag }}">{{ pb_label }}</a>
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+  <span aria-hidden="true" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;">
+    {{- pf_tokens -}}
+  </span>
+</div>

@@ -2,74 +2,8 @@
   al_folio_core's bib.liquid includes this hook for every entry, right after it
   builds the venue text (`entrytype`), with `entry` in scope (docs/CUSTOMIZE.md).
 
-  1. `additional_info` goes through markdownify, which leaves a trailing
-     newline; the page then shows a space before the ", <month> <year>" that
-     follows ("... (ERA) Track , Dec 2026"). Strip it.
-
-  2. Publication filters (see _data/publication_filters.yml). The filter
-     buttons on the publications page link to /publications/#<token>, which
-     the official search box (bib_search) applies. This hook writes each
-     entry's tokens into the entry as visually hidden text (the visible type
-     and topic tags are _includes/publication_tags.liquid):
-       type-<kind>    from `kind`   (journal, conference, workshop)
-       topic-<topic>  from `topics` (comma-separated)
-       area-<area>    the areas of _data/publication_filters.yml listing a topic
-       role-*         from the author list: first author (including co-first
-                      authors, marked *), corresponding author (†), editor
-                      (@book entries)
-       venue-<abbr>   from `abbr`
+  `additional_info` goes through markdownify, which leaves a trailing newline;
+  the page then shows a space before the ", <month> <year>" that follows
+  ("... (ERA) Track , Dec 2026"). Strip it.
 {%- endcomment -%}
 {%- assign entrytype = entrytype | strip -%}
-
-{%- assign pf_tokens = '' -%}
-
-{%- if entry.kind -%}
-  {%- assign pf_label = entry.kind | strip -%}
-  {%- assign pf_token = pf_label | slugify | prepend: 'type-' -%}
-  {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_token }}{%- endcapture -%}
-{%- endif -%}
-
-{%- if entry.topics -%}
-  {%- assign pf_topics = entry.topics | split: ',' -%}
-  {%- for pf_topic in pf_topics -%}
-    {%- assign pf_label = pf_topic | strip -%}
-    {%- if pf_label != '' -%}
-      {%- assign pf_token = pf_label | slugify | prepend: 'topic-' -%}
-      {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_token }}{%- endcapture -%}
-      {%- for pf_group in site.data.publication_filters -%}
-        {%- for pf_area in pf_group.areas -%}
-          {%- if pf_area.values contains pf_label -%}
-            {%- assign pf_area_token = pf_area.name | slugify | prepend: 'area-' -%}
-            {%- unless pf_tokens contains pf_area_token -%}
-              {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_area_token }}{%- endcapture -%}
-            {%- endunless -%}
-          {%- endif -%}
-        {%- endfor -%}
-      {%- endfor -%}
-    {%- endif -%}
-  {%- endfor -%}
-{%- endif -%}
-
-{%- for pf_author in entry.author_array -%}
-  {%- assign pf_last = pf_author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
-  {%- if site.scholar.last_name contains pf_last and site.scholar.first_name contains pf_author.first -%}
-    {%- if forloop.first or pf_author.last contains '*' -%}
-      {%- capture pf_tokens -%}{{ pf_tokens }} role-first-author{%- endcapture -%}
-    {%- endif -%}
-    {%- if pf_author.last contains '†' -%}
-      {%- capture pf_tokens -%}{{ pf_tokens }} role-corresponding-author{%- endcapture -%}
-    {%- endif -%}
-  {%- endif -%}
-{%- endfor -%}
-{%- if entry.type == 'book' -%}
-  {%- capture pf_tokens -%}{{ pf_tokens }} role-editor{%- endcapture -%}
-{%- endif -%}
-
-{%- if entry.abbr and entry.abbr != 'Proceedings' -%}
-  {%- capture pf_tokens -%}{{ pf_tokens }} {{ entry.abbr | slugify | prepend: 'venue-' }}{%- endcapture -%}
-{%- endif -%}
-
-{%- capture entrytype -%}
-  {{- entrytype -}}
-  <span aria-hidden="true" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;">{{ pf_tokens }}</span>
-{%- endcapture -%}
