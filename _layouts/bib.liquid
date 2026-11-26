@@ -66,11 +66,8 @@
     {% include publication_badges.liquid %}
     <!-- Title -->
     <div class="title">
-      {{- entry.title -}}
-      {%- if entry.title_ja -%}
-        <br>
-        <span style="font-size: 0.8em">{{ entry.title_ja }}</span>
-      {%- endif -%}
+      {{ entry.title -}}
+      {%- include publication_title_ja.liquid %}
     </div>
     <!-- Author -->
     <div class="author">
@@ -276,13 +273,6 @@
           <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
         {% else %}
           <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
-        {% endif %}
-      {% endif %}
-      {% if entry.slides2 %}
-        {% if entry.slides2 contains '://' %}
-          <a href="{{ entry.slides2 }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
-        {% else %}
-          <a href="{{ entry.slides2 | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
         {% endif %}
       {% endif %}
       {% if entry.website %}

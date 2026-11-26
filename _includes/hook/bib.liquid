@@ -2,8 +2,16 @@
   al_folio_core's bib.liquid includes this hook for every entry, right after it
   builds the venue text (`entrytype`), with `entry` in scope (docs/CUSTOMIZE.md).
 
-  `additional_info` goes through markdownify, which leaves a trailing newline;
-  the page then shows a space before the ", <month> <year>" that follows
-  ("... (ERA) Track , Dec 2026"). Strip it.
+  This site does not show the venue line ("In Proceedings of ..., Mar 2026"):
+  the venue badge and the year headings already say where and when. The line
+  keeps only the entry's `additional_info` (for example "ERA Track", or a
+  link to the slides of a second talk), so entries without it get no line.
+  Clearing the month and year stops bib.liquid from appending them.
 {%- endcomment -%}
-{%- assign entrytype = entrytype | strip -%}
+{%- capture entrytype -%}
+  {%- if entry.additional_info -%}
+    {{- entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' | strip -}}
+  {%- endif -%}
+{%- endcapture -%}
+{%- assign entrymonth = '' -%}
+{%- assign entryyear = '' -%}

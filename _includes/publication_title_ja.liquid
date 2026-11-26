@@ -1,0 +1,9 @@
+{%- comment -%}
+  A paper's Japanese title (`title_ja` in papers.bib), shown under the English
+  title in a smaller font, as on the grants page. Included from the title line
+  of the site's override of al_folio_core's _layouts/bib.liquid.
+{%- endcomment -%}
+{%- if entry.title_ja -%}
+  <br>
+  <span style="font-size: 0.8em">{{ entry.title_ja }}</span>
+{%- endif -%}

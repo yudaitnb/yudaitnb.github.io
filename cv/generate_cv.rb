@@ -420,7 +420,9 @@ class CvGenerator
     venue = [field(entry, :journal), field(entry, :booktitle), field(entry, :howpublished), field(entry, :publisher)]
             .find { |value| !value.empty? }
     details = []
-    details << "In #{venue}#{additional_info_text(entry)}" unless venue.empty?
+    details << "In #{venue}" unless venue.empty?
+    info = CvLatex.plain(additional_info_markdown(entry))
+    details << info unless info.empty?
     details << "Vol. #{field(entry, :volume)}" unless field(entry, :volume).empty?
     details << "No. #{field(entry, :number)}" unless field(entry, :number).empty? || field(entry, :number).strip.empty?
     details << "pp. #{field(entry, :pages)}" unless field(entry, :pages).empty?
@@ -689,7 +691,9 @@ class CvGenerator
 
   def publication_details_tex(entry, venue)
     parts = []
-    parts << CvLatex.latex_raw_plain("In #{clean_bib_text(venue)}#{additional_info_text(entry)}") unless venue.to_s.empty?
+    parts << CvLatex.latex_raw_plain("In #{clean_bib_text(venue)}") unless venue.to_s.empty?
+    info = additional_info_markdown(entry)
+    parts << CvLatex.latex_with_links(info) unless info.empty?
     parts << CvLatex.latex_raw_plain("Vol. #{field(entry, :volume)}") unless field(entry, :volume).empty?
     parts << CvLatex.latex_raw_plain("No. #{field(entry, :number)}") unless field(entry, :number).empty? || field(entry, :number).strip.empty?
     parts << CvLatex.latex_raw_plain("pp. #{field(entry, :pages)}") unless field(entry, :pages).empty?
@@ -722,9 +726,19 @@ class CvGenerator
     MONTHS.fetch(value.to_s.downcase[0, 3], 0)
   end
 
-  # bib.liquid appends `additional_info` (Markdown) right after the venue.
-  def additional_info_text(entry)
-    clean_bib_text(field(entry, :additional_info)).gsub(/(\*\*?)(.+?)\1/, "\\2")
+  # `additional_info` (Markdown) is shown on its own line on the site, for
+  # example "ERA Track" or "Also presented at ... ([slides](/assets/pdf/...))".
+  # In the CV it follows the venue. Leading separators are dropped, emphasis
+  # markers removed, and site-relative links made absolute so they work in the
+  # PDF.
+  def additional_info_markdown(entry)
+    text = field(entry, :additional_info).gsub(/[{}]/, "").sub(/\A[\s,.;:]+/, "").strip
+    text = text.gsub(/(\*\*?)(.+?)\1/, "\\2")
+    text.gsub(/\]\((\/[^)\s]*)\)/) { "](#{site_url}#{Regexp.last_match(1)})" }
+  end
+
+  def site_url
+    @site_url ||= yaml("_config.yml")["url"].to_s.chomp("/")
   end
 
   def authors_tex(raw_names)
