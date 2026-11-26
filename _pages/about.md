@@ -9,7 +9,7 @@ profile:
   image: profile_img.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Taken by a friend at <a href="https://maps.app.goo.gl/NJaTsZwx9jkdD4Uo6">the Kaminarimon gate (雷門)</a>
+    <div style="text-align: center">Taken by a friend at <a href="https://maps.app.goo.gl/NJaTsZwx9jkdD4Uo6">the Kaminarimon gate (雷門)</a></div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
