@@ -13,6 +13,7 @@
      entry's type (`kind`) and `topics` as small tag links after the date:
        type-<kind>    from `kind`   (journal, conference, workshop)
        topic-<topic>  from `topics` (comma-separated)
+       area-<area>    the areas of _data/publication_filters.yml listing a topic
        role-*         from the author list: first author (including co-first
                       authors, marked *), corresponding author (†), editor
                       (@book entries)
@@ -42,6 +43,16 @@
       {%- assign pf_token = pf_label | slugify | prepend: 'topic-' -%}
       {%- capture pf_tags -%}{{ pf_tags }}<a href="{{ pf_url }}#{{ pf_token }}" style="{{ pf_tag_style }}">{{ pf_label }}</a>{%- endcapture -%}
       {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_token }}{%- endcapture -%}
+      {%- for pf_group in site.data.publication_filters -%}
+        {%- for pf_area in pf_group.areas -%}
+          {%- if pf_area.values contains pf_label -%}
+            {%- assign pf_area_token = pf_area.name | slugify | prepend: 'area-' -%}
+            {%- unless pf_tokens contains pf_area_token -%}
+              {%- capture pf_tokens -%}{{ pf_tokens }} {{ pf_area_token }}{%- endcapture -%}
+            {%- endunless -%}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
     {%- endif -%}
   {%- endfor -%}
 {%- endif -%}

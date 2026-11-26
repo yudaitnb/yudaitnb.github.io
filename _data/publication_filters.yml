@@ -4,23 +4,29 @@
 # search box (bib_search) then shows only the entries containing that token.
 # _includes/hook/bib.liquid writes the tokens into each entry:
 #   topic  <- the entry's `topics` field in papers.bib (comma-separated)
+#   area   <- the areas (below) that list one of the entry's topics
 #   type   <- the entry's `kind` field in papers.bib
 #   role   <- derived from the author list (no field needed)
 #   venue  <- the entry's `abbr` field
 # To add a button, add its value here (and tag the entries in papers.bib).
+# A topic may be listed under more than one area.
 
 - title: Topic
   prefix: topic
-  values:
-    - Programming with versions
-    - Gradual typing
-    - GPGPU
-    # - Live programming # no entry is tagged with it yet
-    - Meta-JIT
-    - Multi-stage computation
-    - Ownership typing
-    - Effect handler
-    - Repository mining
+  areas: # each area button links to #area-<slugified name>
+    - name: PL
+      values:
+        - Programming with versions
+        - Gradual typing
+        - Ownership typing
+        - Effect handler
+        - Meta-JIT
+        - Multi-stage computation
+        - GPGPU
+        # - Live programming # no entry is tagged with it yet
+    - name: SE
+      values:
+        - Repository mining
 
 - title: Type
   prefix: type
