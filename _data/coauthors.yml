@@ -1,34 +1,39 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"masuhara":
+  - firstname: ["Hidehiko", "H."]
+    url: https://prg.comp.isct.ac.jp/people/masuhara/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"aotani":
+  - firstname: ["Tomoyuki", "T."]
+    url: https://taotani.wordpress.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"igarashi":
+  - firstname: ["Atsushi", "A."]
+    url: https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/index.html.en
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"sekiyama":
+  - firstname: ["Taro", "T."]
+    url: https://skymountain.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"lubis":
+  - firstname: ["Luthfan", "L.", "L. A.", "Luthfan Anshar"]
+    url: https://ansharlubis.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"kasuya":
+  - firstname: ["Satsuki", "S."]
+    url: https://satsuki942.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"chen":
+  - firstname: ["Peien", "P."]
+    url: https://pe200012.github.io/pe200012
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"yoshimura":
+  - firstname: ["Yusei", "Y."]
+    url: https://prg.comp.isct.ac.jp/people/yoshimura/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"kiuchi":
+  - firstname: ["Kosuke", "K."]
+    url: https://prg.comp.isct.ac.jp/people/kiuchi/
+
+"nakamaru":
+  - firstname: ["Tomoki", "T."]
+    url: https://tomokinakamaru.github.io/

@@ -1,0 +1,244 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%
+% This file is generated from cv/template.tex.erb.
+% Generated on <%= cv[:generated_on] %>.
+%------------------------
+
+\documentclass[11pt]{article}
+
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else
+  \usepackage{fontspec}
+  \ifXeTeX
+    \usepackage{xeCJK}
+    \IfFontExistsTF{Noto Serif CJK JP}{
+      \setCJKmainfont[
+        BoldFont={Noto Serif CJK JP Bold},
+        AutoFakeSlant=0.15
+      ]{Noto Serif CJK JP}
+    }{
+      \setCJKmainfont[
+        BoldFont={IPAexGothic},
+        AutoFakeSlant=0.15
+      ]{IPAexMincho}
+    }
+    \IfFontExistsTF{Noto Sans CJK JP}{
+      \setCJKsansfont[
+        BoldFont={Noto Sans CJK JP Bold},
+        AutoFakeSlant=0.15
+      ]{Noto Sans CJK JP}
+    }{
+      \setCJKsansfont[
+        BoldFont={IPAexGothic},
+        AutoFakeSlant=0.15
+      ]{IPAexGothic}
+    }
+    \IfFontExistsTF{Noto Sans Mono CJK JP}{
+      \setCJKmonofont{Noto Sans Mono CJK JP}
+    }{
+      \setCJKmonofont{IPAexGothic}
+    }
+  \fi
+\fi
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{tikz}
+\usepackage{graphicx}
+\ifPDFTeX
+  \input{glyphtounicode}
+\fi
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+\newcolumntype{D}{>{\raggedleft\arraybackslash}p{1.45in}}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\ifPDFTeX
+  \pdfgentounicode=1
+\fi
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabularx}{0.97\textwidth}[t]{L D}
+      \textbf{\normalsize #1} & \small #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabularx}\vspace{-7pt}
+}
+
+\newcommand{\resumeWideSubheading}[3]{
+  \vspace{-2pt}\item
+    \begin{tabularx}{0.97\textwidth}[t]{L D}
+      \textbf{\normalsize #1} & \small #2 \\
+      \multicolumn{2}{@{}p{0.97\textwidth}@{}}{\textit{\small #3}} \\
+    \end{tabularx}\vspace{-7pt}
+}
+
+\newcommand{\resumePublicationHeading}[5]{
+  \vspace{-2pt}\item
+    \begin{tabularx}{0.97\textwidth}[t]{L D}
+      \textbf{\normalsize #1} & \small #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+      \multicolumn{2}{@{}p{0.97\textwidth}@{}}{\small #5} \\
+    \end{tabularx}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabularx}{0.97\textwidth}{L D}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabularx}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabularx}{0.97\textwidth}{L D}
+      \normalsize #1 & \small #2 \\
+    \end{tabularx}\vspace{-7pt}
+}
+
+\newcommand{\serviceSep}{\hspace{0.3em}\textbullet\hspace{0.3em}}
+
+\newcommand{\resumeServiceGroup}[2]{
+  \item
+    \parbox[t]{0.97\textwidth}{\raggedright\small\textbf{\normalsize #1}\\[-1pt]{\leftskip=0.08in #2\par}}\vspace{2pt}
+}
+
+\newcommand{\resumeServiceYear}[2]{
+  \noindent\hangindent=0.58in\hangafter=1\textbf{#1}: #2\par
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeServiceListStart}{\begin{itemize}[leftmargin=0.15in, label={}, itemsep=2pt, topsep=0pt, parsep=0pt, partopsep=0pt]}
+\newcommand{\resumeServiceListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+\begin{center}
+\begin{minipage}[c]{0.05\textwidth}
+\-\
+\end{minipage}
+<% if cv[:profile_image_tex] -%>
+\begin{minipage}[c]{0.25\textwidth}
+\begin{tikzpicture}
+    \clip (0,0) circle (1.75cm);
+    \node at (0.05,-1.0) {\includegraphics[width = 6cm]{<%= helper.url(cv[:profile_image_tex]) %>}};
+\end{tikzpicture}
+\end{minipage}
+<% end -%>
+\begin{minipage}[c]{0.4\textwidth}
+    \textbf{\Huge \scshape{<%= helper.latex(cv[:name]) %>}} \\ \vspace{1pt}
+    \\
+    Email: \href{mailto:<%= helper.url(cv[:email]) %>}{<%= helper.latex(cv[:email]) %>}\\
+    Website: \href{<%= helper.url(cv[:website]) %>}{<%= helper.latex(cv[:website]) %>}
+\end{minipage}
+\end{center}
+
+\section{Personal Statement}
+<%= helper.latex(cv[:statement]) %>
+
+\section{Research Interest}
+<%= cv[:research][:intro_tex] || helper.latex(cv[:research][:intro]) %>
+<% if cv[:research][:projects].any? -%>
+\resumeItemListStart
+<% (cv[:research][:projects_tex] || cv[:research][:projects].map { |project| helper.latex(project) }).each do |project| -%>
+    \resumeItem{<%= project %>}
+<% end -%>
+\resumeItemListEnd
+<% end -%>
+<% unless cv[:research][:outro].empty? -%>
+<%= cv[:research][:outro_tex] || helper.latex(cv[:research][:outro]) %>
+<% end -%>
+
+<% cv[:sections].each do |section| -%>
+\section{<%= helper.latex(section[:title]) %>}
+<% if section[:groups] -%>
+  \resumeServiceListStart
+<% section[:groups].each do |group| -%>
+    \resumeServiceGroup{<%= helper.latex(group[:title]) %>}{
+<% group[:items].each do |item| -%>
+      \resumeServiceYear{<%= helper.latex(item[:year]) %>}{<%= item[:services_tex].join("\\serviceSep{}") %>}
+<% end -%>
+    }
+<% end -%>
+  \resumeServiceListEnd
+<% else -%>
+  \resumeSubHeadingListStart
+<% section[:entries].each do |entry| -%>
+<% if entry[:note_tex] && !entry[:note_tex].empty? -%>
+    \resumePublicationHeading
+      {<%= entry[:title_tex] || helper.latex(entry[:title]) %>}{<%= helper.latex(entry[:date]) %>}
+      {<%= entry[:subtitle_tex] || helper.latex(entry[:subtitle]) %>}{<%= entry[:meta_tex] || helper.latex(entry[:meta]) %>}
+      {<%= entry[:note_tex] %>}
+<% else -%>
+<% if entry[:wide_subtitle] -%>
+    \resumeWideSubheading
+      {<%= entry[:title_tex] || helper.latex(entry[:title]) %>}{<%= helper.latex(entry[:date]) %>}
+      {<%= entry[:subtitle_tex] || helper.latex(entry[:subtitle]) %>}
+<% else -%>
+    \resumeSubheading
+      {<%= entry[:title_tex] || helper.latex(entry[:title]) %>}{<%= helper.latex(entry[:date]) %>}
+      {<%= entry[:subtitle_tex] || helper.latex(entry[:subtitle]) %>}{<%= entry[:meta_tex] || helper.latex(entry[:meta]) %>}
+<% end -%>
+<% end -%>
+<% bullets = entry[:bullets_tex] || Array(entry[:bullets]).map { |bullet| helper.latex(bullet) } -%>
+<% if bullets.any? -%>
+      \resumeItemListStart
+<% bullets.each do |bullet| -%>
+        \resumeItem{<%= bullet %>}
+<% end -%>
+      \resumeItemListEnd
+<% end -%>
+<% end -%>
+  \resumeSubHeadingListEnd
+<% end -%>
+
+<% end -%>
+\end{document}
