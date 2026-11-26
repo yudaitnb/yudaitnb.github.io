@@ -16,7 +16,7 @@
   areas: # each area button links to #area-<slugified name>
     - name: PL
       values:
-        - Programming with versions
+        - Programming language with versions
         - Gradual typing
         - Ownership typing
         - Effect handler
