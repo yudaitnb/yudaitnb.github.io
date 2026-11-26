@@ -65,7 +65,13 @@
   <div id="{{ entry.key }}" class="col-sm-12">
     {% include publication_badges.liquid %}
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {{- entry.title -}}
+      {%- if entry.title_ja -%}
+        <br>
+        <span style="font-size: 0.8em">{{ entry.title_ja }}</span>
+      {%- endif -%}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
