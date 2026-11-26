@@ -31,6 +31,15 @@ nav_order: 6
   - Interactive Theorem Proving: <a href="https://softwarefoundations.cis.upenn.edu/">Software Foundations, Volume 1</a>.
   - PL Theory: <a href="https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf">Winskel</a> xor <a href="https://www.cis.upenn.edu/~bcpierce/tapl/">TaPL</a>.
 
+{% comment %} 
+
+#### at Hosei University
+
+- <a class="font-weight-bold">Programming Language Theory and Design</a>, <span style="font-style: italic;">Lecturer</span>. Hosei University.
+  - <a href="https://syllabus.hosei.ac.jp/web/preview.php?no_id=2612432&nendo=2026&gakubueng=AP&t_mode=sp&radd=">2027 Fall (from September)</a>
+
+{% endcomment %}
+
 ---
 
 ## Past Courses
