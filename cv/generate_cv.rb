@@ -543,7 +543,10 @@ class CvGenerator
   end
 
   def extract_email(body)
-    body[/mailto:([^"'>\s]+)/, 1] || "yudaitnb@prg.comp.isct.ac.jp"
+    # about.md renders the address with {% al_email_protect_link "..." %}, which
+    # keeps it out of the built HTML; older versions used a mailto: link.
+    body[/al_email_protect_link\s+["']?([^"'\s%]+@[^"'\s%]+)/, 1] ||
+      body[/mailto:([^"'>\s]+)/, 1] || "yudaitnb@prg.comp.isct.ac.jp"
   end
 
   def clean_data_text(value)

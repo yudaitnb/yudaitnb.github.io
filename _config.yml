@@ -35,7 +35,7 @@ repo_theme_dark: dark # https://github.com/stats-organization/github-stats-exten
 # `user@host` and no `mailto:` for harvesters to scrape, and clicking one copies
 # it to the clipboard instead of opening a mail client.
 # See "Protecting email addresses from scrapers" in docs/CUSTOMIZE.md.
-protect_email: false
+protect_email: true
 
 # Off by default: the free public github-profile-trophy instance is disabled
 # (its Vercel deployment answers HTTP 402 / DEPLOYMENT_DISABLED), so every trophy
@@ -251,6 +251,7 @@ exclude:
   - migrations/
   - vendor
   - cv/ # the CV generator (cv/generate_cv.rb); the CV page itself is _pages/cv.md
+  - assets/json/resume.json # unused JSON Resume copy; it contains the e-mail address
   - requirements.txt
   - test/
 keep_files:
